@@ -1,0 +1,2 @@
+﻿# ads.txt — Google AdSense 승인 후 계정 > ads.txt 항목의 값을 여기에 붙여 넣으세요.
+# 예: google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

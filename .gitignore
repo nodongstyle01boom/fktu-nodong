@@ -14,3 +14,5 @@ tools/bluesky-account.json
 tools/promo-log.txt
 tools/social-outbox/
 
+.netlify
+netlify.toml

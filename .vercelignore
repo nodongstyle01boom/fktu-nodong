@@ -8,3 +8,5 @@
 *.key
 tools/
 README.md
+.netlify
+netlify.toml

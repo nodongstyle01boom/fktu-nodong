@@ -2,570 +2,570 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>한국노총 노동연대</title>
-    <link>https://fktu-nodong.vercel.app/</link>
+    <link>https://nodong.seoulblue.com/</link>
     <description>노동 소식, 노동 기초 지식, 성명과 오피니언을 모아 올립니다.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 24 Sep 2026 17:40:58 +0900</lastBuildDate>
-    <atom:link href="https://fktu-nodong.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Wed, 21 Oct 2026 12:48:38 +0900</lastBuildDate>
+    <atom:link href="https://nodong.seoulblue.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>근로자성 판단 — 계약서 이름보다 실제 지배종속</title>
-      <link>https://fktu-nodong.vercel.app/articles/worker-status-checklist.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/worker-status-checklist.html</guid>
+      <title>특수고용·플랫폼 노동 — 노동자성 문제</title>
+      <link>https://nodong.seoulblue.com/articles/platform-special-employment</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/platform-special-employment</guid>
       <category>지식</category>
-      <description>대표이사·프리랜서·특고에서 근로자성을 가르는 실무 기준 체크리스트</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:58 +0900</pubDate>
-    </item>
-    <item>
-      <title>노조 탄압·차별 대응 — 부당노동행위로 남기는 법</title>
-      <link>https://fktu-nodong.vercel.app/articles/union-suppression-response.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/union-suppression-response.html</guid>
-      <category>지식</category>
-      <description>가입 강요 금지·불이익 처우·교섭 거부를 어떻게 기록하고 구제할지</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:58 +0900</pubDate>
-    </item>
-    <item>
-      <title>노조 회계·조합비·전임자 — 운영의 기본</title>
-      <link>https://fktu-nodong.vercel.app/articles/union-finance-and-officers.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/union-finance-and-officers.html</guid>
-      <category>지식</category>
-      <description>노동조합 회계 원칙, 조합비 징수, 전임자 급여 처리 안내</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:58 +0900</pubDate>
-    </item>
-    <item>
-      <title>병가와 무급휴직 — 회사가 정할 수 있는 범위</title>
-      <link>https://fktu-nodong.vercel.app/articles/sick-leave-unpaid-leave.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/sick-leave-unpaid-leave.html</guid>
-      <category>지식</category>
-      <description>유급병가의 법적 근거, 무급휴직 승인, 요양 중 해고 제한과의 관계</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:58 +0900</pubDate>
+      <description>← 지식 목록 특수고용·플랫폼 노동 — 노동자성 문제 안내·해설 일반 교육용 정리 · 법률 자문 아님 플랫폼·특수고용 노동은 계약서상 '사업자'라도 사실은 지휘 아래 일하는 경우 가 많습니다. 판단은 실태로 합니다. 무엇이 쟁점인가 노동자성은 업무 내용·수행 방식·시간·장소에 대한 구속 여부, 대체 가능성, 보수 구조를 종합해 판단한다. 배차 알고리즘, 평가 등급, 수수료 구조가 사실상의 지휘·통제라면 노동자성 판단에서 중요한 근거가 된다. 현재의 보호 범위 산업재해보상보험과 고용보험은 적용 범위가 단계적으로 넓어져 특수고용·플랫폼 종사자도 해당되는 경우가 있다. 노동조합법상 노조 설립·교섭 관련 판단도 개별 사안마다 달라져 왔다. 같은 업종이라도 계약 구조에 따라 결론이 다르다. 기록해 둘 자료 앱 화면, 배차·운행·정산 내역, 수수료 내역을 주기적으로 캡처해 둔다. 앱이 바뀌면 과거 데이터에 접근하지 못할 수 있다. 계약서, 위촉장, 교육 자료, 메신저 공지를 보관한다. '회사가 무엇을 요구했는지'가 통제 여부의 근거가 된다. 소득·지출 내역과 사고 이력을 정리해 두면 보험·보상 절차에서 그대로 쓰인다. 함께 볼 것 근로자성 여부와 무관하게 안전·보험·불공정 계약 문제는 별도로 다툴 수 있다. 같은 업종 조합이나 단체와 정보를 공유하는 것이 빠르다. 이 글은 일반 안내입니다. 노동자성 판단과 제도 적용 범위는 계속 변하고 있습니다. 실제 사안은 상담·노무사·변호사 확인이 필요합니다. 남겨야 할 기록 앱 지시·정산 내역, 작업 거부·중개 변경 이력 실제 소요 시간·이동 경로·플랫폼 보험 가입 표시 근로자성 인정 시 근로기준법·산재·퇴직급여가 연결됩니다 — 근로자성 체크리스트 참고 제도와 근로자성 구분 고용보험·산재 특례 적용 ≠ 근로기준법 전면 적용 플랫폼 약관·수수료 구조도 함께 보관하세요. 심층 판단 기준: 근로자성 체크리스트</description>
+      <pubDate>Wed, 21 Oct 2026 12:48:38 +0900</pubDate>
     </item>
     <item>
       <title>퇴직금 IRP 지급 — 언제 꼭 이전해야 하나</title>
-      <link>https://fktu-nodong.vercel.app/articles/severance-irp-payment.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/severance-irp-payment.html</guid>
+      <link>https://nodong.seoulblue.com/articles/severance-irp-payment</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/severance-irp-payment</guid>
       <category>지식</category>
-      <description>퇴직금을 IRP 계좌로 받아야 하는 경우와 예외, 세금 처리까지 정리</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:58 +0900</pubDate>
-    </item>
-    <item>
-      <title>공휴일·대체휴일 — 유급인가 무급인가</title>
-      <link>https://fktu-nodong.vercel.app/articles/public-holiday-rest-day.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/public-holiday-rest-day.html</guid>
-      <category>지식</category>
-      <description>주휴일·공휴일·대체휴일의 구분, 휴일근로 가산수당과의 관계</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:58 +0900</pubDate>
-    </item>
-    <item>
-      <title>특수고용·플랫폼 노동 — 노동자성 문제</title>
-      <link>https://fktu-nodong.vercel.app/articles/platform-special-employment.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/platform-special-employment.html</guid>
-      <category>지식</category>
-      <description>특수고용·플랫폼 종사자의 노동자성 판단 기준과 보호 제도 안내</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:58 +0900</pubDate>
-    </item>
-    <item>
-      <title>노동쟁의 조정·중재 — 노동위원회 활용</title>
-      <link>https://fktu-nodong.vercel.app/articles/labor-dispute-mediation.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/labor-dispute-mediation.html</guid>
-      <category>지식</category>
-      <description>조정·중재 절차의 차이, 신청 방법, 노동위원회의 역할 안내</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:58 +0900</pubDate>
-    </item>
-    <item>
-      <title>정리해고 — 요건과 절차</title>
-      <link>https://fktu-nodong.vercel.app/articles/mass-layoff.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/mass-layoff.html</guid>
-      <category>지식</category>
-      <description>경영상 해고의 실질·절차 요건과 대응 시 확인 사항 안내</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:58 +0900</pubDate>
-    </item>
-    <item>
-      <title>포괄임금 — 언제 문제가 되나</title>
-      <link>https://fktu-nodong.vercel.app/articles/inclusive-wage-problem.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/inclusive-wage-problem.html</guid>
-      <category>지식</category>
-      <description>포괄임금 계약의 구조, 최저임금·가산수당 착시, 실무 점검 순서</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:58 +0900</pubDate>
-    </item>
-    <item>
-      <title>취업규칙 — 작성과 불이익 변경</title>
-      <link>https://fktu-nodong.vercel.app/articles/employment-rules-change.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/employment-rules-change.html</guid>
-      <category>지식</category>
-      <description>취업규칙의 작성·신고 의무, 불이익 변경 시 동의 요건 안내</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:58 +0900</pubDate>
-    </item>
-    <item>
-      <title>해고예고와 해고수당 — 30일의 의미</title>
-      <link>https://fktu-nodong.vercel.app/articles/dismissal-notice-pay.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/dismissal-notice-pay.html</guid>
-      <category>지식</category>
-      <description>해고예고 의무, 예고 없는 해고 시 통상임금 30일분, 서면통지와의 관계</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:58 +0900</pubDate>
-    </item>
-    <item>
-      <title>임금명세서 — 교부 의무와 활용법</title>
-      <link>https://fktu-nodong.vercel.app/articles/payroll-statement.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/payroll-statement.html</guid>
-      <category>지식</category>
-      <description>임금명세서에 담겨야 할 항목, 받지 못할 때의 대응, 임금 다툼에서의 활용</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:26 +0900</pubDate>
-    </item>
-    <item>
-      <title>플랫폼·배달 종사자 — 산재와 고용보험</title>
-      <link>https://fktu-nodong.vercel.app/articles/platform-insurance.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/platform-insurance.html</guid>
-      <category>지식</category>
-      <description>특수형태근로종사자와 플랫폼 종사자가 적용받는 보험 제도</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:26 +0900</pubDate>
-    </item>
-    <item>
-      <title>원·하청 구조와 사용자 책임</title>
-      <link>https://fktu-nodong.vercel.app/articles/subcontract-liability.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/subcontract-liability.html</guid>
-      <category>지식</category>
-      <description>도급·용역·파견의 구분과 원청의 책임 범위를 정리한 안내</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:26 +0900</pubDate>
-    </item>
-    <item>
-      <title>직장 내 괴롭힘 — 신고 이후 절차와 대응</title>
-      <link>https://fktu-nodong.vercel.app/articles/harassment-report-process.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/harassment-report-process.html</guid>
-      <category>지식</category>
-      <description>신고를 접수한 회사가 해야 할 조사 절차, 신고자의 권리와 불이익 금지</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:26 +0900</pubDate>
-    </item>
-    <item>
-      <title>연장·야간·휴일수당 — 청구 준비</title>
-      <link>https://fktu-nodong.vercel.app/articles/overtime-allowance-claim.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/overtime-allowance-claim.html</guid>
-      <category>지식</category>
-      <description>가산수당이 붙는 조건, 근무시간 기록 만들기, 청구 전 정리 순서</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:26 +0900</pubDate>
-    </item>
-    <item>
-      <title>직장 내 괴롭힘 예방 — 사업주와 노조의 역할</title>
-      <link>https://fktu-nodong.vercel.app/articles/employer-harassment-duty.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/employer-harassment-duty.html</guid>
-      <category>지식</category>
-      <description>예방 교육·신고 체계·조사 절차를 사업장 규범으로 만드는 방법</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:26 +0900</pubDate>
-    </item>
-    <item>
-      <title>고용보험 급여 — 육아휴직·출산전후 휴가</title>
-      <link>https://fktu-nodong.vercel.app/articles/employment-insurance-leave-benefits.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/employment-insurance-leave-benefits.html</guid>
-      <category>지식</category>
-      <description>육아휴직급여와 출산전후휴가 급여의 신청 요건, 회사가 해야 할 일</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:26 +0900</pubDate>
+      <description>← 지식 목록 퇴직금 IRP 지급 — 언제 꼭 이전해야 하나 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-24 · 정리: 한국노총 노동연대 일정 조건이 되면 회사는 퇴직금을 근로자가 지정한 IRP(개인형퇴직연금) 계좌 로 지급해야 합니다. 현금으로 그냥 받을지, IRP로 받을지는 퇴직 전에 정하세요. 원칙과 예외 원칙(2022. 4. 14. 이후 퇴직) : 퇴직급여는 IRP 등 근로자 지정 계좌로 지급. 예외 : 55세 이후 퇴직, 퇴직급여 300만 원 이하, 사망·외국인 출국 등 법이 정한 경우 — 현금 지급 가능. IRP로 전액 이전하면 퇴직소득세를 회사가 원천징수하지 않고, 나중에 수령 시 과세됩니다(과세이연). 퇴직 전 체크 IRP 계좌 개설 여부와 지급 요청서 제출 기한을 확인하세요. 회사가 “현금으로 주겠다”고 해도 법정 예외에 해당하는지 근거를 요구하세요. 퇴직금·퇴직연금(DB/DC) 구조는 퇴직급여 유형 글을 함께 보세요. 세금 IRP 이전 시 퇴직소득세 이연 → 연금소득 또는 일시금 수령 시점에 과세. 현금 수령이 가능한 예외 사유에서는 회사가 원천징수할 수 있습니다. 일반 안내입니다. 세액·예외 판단은 개별 상황에 따라 다르므로 세무사·공인노무사 또는 근로자퇴직급여보장법 전문 상담을 받으세요. 퇴직 전 한 장 요약 퇴직일 ____ · 지급액 ____ · IRP 예외 해당 여부: ____ IRP 지정 계좌: ____ · 지급요청서 제출일: ____ 세액 안내문 보관 위치: ____ 퇴직금 산정이 의심되면 평균임금 · 퇴직금 글을 대조하세요. 자주 나오는 질문 Q. 현금으로 받았는데 불이익이 있나? — 예외 사유가 아닌데 현금이면 회사 귀책 문제가 될 수 있습니다. Q. IRP를 안 열면? — 지정 계좌가 없어 지급이 지연될 수 있으니 퇴직 전 개설이 안전합니다. 반드시 이전해야 하는 경우 퇴직 시점에 _IRP 계좌가 남아 있는 경우 , 잔액은 본인 계좌로 이전·지급되어야 합니다. 회사편의를 위해 편의를 보관 상태로 두는 것은 원칙이 아닙니다. 지급이 지연되거나 일부만 처리된 경우에는 정산 기준과 잔액 을 문서로 요구합니다. 나중에 이의 제기할 수 있는 근거는 남겨 둔 기록입니다. 이전 시점과 세금은 계정 종류와 이전 방식 에 따라 달라집니다. 수수료·과세 방식이 다르면 금액이 달라지므로, 처리 직전에 기준을 확인합니다. 중간에 퇴직금을 정산받은 경우에는 최종 퇴직 시 다시 산정 해야 합니다. 정산이 완료되었다고 퇴직금 처리가 끝난 것은 아닙니다. 퇴직 전 점검 계좌 종류(개인형/사업형)와 말소·해지 여부, 잔액 규모를 확인합니다. 지급 대상자와 계좌를 서면으로 확인합니다. 이의가 있을 때 연락할 수 있는 담당자와 방법까지 적어 둡니다. 중간정산 내역이 있다면 정산서를 찾아 기준일을 확인합니다. 최종 산정과의 연결을 설명할 수 있어야 합니다. 이전 완료 확인을 서면으로 받습니다. "처리했다"는 구두 확인만으로는 나중에 확인이 어렵습니다. 자주 묻는 질문 회사가 제때 지급하지 않으면 어떻게 하나요? 임금성 자료로 다루는 사안이며, 사안에 따라 절차가 달라집니다. 지급 예정일과 잔액 규모를 확인한 뒤 검토받으세요. 중간정산을 이미 받았는데 잔액이 없을 수도 있나요? 있습니다. 최종 정산 결과에 따라 잔액이 없을 수 있으므로, 정산서와 최종 산정 내역을 함께 확인해야 확정됩니다. 개인형과 사업형의 차이가 뭔가요? 계좌의 성격과 세금 처리 방식이 다릅니다. 회사에서 어느 형태를 적용했는지, 그에 맞는 지급이 이루어졌는지 확인하는 것이 먼저입니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:48:21 +0900</pubDate>
     </item>
     <item>
       <title>차별과 평등 — 무엇이 문제가 되나</title>
-      <link>https://fktu-nodong.vercel.app/articles/equality-non-discrimination.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/equality-non-discrimination.html</guid>
+      <link>https://nodong.seoulblue.com/articles/equality-non-discrimination</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/equality-non-discrimination</guid>
       <category>지식</category>
-      <description>성별·고용형태·연령 등에 따른 차별 금지와 대응 방법 안내</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:26 +0900</pubDate>
-    </item>
-    <item>
-      <title>5인 미만 사업장 — 적용되는 법과 그렇지 않은 법</title>
-      <link>https://fktu-nodong.vercel.app/articles/five-employee-workplace.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/five-employee-workplace.html</guid>
-      <category>지식</category>
-      <description>해고예고·연차·취업규칙 등 5인 미만에서 달라지는 지점을 정리</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:26 +0900</pubDate>
-    </item>
-    <item>
-      <title>탄력·선택·재량근로제 — 무엇이 다른가</title>
-      <link>https://fktu-nodong.vercel.app/articles/flexible-working-hours.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/flexible-working-hours.html</guid>
-      <category>지식</category>
-      <description>유연근로제도의 종류, 도입 요건, 적용 시 확인할 사항 안내</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:26 +0900</pubDate>
-    </item>
-    <item>
-      <title>외국인 근로자 — 입국부터 권리까지</title>
-      <link>https://fktu-nodong.vercel.app/articles/foreign-workers.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/foreign-workers.html</guid>
-      <category>지식</category>
-      <description>고용허가제 구조, 외국인 근로자의 노동권, 현장에서 자주 겪는 문제 안내</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:26 +0900</pubDate>
-    </item>
-    <item>
-      <title>특수고용·프리랜서 — 근로자성은 어떻게 판단하나</title>
-      <link>https://fktu-nodong.vercel.app/articles/dependent-contractor-status.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/dependent-contractor-status.html</guid>
-      <category>지식</category>
-      <description>계약서 이름과 실제 근무 형태가 다를 때, 근로자성을 판단하는 기준</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:26 +0900</pubDate>
-    </item>
-    <item>
-      <title>징계 — 감봉·정직·해고의 요건과 대응</title>
-      <link>https://fktu-nodong.vercel.app/articles/disciplinary-action.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/disciplinary-action.html</guid>
-      <category>지식</category>
-      <description>징계의 종류와 한계, 징계위원회 절차, 징계 통보 후 대응 순서</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:26 +0900</pubDate>
-    </item>
-    <item>
-      <title>권고사직 — 거부할 수 있는가</title>
-      <link>https://fktu-nodong.vercel.app/articles/constructive-dismissal.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/constructive-dismissal.html</guid>
-      <category>지식</category>
-      <description>권고사직의 성격, 거부 시 불이익, 실업급여·부당해고와의 관계</description>
-      <pubDate>Thu, 24 Sep 2026 17:40:26 +0900</pubDate>
+      <description>← 지식 목록 차별과 평등 — 무엇이 문제가 되나 안내·해설 일반 교육용 정리 · 법률 자문 아님 차별 문제는 같은 일을 하는데 왜 다른가 에서 시작합니다. 비교 대상과 근거 자료를 만드는 것이 첫 단계입니다. 어떤 차별이 금지되나 성별에 따른 임금·배치·승진·해고 차별은 법으로 금지된다. 같은 가치의 노동에 다른 임금을 주는 것도 문제가 된다. 고용형태(기간제·파견·단시간)를 이유로 한 차별, 연령을 이유로 한 차별도 별도 법률로 금지된다. 무엇을 비교하나 동일 사업장에서 같은 업무를 하는 비교 대상자를 정한다. 업무 내용·책임·근속을 함께 적어야 설득력이 생긴다. 임금·수당·복리후생 항목별로 차이를 표로 정리한다. 총액 차이보다 항목별 차이가 원인을 보여준다. 절차 차별 시정은 노동위원회 등 정해진 절차를 통해 다툴 수 있고, 신청 기간이 정해져 있다. 사안별로 어느 법률이 적용되는지 먼저 확인한다. 사내 신고, 노동청 진정 등을 병행할 수 있다. 어느 창구에 무엇을 제출했는지 기록으로 남긴다. 증명의 어려움 임금 자료는 회사가 갖고 있어 근로자가 직접 확인하기 어렵다. 규정·공고·명세서처럼 손에 남는 자료를 모은다. 차별을 주장한 뒤 처우가 나빠지면 그 자체가 별개 문제가 된다. 시점과 내용을 계속 기록한다. 이 글은 일반 안내입니다. 차별 여부 판단은 비교 대상과 업무의 동질성에 달려 있어 전문가 검토가 필요합니다. 차별을 기록하는 방법 비교 대상: 같은 업무·같은 조건에서 받은 처우 차이(급여·평가·전배·징계) 자료: 근로계약·급여명세·평가표·인사발령·메신저 발언 사업주 내부 민원 창구 → 미해결 시 인권위·고용노동청·노동위 경로를 상황별로 선택 성희롱·괴롭힘 결합 사안은 성희롱 · 괴롭힘 절차와 병행 검토 비교의 기준을 먼저 정하기 차별 다툼의 출발점은 “비교 가능한 사람” 을 정하는 일입니다. 같은 직무·같은 근무 형태·같은 계약 조건인 사람 중 누가 유리했는지가 먼저 정리되어야 합니다. 비교 대상이 같은 배치인지, 유사한 배치인지 구분합니다. 직무가 다르면와처리 과정·평가 기준의 차이를 먼저 확인합니다. “남은 게 없다”는 서술보다 기준과 절차 을 남깁니다. 평가 기준이 문서로 되어 있는지, 그 문서가 언제 만들어졌는지가 중요합니다. 차별 의도가 입증되지 않아도 결과가 부당하면 다툴 수 있는 경우가 있습니다. 그래서 결과와 과정의 기록 을 함께 모읍니다. 차별을 기록하는 방법 일정·배정·평가·임금·징계 등 구분되는 결정이 일어난 시점 을 날짜와 함께 적습니다. 결정이 없었음이 아니라 기록이 없음인 경우도 많습니다. 구두 지시는 지시자와 시각, 전달 경로를 적습니다. 같은 사람이 반복해서 지시한 경우에는 그 반복 자체가 자료가 됩니다. 기록은 사실관계만 적습니다. 평가나 추측은 나중에 붙입니다. 판단을 섞어 적으면 자료로 쓰기 어려워집니다. 동료 증언은자발적이어야 합니다.증언을 원하지 않는 사람의 서류는 요구하지 않고, 이미 존재하는 기록만 확보합니다. 자주 묻는 질문 차별인지 판단이 안 서면 어디서부터 해야 하나요? 구체적인 사람이 없더라도 “어떤 기준이 있었는지”부터 확인하는 편이 빠릅니다. 기준 문서가 없으면 그 자체가 문제의 출발점이 됩니다. 신고하면 불이익이 있다는 이야기들을 들었는데요? 불이익이 있었다면 그것 자체가 별도로 다룰 사안입니다. 결정의 시각과 순서를 기록해 두면 이후 대응에서 근거가 됩니다. 개인정보를 쓰지 않고 기록할 수 있나요? 가능합니다. 날짜·시각·장소·지시 방향·배정 결과처럼 사실만 적으면, 특정인을 특정하지 않으면서도 상황을 남길 수 있습니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:48:21 +0900</pubDate>
     </item>
     <item>
       <title>출산전후휴가와 육아휴직 — 권리와 복귀</title>
-      <link>https://fktu-nodong.vercel.app/articles/maternity-parental-leave.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/maternity-parental-leave.html</guid>
+      <link>https://nodong.seoulblue.com/articles/maternity-parental-leave</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/maternity-parental-leave</guid>
       <category>지식</category>
-      <description>출산·육아 관련 휴가·휴직 제도와 불이익 금지, 복귀 시 유의점 안내</description>
-      <pubDate>Thu, 24 Sep 2026 17:33:26 +0900</pubDate>
+      <description>← 지식 목록 출산전후휴가와 육아휴직 — 권리와 복귀 안내·해설 일반 교육용 정리 · 법률 자문 아님 출산·육아 관련 제도는 신청하면 보장되는 권리 입니다. 회사의 승인 재량이 아니며, 불이익은 별도로 금지됩니다. 출산전후휴가 출산 전후에 일정 기간 휴가를 사용할 수 있고, 일부 기간은 반드시 사용해야 한다. 급여는 고용보험에서 지급되는 부분과 회사가 부담하는 부분으로 나뉜다. 유산·조산의 경우에도 보호 기간이 정해져 있다. 진단서 등 증빙을 제출할 때 사유를 최소한으로 알리는 방법을 확인한다. 육아휴직 대상 자녀와 근속 요건을 채우면 신청할 수 있다. 반복 사용, 분할 사용이 가능한 범위가 정해져 있다. 신청은 서면으로 하고 접수 사실을 남긴다. 회사가 사실상 거부하거나 불이익을 예고하면 그 자체가 문제가 된다. 회사가 하면 안 되는 것 휴가·휴직을 이유로 해고·불이익 처우를 하는 것은 금지된다. 복직 후 배치·평가에서의 하락도 같은 맥락에서 다퉈볼 수 있다. 휴직자를 해고하려면 별도의 정당한 사유가 필요하고, 복귀 후 일정 기간 보호가 적용된다. 복귀 준비 복직 전에 업무 복귀 계획과 필요한 조정(근무 시간·장소)을 문서로 요청한다. 휴직 기간 중 평가·승진에서 불이익이 있었는지 복귀 후 확인한다. 급여·직급 변동 내역을 기록해 둔다. 이 글은 일반 안내입니다. 급여 지급 주체와 기간, 요건은 법령 개정이 잦습니다. 신청 시점에 고용센터·노무사로 최신 기준을 확인하세요. 복귀 전 체크리스트 □ 휴직 개시·종료 통보를 서면으로 남겼는가 □ 복직 시 원직 또는 동일 수준의 업무를 요구할 근거를 확인했는가 □ 급여·고용보험 공제가 휴직 기간 중 어떻게 되는지 명세로 받았는가 □ 불이익(강등·배제·해고)이 있으면 차별·평등 · 진정 경로를 확인했는가 휴가 사용 순서 정리 출산 전후휴가는 출산 전후 일정 에 따라 시점이 정해지고, 육아휴직은 자녀 출생 이후 시점부터 이어지는 별개의 제도로정리됩니다. 둘을 한 구간으로 계획할지 나누어 쓸지는 미리 정해 두는 편이 편합니다. 복귀 시점에 맞춰 업무 인수인계 를 정리합니다. 휴가 중 업무가 쌓이면 복귀가 어려워지는 것이 실무에서 가장 흔한 문제입니다. 공휴일이 포함되는 구간은 일수 계산 이 헷갈리기 쉽습니다. 적용 계획을 서면으로 받고 날짜별로 표시해 둡니다. 복귀 후 근무시간 조정 요청은 별도 합의 사안입니다. 휴가 기간과 다른 합의된 조건이므로, 복귀 전에 서면으로 정리합니다. 회사가 하면 안 되는 것 휴가 신청·사용 자체를 이유로 불이익을 주거나, 복귀를 방해하는 행위. 서면 요청이 반복될 때 그 경위를 기록합니다. 임금 체불이나 복직 거부. 복귀 시점에 임금과 인사 조치가 함께 이뤄지므로, 그 시점의 기록을 남겨 둡니다. 휴가 중 복직을 거부할 수 있다는 통지. 거부 사유와 통지 방식, 시점을 함께 보관합니다. 자주 묻는 질문 출산 전후휴가와 육아휴직을 이어서 쓸 수 있나요? 구분되는 제도로 이어 쓸 수 있습니다. 다만 각 제도의 대상 기간·요건이 따로 있으므로, 일정표에 두 구간을 나누어 표시하고 확인받으세요. 복귀 후 업무를 줄여달라고 해도 되나요? 가능한지 여부는 합의와 사안에 따라 다릅니다. 서면으로 요청하고 합의된 내용을 기록하는 것이 안전합니다. 근로자가 미리 알려야 하나요? 회사가 사전에 검토할 수 있도록 미리 알리는 편이 현장에서 실용적입니다. 서면(유폰·메일)으로 남기면 나중에 확인이 쉽습니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:48:11 +0900</pubDate>
     </item>
     <item>
-      <title>4대보험과 산재보험 — 가입과 혜택</title>
-      <link>https://fktu-nodong.vercel.app/articles/four-insurances.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/four-insurances.html</guid>
+      <title>탄력·선택·재량근로제 — 무엇이 다른가</title>
+      <link>https://nodong.seoulblue.com/articles/flexible-working-hours</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/flexible-working-hours</guid>
       <category>지식</category>
-      <description>4대보험 가입 요건, 미가입 문제, 산재보험의 특징 안내</description>
-      <pubDate>Thu, 24 Sep 2026 17:33:26 +0900</pubDate>
+      <description>← 지식 목록 탄력·선택·재량근로제 — 무엇이 다른가 안내·해설 일반 교육용 정리 · 법률 자문 아님 유연근로제는 근로시간 계산 방식을 바꾸는 제도 입니다. 도입 요건과 대가 조항을 함께 봐야 합니다. 종류 탄력적 근로시간제는 일정 기간을 평균해 근로시간을 맞추는 방식, 선택적 근로시간제는 출퇴근 시각을 근로자가 정하는 방식이다. 재량근로제는 업무 수행 방법을 근로자가 정하는 경우 정해진 시간을 근로시간으로 보는 제도로, 대상 업무가 법에 한정돼 있다. 간주근로제는 실제 근로시간을 산정하기 어려운 경우 규정된 시간을 근로시간으로 보는 방식이다. 도입 요건 근로자 대표와의 서면 합의가 필요한 제도가 있다. 합의 없이 운영하면 연장·야간수당 계산이 흔들린다. 취업규칙 변경이 필요한 경우 근로자 동의 절차도 함께 확인한다. 현장에서 볼 것 제도 이름과 실제 운영이 다르면 문제가 된다. 재량근로라면서 출퇴근을 통제하면 실질이 다르다. 연장·야간수당이 제도 도입을 이유로 사라지지 않았는지 확인한다. 가산임금 문제는 별개로 남는다. 정산 기간의 시작·종료, 초과분 처리 방법을 문서로 확인해 둔다. 근로자에게 유리하게 쓰기 근로시간이 줄어드는 방향의 선택권(집중근무, 유연 출퇴근)은 단체교섭 안건으로 올릴 수 있다. 운영 실태를 주기적으로 점검해 초과근로가 만성화되지 않았는지 확인한다. 이 글은 일반 안내입니다. 제도별 요건과 대상 업무는 법령에 정해져 있고 개정이 있습니다. 도입 전 최신 기준 확인이 필요합니다. 도입 시 확인 □ 단체협약·취업규칙에 명시·신고 여부 □ 적용 기간·단위·근로시간 산정 방식 □ 초과근로 발생 시 가산수당·합의 여부 □ 실제 근로시간 기록(시작·종료) 확보 — 합의만 있고 기록이 없으면 분쟁 시 불리합니다. 도입할 때 정해 두어야 할 것 대상 범위 — 전원 적용인지, 직무·근무 형태별로 적용하는지. 대상 범위가 좁을수록 “선택권”이라는 명목이 실제 실제로 작동하지 않는 경우가 많습니다. 근무시간 결정권 — 출퇴근 시각을 누가 정하는지, 특정한 시간에 특정 장소에 있어야 하는지. “재택 가능”이어도 사실상 정해진 시간에 접속해야 한다면 유연성의 범위는 좁습니다. 평가 기준 — 재택·선택근무자와 출근근로자의 평가 기준이 같은지, 측정 방식(근무시간 측정·성과 평가)이 어떤지 확인합니다. 비용 부담 — 장비·통신·공간 비용을 누가 부담하는지, 그리고 그 비용이 임금에서 차감되는지 여부. 근로자에게 유리하게 쓰는 법 선택권을 줬다면 실제로 바꿀 수 있는지 가 핵심입니다. 한 번 바꿨을 때 불이익이 있었던 기록이 남으면 다음 선택에서 아무도 쓰지 않습니다. 유연근무 도입 시점의 기준과 문서 를 남깁니다. 사후에 "원래 그런 거였다"는 해석을 막는 가장 싼 방법입니다. 모니터링·평가 기록이 어떻게 남는지 확인합니다. 재택을 둘러싼 감시 강도가 실질적인 통제 수단으로 쓰이는 경우가 있어, 그 기준을 문서로 남기는 것이 중요합니다. 자주 묻는 질문 탄력근무제와 선택근로제 중 무엇을 적용해야 하나요? 둘은 법적 성격이 다릅니다. 근무시간을 미리 정해 두고 바꿀 수 있는 구조인지, 근로자가 정하는 구조인지가 기준이며, 사업장 규모와 협약에 따라 적용 가능성이 달라집니다. 재택근무 중에 아프면? 업무 중 재해가 발생했을 때의 처리 기준을 미리 정해 두는 편이 안전합니다. 일상적 업무의 일부를 재택으로 옮기는 구조에서는 이 기준이 특히 중요합니다. 도입 후 평가가 오히려 나빠진다면? 도입 자체보다 기준 설계 문제일 가능성이 큽니다. 평가 방식이 업무 내용을 반영하지 못하는 경우를 점검하고, 문서화된 기준과 실제 적용 사이의 차이를 기록해 둡니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:48:11 +0900</pubDate>
     </item>
     <item>
       <title>퇴직금 중간정산 — 사유별로 무엇이 다른가</title>
-      <link>https://fktu-nodong.vercel.app/articles/severance-midterm-settlement.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/severance-midterm-settlement.html</guid>
+      <link>https://nodong.seoulblue.com/articles/severance-midterm-settlement</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/severance-midterm-settlement</guid>
       <category>지식</category>
-      <description>임신·출산·요양 등 법정 사유와 합의 사유의 차이, 증빙 서류, 재정산까지 정리</description>
-      <pubDate>Thu, 24 Sep 2026 17:33:26 +0900</pubDate>
+      <description>← 지식 목록 퇴직금 중간정산 — 사유별로 무엇이 다른가 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-24 · 정리: 한국노총 노동연대 퇴직금 중간정산은 퇴직이 아니라 일시 정산 입니다. 정산 후 남은 기간은 다시 1년을 채워야 퇴직금이 생기므로, 신청 전에 시점과 사유를 먼저 확인하세요. 법정 사유와 합의 사유 법정 사유 : 임신·출산·질병 요양 등 근로기준법·근로자퇴직급여보장법이 정한 경우 — 회사가 거부하기 어렵습니다. 합의 사유 : 회사와 합의로 하는 정산 — 합의가 없으면 강제할 수 없습니다. “희망퇴직 형식의 강제 정산”은 문제가 될 수 있습니다. 일부만 받고 “끝”으로 하면 잔여 퇴직금이 사라질 수 있습니다. 정산 금액·기간을 문서로 남기세요. 신청 전 점검 평균임금 산정 기간(최근 3개월)에 휴업·휴직·징계가 있는지 확인 — 특별한 경우의 평균임금이 적용될 수 있습니다. 증빙: 진단서, 출생 관련 서류, 회사 내부 규정 사본. 정산 후 재직기간·중간정산 이력이 남는지 급여명세·내부 기록으로 확인하세요. 자주 나오는 문제 “중간정산했으니 시효가 끊겼다” — 정산받은 금액만 시효가 적용됩니다. 미수령분은 별도입니다. 퇴직금 포기각서·일괄 합의는 효력 다툼이 큽니다. 서명 전 전문가 상담을 권합니다. 5인 미만 사업장도 중간정산 원칙은 동일합니다. 적용 범위는 5인 미만 안내 를 보세요. 현장 체크리스트 □ 정산 사유가 법정인지 합의인지 확인했는가 □ 금액·기간·잔여 재직기간을 문서로 받았는가 □ 평균임금 특이사항(휴직·징계)을 확인했는가 □ 미수령분 시효를 별도로 메모했는가 일반 안내입니다. 개별 정산·시효 판단은 사안마다 다르므로 노조·공인노무사 또는 관할 고용노동청에서 확인하세요. 중간정산, 언제 할 수 있나 중간정산은 사전 고지의 원칙 이 붙습니다. 언제부터 어느 시점까지의 임금인지, 정산 기준일은 언제인지, 잔여 연수는 어떻게 산정하는지를 서면으로 알려야 합니다. 정산 후에도 근로 관계는 이어집니다. 정산서를 받았다고 근무가 끝난 것이 아니며, 이후 입사일이 지나면 다시 계산해야 합니다. "정산 완료 = 퇴직"으로 오해하기 쉽습니다. 평균임금 산정에 들어가는 기준 기간 이 마지막 정산 시점과 직전 3개월 중 무엇을 쓰는지 확인합니다. 기준이 달라지면 금액 차이가 생깁니다. 정산서에 수령 확인 이 포함돼 있으면, 이후에 “그 내용을 몰랐다”는 주장이 어려워집니다. 서명 전에 반드시 확인하고, 조건이 다르면 그 사실을 적어 둡니다. 신청 전에 확인할 것 근로계약서·취업규칙에 정산 조건(자발적 사직, 전환·파견 변경 등)이 어떻게 되어 있는지 확인합니다. 정산 예정일이 이미 지난 시점이라면, 확정서 발급 전에 기준을 다시 맞추는 편이 유리합니다. 동료의 사례를 근거로 기대하는 것은 위험합니다. 같은 회사라도 계약 조건·근무 형태에 따라 정산 결과가 달라집니다. 서명 전에 계산 근거 를 요구합니다. 숫자만 적은 서류보다 산식이 적힌 자료가 나중에 훨씬 쓸모가 있습니다. 자주 묻는 질문 중간정산이 안 되는 경우도 있나요? 확정적 정산 시점이 아직 오지 않았거나,근로계약 조건과 맞지 않는 사유인 경우 등입니다. 조건을 미리 확인하지 않으면 사후에 정산 요구가 어렵습니다. 정산서를 받았는데 다른 사람이 더 많이 받았다고 하면요? 각자의 계약 조건·근무 경로가 달라 금액이 다를 수 있습니다. 비교보다 본인의 산식 확인이 먼저입니다. 정산 후에도 퇴직금 잔액이 남으면 언제 받을 수 있나요? 퇴직 시점에 다시 산정해 지급 대상이 됩니다. 중간정산액을 이미 쓴 상태에서의 최종 지급이 헷갈리기 쉬우니, 정산서 항목과 잔여 연수를 함께 보관하세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:47:15 +0900</pubDate>
     </item>
     <item>
-      <title>직장 내 괴롭힘 — 판단 기준과 대응</title>
-      <link>https://fktu-nodong.vercel.app/articles/workplace-bullying.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/workplace-bullying.html</guid>
+      <title>5인 미만 사업장 — 적용되는 법과 그렇지 않은 법</title>
+      <link>https://nodong.seoulblue.com/articles/five-employee-workplace</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/five-employee-workplace</guid>
       <category>지식</category>
-      <description>직장 내 괴롭힘의 요건, 사업주 의무, 신고와 조사 절차 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
+      <description>← 지식 목록 5인 미만 사업장 — 적용되는 법과 그렇지 않은 법 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-24 · 정리: 한국노총 노동연대 “5인 미만이니까 법이 안 된다”는 말은 절반만 맞습니다. 적용이 제한되거나 달라지는 조항이 있고, 원칙적으로 그대로 적용되는 조항도 많습니다. 자주 달라지는 지점 해고예고수당 : 5인 미만은 해고예고(30일) 의무가 원칙적으로 제외 — 부당해고 자체 금지는 별도로 봅니다. 연차휴가 : 일부 예외·적용 범위가 달라질 수 있으나 유급연차 권리는 사규·관행과 함께 챙겨야 합니다. 취업규칙 신고·징계위원회 등 절차적 의무가 완화되는 조항이 있습니다. 산재보험·퇴직금(일정 기준)·최저임금 등은 5인 미만도 적용되는 영역이 있으므로 “미적용”으로 단정하지 마세요. 그래서 무엇을 할 것인가 상시근로자 수, 주 근로시간, 업종을 기준으로 적용 조항을 항목별로 확인합니다. 임금체불·산재는 5인 미만도 진정·신청이 가능합니다. 임금체불 대응 · 산재 신청 을 참고하세요. 구두 근로계약이면 출퇴근·급여 기록을 더 꼼꼼히 남기세요. 현장 체크리스트 □ 상시근로자 수를 월 단위로 기록했는가 □ 해고·징계 통보를 서면으로 받았는가 □ 4대보험 가입 상태를 확인했는가 □ 관할 고용노동청 상담 번호를 저장했는가 일반 안내입니다. 사업장 규모·업종에 따른 적용 여부는 개별 확인이 필요합니다. 상시근로자 수 기록 표 YYYY-MM: 상시근로자 ____명 · 1주 소정근로시간 ____시간 계약 형태: 정규 ____ · 기간제 ____ · 일용 ____ 관할: 고용노동청 ____ · 문의: 고객센터 1350 월별로 남기면 나중에 적용 범위 다툼에 직접 쓸 수 있습니다. 사업장 규모는 언제 세나 사업장 규모는 상시 근로자 수 로 봅니다. 시용직·일용직·시간제 계약자도 일정 기간 상시 근무하면 포함될 수 있어, 계약 형태만 보고 판단하지 않습니다. 지점·창고·하청 현장처럼 장소가 분리되어 있어도 동일한 사용자 사주인 경우 합산 여부를 따집니다. 확인되지 않은 채 각 현장별로 따로 판단하면 기준이 어긋납니다. 규모와 임금·근로시간·휴가 제도의 적용 범위가 서로 다릅니다. “적용 안 된다”가 아니라 무엇에 적용되고 무엇에 적용되지 않는지 를 나눠서 확인해야 합니다. 무엇을 챙겨야 하나 사업장별 상시 근로자 수 와 그 산정 기준(계약서·근태·급여 명세)을 정리합니다. 수치가 흔들리면 적용 범위도 흔들립니다. 전체 근로 시간 중 사업장 소속 근로자가 차지하는 비중을 계산해 둡니다. 비율에 따라 몇 가지 제도가 적용되지 않습니다. 보험·퇴직금·근로자지원금 항목을 사업장별로 확인하고, 어디에 넣어야 하는지 정리해 둡니다. 월별 정산이 헷갈리기 쉽습니다. 5인 미만으로 관리하던 기간에 누락된 처리가 있었다면, 그 기간을 별도로 정리합니다. 지금부터가 아니라 과거를 포함한 확인이 필요합니다. 자주 묻는 질문 4명인데 근로자성 문제로 한 명 더 잡힌 것 같아요. 상시 근로자 수에는 계약 방식이 아니라 실제 근무 형태가 반영됩니다. 인원 계산 근거를 정리한 뒤, 분류가 맞는지 검토받는 편이 안전합니다. 규모와 5인 이상이 되면 뭐가 달라지나요? 전일제 근로자 5인 이상 사업장에 적용되는 제도가 늘고, 일부 제도는 5인 미만에도 적용됩니다. 어느 항목이 언제부터 달라지는지 서면으로 확인해야 합니다. 하청 기-squared가 있는 경우는요? 하청PLI 실사용 여부에 따라 사업장 범위 판단이 달라질 수 있습니다. 도급·실사용 자료와 근무지휘 관계를 정리해서 검토받으세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:47:15 +0900</pubDate>
     </item>
     <item>
-      <title>직장 내 성희롱 — 예방과 대응</title>
-      <link>https://fktu-nodong.vercel.app/articles/workplace-sexual-harassment.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/workplace-sexual-harassment.html</guid>
+      <title>포괄임금 — 언제 문제가 되나</title>
+      <link>https://nodong.seoulblue.com/articles/inclusive-wage-problem</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/inclusive-wage-problem</guid>
       <category>지식</category>
-      <description>직장 내 성희롱의 범위, 사업주 예방 의무, 신고자 보호 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
+      <description>← 지식 목록 포괄임금 — 언제 문제가 되나 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-24 · 정리: 한국노총 노동연대 포괄임금은 “수당을 월급에 미리 포함했다”는 계약 형태입니다. 포함됐다고 해서 법정 수당 의무가 사라지는 것은 아닙니다. 실제 근로시간과 대비해 최저임금·가산수당이 지켜지는지 봐야 합니다. 문제가 되는 패턴 명목상 고정수당이 크지만 실제 연장·야간·휴일근로가 그보다 많을 때 → 법정 수당 미달 가능성. 최저임금 산입 범위와 공제 항목이 불투명할 때. 근로계약서에 “모든 수당 포함”만 적고 내역을 안 줄 때 — 임금명세서 교부 의무와 충돌합니다. 점검 순서 1) 월 소정근로시간·실제 근무시간 기록 확보 2) 기본급+포함 수당 ÷ 시간 vs 최저임금 비교 3) 야간·휴일 근무 사실이 있으면 가산수당 재계산 4) 명세서·계약서·출퇴근 기록으로 항목 대조 관련: 최저임금 점검 · 근로시간·수당 기초 일반 안내입니다. 계약 내용과 실근로시간에 따라 결론이 달라집니다. 계약서 문구 예시 확인 “기본급 ○원 + 고정수당 ○원(야간·휴일·연장 포함)” → 실제 근무시간 대비 재계산 필수 명세서에 포함 수당이 내역으로 안 나오면 교부 의무 문제로도 연결됩니다. 최저임금 산입에서 제외되는 항목과 공제 항목을 구분하세요 — 최저임금 점검 분쟁 시 청구 구조 미달분(법정 수당·최저임금 차액) + 가산금·지연이자를 항목별로 계산 기록 없으면 출퇴근·앱·근무표·메신저로 실근로시간을 복원 진정 양식: 진정서 작성 문제가 되는 순간의 구조 포함된 항목 — “포괄임금에 포함된 수당”은 지급 명목이 아니라 지급 조건을 봅니다. 매달 일정하게 지급되고, 그 조건과 무관하게 지급된다면 실제 임금으로 보는 것이 기본 원칙입니다. 기본급의 양 — 포괄임금 안에 기본급이 얼마로 잡혀 있는지가 쟁점입니다. 기본급이 퇴직금·평균임금 산정 기준이 되는 경우, 포괄 처리된 항목이 기준에 어떻게 반영되는지 확인이 필요합니다. 근무시간과의 관계 — 연장근로가 있는 사업장에서는 포괄임금이 근무시간 대가까지 포함하는지, 그렇지 않은지가 갈립니다. 근무일지과 임금 명세서를 대조하면 차이가 드러납니다. 규정의 상태 — 취업규칙·근로계약서에 포괄 항목이 명시돼 있는지, 명시돼 있지 않은지는 크게 다릅니다. 문서 없이 구두로만 설명된 구조는 나중에 확인이 어렵습니다. 점검 순서 최근 임금명세서를 받고, 지급 항목 하나하나에 “매달 고정인가, 조건부인가”를 표시합니다. 고정 지급 항목 중 실제 근무량과 무관한 것(연차수당, 상여 성격의 항목 등)을 따로 모읍니다. 해당 항목이 포괄 대상이라고 규정에 적혀 있는지 확인하고, 없으면 “문자 그대로 임금이다”는 사실관계를 정리합니다. 이후 판단이 필요하면 해당 사본을 가지고 노무사·변호사 검토를 받습니다. 서류 정리 없이 구두 상담만 하는 것은 나중에 근거가 남지 않습니다. 자주 묻는 질문 포괄임금이라도 임금 청구가 가능한가요? 지급된 것은 임금입니다. 다만 어떤 기준(평균임금인지 통상임금이인지, 총액인지 항목별인지)이 달라지므로, 산식과 근거 규정을 먼저 확인합니다. 회사 규정에 “포괄”이라고 적혀 있으면 그만두어야 하나요? 규정도 사실도 함께 봅니다. 문서상 포괄이면서 실제로는 고정 지급된 항목은 규정 취지와 맞지 않다는 점이 검토 대상이 됩니다. 기존에 받은 임금에 소급을 청구할 수 있나요? 사안에 따라 기간이 정해지고, 입증할 자료가 결정적입니다. 임금명세서 이력과 규정 원본을 확보한 뒤 검토받으세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:47:15 +0900</pubDate>
     </item>
     <item>
-      <title>근로시간과 연장·야간·휴일수당 기초</title>
-      <link>https://fktu-nodong.vercel.app/articles/working-hours-overtime.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/working-hours-overtime.html</guid>
+      <title>병가와 무급휴직 — 회사가 정할 수 있는 범위</title>
+      <link>https://nodong.seoulblue.com/articles/sick-leave-unpaid-leave</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/sick-leave-unpaid-leave</guid>
       <category>지식</category>
-      <description>법정 근로시간, 연장근로 한도, 가산임금 계산 구조를 정리한 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
+      <description>← 지식 목록 병가와 무급휴직 — 회사가 정할 수 있는 범위 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-24 · 정리: 한국노총 노동연대 “유급병가”는 근로기준법에 일반 조항이 있지 않은 영역입니다. 사규·근로계약·관행 이 있느냐가 핵심이고, 없으면 연차·무급휴직·산재로 이어지는 경로를 봐야 합니다. 경로 구분 사규에 유급병가 : 그 조건대로 사용합니다. 거부 사유를 문서로 받아두세요. 연차·공가 : 남은 연차 또는 회사 공가로 처리되는 경우가 많습니다. 업무상 질병 : 산재 가능성이면 진단·업무 관련성 자료로 산재 신청 을 검토합니다. 회사 반대와 무관하게 신청할 수 있습니다. 무급휴직 : 원칙적 승인이 필요한지, 승인 거부 시 조항 근거를 확인하세요. 요양 중 해고 업무상 부상·질병 요양 기간 및 일정 기간은 해고 제한 대상이 될 수 있습니다. 해고 통보를 받으면 날짜·사유를 서면으로 확보하고 즉시 구제 절차를 검토하세요. 해고 절차 참고. 일반 안내입니다. 병명·업무 관련성·사규에 따라 결론이 달라집니다. 요청서 메모 기간 ____ · 유급공가/연차/무급 중 신청 ____ · 진단서 제출 여부 ____ 거부 시 사규 조항 번호를 요청하고 서면 사유를 받으세요. 업무관련성이 의심되면 회사 반대와 무관하게 산재 가능 시점 내 신고를 우선 검토합니다. 연차·병가 중복 연차를 병가로 쓰면 잔여 연차가 줄어듭니다 — 어느 쪽으로 쓸지 명세에 남기세요. 무급으로 가면 4대보험 공제·연금 중단 구간이 생길 수 있습니다. 구분 전에 확인할 것 샘플링 — 병가(짜증/치료가 필요해 쉬는 것)와 무급휴직(회사가 사유를 정해 쉬게 하는 것)은 결정을 내리는 주체가 다릅니다. 회사가 정한 “무급휴직”은 회사가 정한 것으로 남기면 되지만, 근로자가 자신의 의사로 요청한 휴직은 사안에 따라 처리가 달라집니다. 작성 주체 — 진단서·소견서·의료기관 확인 요청의 대상은 의료기관입니다. 회사에는 서류의 존재와 기간, 그리고 근무 가능 여부를 몇 통으로 알리는 것이 기본입니다. 대기 기간 — 통상적으로 사용할 수 없는 날짜와 유급으로 인정되는 날짜의 기준이 사업장마다 다릅니다. 규정이 없으면 곧바로 서면으로 확인을 요청합니다. 복귀 정리 — 휴직 종료 시 원래 직무로 복귀하는지, 다른 업무로 배치하는지가 쟁점이 됩니다. 시작 전에 서면으로 정해 두면 나중에 “복귀 거부”라는 논쟁이 생기지 않습니다. 요양 중 해고가 먼저 오면 해고 통지를 받으면 통지서와 함께 진단서·요양 사실 을 정리합니다. 이 두 가지를 나란히 두면 “질병을 이유로 한 해고”인지 다른 사유인지가 드러납니다. 요양 기간의 임금, 치료비 지원, 그리고 해고 통지 시점의 요양 상태를 함께 적습니다. 개입 시점은 통지서를 받은 시점입니다. 해고와 별개로, 무급휴직이 회사에 불리하게 작용하는 경우에는 부당해고 절차와 휴직 처리가 서로 엮입니다. 해고 절차 점검 을 함께 보세요. 자주 묻는 질문 회사가 “치료비 본인 부담”으로 정리하면 어떻게 되나요? 유급·무급 기준은 합의된 규정과 사실관계에 따라 결정됩니다. 회사가 임의로 비용을 옮기는 통지는 기록으로 남기고, 적용 기준을 서면으로 확인하는 것이 먼저입니다. 무급휴직이 너무 길어지는데, 중간에 정산을 요구할 수 있나요? 정산 청구 자체는 가능하지만, 어떤 기준으로 계산할지는 합의와 사안에 따라 달라집니다. 휴직 시작 전에 지급 기준을 서면으로 정해 두는 편이 나중에 훨씬 쉽습니다. 연차와 병가를 겹쳐 쓸 수 있나요? 겹쳐 쓸 수 있는지는 병가 인정 요건과 휴가 사용 규정 두 가지를 함께 봅니다. 병원 진단 기간과 실제 결근 기간이 다르면 그 차이까지 기록해 두세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:47:15 +0900</pubDate>
     </item>
     <item>
-      <title>노동조합 설립 — 절차와 준비물</title>
-      <link>https://fktu-nodong.vercel.app/articles/union-setup.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/union-setup.html</guid>
+      <title>해고예고와 해고수당 — 30일의 의미</title>
+      <link>https://nodong.seoulblue.com/articles/dismissal-notice-pay</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/dismissal-notice-pay</guid>
       <category>지식</category>
-      <description>노동조합 설립의 자유, 규약 작성, 설립신고 절차 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
+      <description>← 지식 목록 해고예고와 해고수당 — 30일의 의미 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-24 · 정리: 한국노총 노동연대 해고예고는 해고의 유효 요건을 대체하는 시한 통지 입니다. 예고를 안 했으면 30일분 이상의 통상임금을 내야 하고, 동시에 해고 사유·시점은 여전히 서면으로 정당해야 합니다. 핵심 구조 30일 전 예고 또는 30일분 이상 통상임금 지급 — 둘 중 하나. 계속 근로 3개월 미만 등 법이 정한 예외가 있습니다. 예외가 되더라도 부당해고 판단과는 별개입니다. 해고예고수당은 통상임금 기준 — 평균임금(퇴직금용)과 다릅니다. 받지 못했을 때 해고 통보 서류·날짜·금액 계산 근거를 모으세요. 노동위원회 구제신청 또는 진정으로 다툴 수 있습니다. 기한이 짧으므로 구제신청 글을 먼저 보세요. 실업급여와는 별개 청구입니다. 부당해고 절차와 함께 검토하세요. 일반 안내입니다. 금액 산정·예외 판단은 사안마다 다르습니다. 금액 산정 메모 양식 해고 통보일: ____ · 예고일 미이행 시 “통상임금 × 30일” 기준: ____ 통상임금 범위(기본급·고정성과급 포함 여부): ____ 근로 3개월 미만 등 예외 해당 여부: ____ 증거: 해고통지서·급여명세·근로계약서·인사공지 구제와 병행 청구 해고자체 부당 → 부당해고 구제신청(복직·임금 상당액) 예고수당 미지급만 → 임금 청구·진정으로 분리 가능 둘 다 대상이면 노동위 신청서에 급여 청구를 어떻게 넣을지 미리 확인 30일이 실제로 의미 있는 조건 예고 Notice는 근로계약이 기간제로 정해져 있지 않은 경우 에 적용됩니다. 기간제 계약자에게는 계약 종료 처리가 문제이고, 해고 자체를 다투는 방향이 다릅니다. 예고는 서면 으로 해야 하고, 해고예고서를 고지한 날부터 30일이 지나야 해고가 가능해집니다.구두 통지나 구두 통지는 해고예고의 시점으로 보기 어렵습니다. 30일 기간 중 근무 통지·지시 가 계속되면 해고가 아니라 근무지시로 볼 여지가 생깁니다. 출근 요구를 계속하면서 해고 통지만 나중에 보내는 방식은 자주 다툽니다. 해고예고서를 내고도 해고 전까지 임금 을 지급해야 합니다. 해고예고 수락 여부와 무관하게 예고 기간의 임금은 지급 대상입니다. 해고 후 할 일 정리 해고 통지서를 즉시 촬영·보관합니다. 발급 시각이 적혀 있으면 그 시각부터 기록을 시작합니다. 임금명세서와 입금내역, 최종 근무일 전까지의 근태 기록을 챙깁니다. 일석한 서류만 보관하지 말고, 입금내역도 함께 둡니다. 보험·퇴직금 처리 결과(지금까지의 임금, 근속 기간) 확인을 요청합니다. 회사 계산과 본인이 알고 있는 기간이 다르면 그때 확인됩니다. 부당해고 여부를 판단하려면 해고 사유가 서면으로 밝히졌는지, 사유가 적법한지, 해고 절차가 맞았는지 순서로 봅니다. 해고 절차 점검 을 함께 확인하세요. 자주 묻는 질문 계약이 갱신되지 않았다고 하는데요? 계약 만료 통지는 보통 갱신 통지보다 기간이 짧습니다. 서면 통지의 도착일과고지 방법, 같은 조건으로 재고용됐는지(재고용 시 계약이 새로 만들어진 것으로 보는 쟁점)가 핵심입니다. 해고예고서를 받기 전에 퇴사하면 해고예고수당이나 못 받나요? 본인이 사적 사유로 떠난 경우에는 받을 수 없습니다. 회사 사유가 미리 명시돼 있었다면 그 전후 자료가 중요하므로, 퇴사 전에 반드시 확인하는 편이 안전합니다. 해고수당이 면제됐다는 불이익 통지가 왔는데 어떻게 하나요? 면제 통지와 사고 payload, 부당해고 여부는 별개입니다. 통지 문서와 함께근로관계 종료가 법적으로 어떤 형태였는지 확인해야 하므로 문서를 보관하고 검토받으세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:46:02 +0900</pubDate>
     </item>
     <item>
-      <title>임금체불 — 확인과 대응 절차</title>
-      <link>https://fktu-nodong.vercel.app/articles/wage-arrears.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/wage-arrears.html</guid>
+      <title>근로자성 판단 — 계약서 이름보다 실제 지배종속</title>
+      <link>https://nodong.seoulblue.com/articles/worker-status-checklist</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/worker-status-checklist</guid>
       <category>지식</category>
-      <description>임금체불이 발생했을 때 기록·진정·지연이자까지 순서대로 정리한 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
+      <description>← 지식 목록 근로자성 판단 — 계약서 이름보다 실제 지배종속 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-24 · 정리: 한국노총 노동연대 근로자성은 계약서 표제가 아니라 실제 지배·종속 관계 로 봅니다. “용역”, “프리랜서”, “이사”라고 쓰여 있어도 실질이 근로라면 근로기준법이 적용될 수 있습니다. 판단에서 자주 보는 요소 업무 방식·시간·장소에 대한 지시 수준 노무를 직접 제공하는지, 사업·영업으로 이익을 가져가는지 보상의 성격(급여 vs 성과·수수료)과 지급 방식 노무 제공의 구속성, 다른 일과의 병행 가능 여부 tools·비용을 누가 부담하는지 특수 케이스 대표이사·등기임원 : 원칙은 비근로자지만, 사실상 지배종속 하에 급여형 근로라면 달라질 수 있습니다. 특수고용 : 고용보험·산재 특례 적용 여부와 근로기준법 적용은 구분해서 봅니다. 관련: 특고·프리랜서 판단 · 플랫폼 노동자성 일반 안내입니다. 개별 판단은 판례·행정해석에 따라 달라지므로 전문가 상담을 권합니다. 증거 후보 지시·평가·감사 관련 메신저·메일·일지 급여 지급 기록(정기성·성격), 4대보험 가입 여부 작업 도구·장비 제공 주체, 다른 일과 병행 가능 여부 판단 결과에 따라 특고 · 파견 경로가 갈립니다. 상담 시 가져갈 것 계약서·정산내역·근무 스케줄·중요 메신저 캡처 한 벌 질문: “지시를 거절하면 불이익이 있는가” “정기 지급인가” “중요 장비가 누가” 판단을 뒤집는 세 가지 지점 지휘 체계 — 누가 출퇴근 시간을 정하고, 누가 일할 장소를 정하고, 누가 평가와상벌을 정하는지. 이 세 가지 중 두 가지 이상을 회사가 결정하면 근로자성 판단으로 넘어갈 가능성이 큽니다. 지급 주체 — 계약서의 당사자가 회사와 개인사업자·법인 중 어디인지, 대가 지급이 어디서 나오는지. 개인사업자명의 계약이라도 실질 사용자가 회사인 경우가 있어 확인이 필요합니다. 지휘의 실질 — “개발자는 알아서 한다”는 문서보다, 일정·우선순위·배포 승인 권한이 어디에 있는지가 중요합니다. 실제 지휘가 남는 자료(메일·결재·회의록)만 정리하세요. 판단을 새는 흔적 지급 형태가 매월 일정하게 지급되거나, 시작일이 고정돼 반복되면 근로관계 판단의 단서가 됩니다. 지급일·금액·이체 주체를 기록해 둡니다. 동료들과 함께 상주하고 장비·보안·전산 자원을 회사로부터 제공받았다면 자료가 됩니다. 장비 수령증, 출입권 부여 내역, 계정 발급 기록을 모읍니다. “업무 지시”사항(업무 지침·교육·평가)이 회사에만 존재한다는 것도 자료입니다. 사내 매뉴얼·교육 자료·통계 시스템이 개인 제공이라면 그 사실을 적어 둡니다. 자주 묻는 질문 근로계약서에 “프리랜서”라고 적혀 있으면 근로자성이 없다고 하나요? 계약서의 표현보다 실제 근무 형태가 먼저 봅니다. 다만 서류 하나만으로는 결론이 나지 않으므로, 실제 지휘 형태를 기록해 둔 뒤 전문가와 검토하는 편이 안전합니다. 4시간 미만 일수는 근로기준법 적용이 안 된다고 들었는데 정확히 어떻게 되나요? 주당 시간 기준이라 하루 몇 시간인지만으로는 판단하지 않습니다. 주 단위 평균으로 계산하기 때문에 근무일 편차가 큰 경우는 따로 따져 봐야 합니다. 4인 이하 사업장은 근로기준법이 적용되지 않나요? 적용되지 않는 부분과 적용되는 부분이 나뉩니다. 예외는 어디까지 인정되는지, 보험·퇴직금·휴가 제도는 어떤지 분리해서 확인해야 합니다. 5인 미만 사업장 안내 를 함께 보세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:46:02 +0900</pubDate>
     </item>
     <item>
-      <title>부당노동행위 — 유형과 구제 절차</title>
-      <link>https://fktu-nodong.vercel.app/articles/unfair-labor-practice.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/unfair-labor-practice.html</guid>
+      <title>공휴일·대체휴일 — 유급인가 무급인가</title>
+      <link>https://nodong.seoulblue.com/articles/public-holiday-rest-day</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/public-holiday-rest-day</guid>
       <category>지식</category>
-      <description>노동조합법이 금지하는 사용자 행위 유형과 구제신청 방법 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
+      <description>← 지식 목록 공휴일·대체휴일 — 유급인가 무급인가 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-24 · 정리: 한국노총 노동연대 “회사가 정한 휴일”과 “법이 정한 휴일”은 다릅니다. 유급 주휴일, 법정 공휴일, 회사 휴일, 대체휴일 을 섞으면 계산이 틀어집니다. 구분 주휴일(유급) : 소정근로일 충족 시 주 1일 유급 — 미근무해도 임금이 나옵니다. 법정 공휴일·대체휴일 : 적용 범위·업종·사업장 요건이 있습니다. 5인 이상 등 요건 확인이 필요합니다. 휴일근로 : 휴일에 일하면 가산수당(통상임금 대비 추가)이 원칙적으로 붙습니다. 현장에서 자주 나오는 이슈 “공휴일은 무급”이라고 일괄 고지 — 적용 범위를 확인해야 합니다. 대체휴일을 언제 어떻게 주는지 사규에 없어 분쟁. 휴일근로를 “정상근무”로만 기록해 수당 누락. 관련: 근로시간·수당 · 연차휴가 일반 안내입니다. 사업장 요건·업종에 따라 적용이 다릅니다. 사규 확인 항목 □ 회사 휴일 목록(법정 공휴일과 분리) □ 대체휴일 지정·통지 방법 □ 휴일근로 수당 지급 기준·면제 범위 □ 주휴일 유급 요건(소정근로일 충족 여부) 사규가 없으면 관행·협약·급여 지급 내역으로 유급 여부를 추정합니다. 시효 메모 휴일수당·주휴 임금 청구는 단기 소멸시험이 걸리는 경우가 많습니다. 기간·금액 메모는 소멸시효 글과 함께 보관하세요. 현장에서 꼭 남기는 네 가지 사업장 운영 방식 — 주 4일제·격일 운영·시프트제 중 무엇인지, 근무표가 어떻게 되어 있는지를 서면으로 확인합니다. “토요일 근무는 서로 바꾸는 것”인지 “회사가 정한 대체근무”인지에 따라 답이 달라집니다. 근무일 조정 동의서 — 주휴일을 다른 날로 바꾸는 형태로 근무를 배정받았다면, 그 동의가 서면으로 있는지 봅니다. 서면이 없고 구두 지시만 있었다면 기록에 남깁니다. 출근일 — 실제로 출근한 날짜를 달력에 표시합니다. 공휴일에도 근무한 날은 “휴무일 근무”가 아니라 “근무일”이므로, 임금 명세서와 대조해 보아야 합니다. 수업·교육 시간의 성격 — 사내 교육이 근무시간으로 인정되는지는 회사가 정할 수 있는 사안이 아니라 법과 합의된 기준에 따릅니다. 훈련을 참석만 하고 실무를 하지 못하는 구조라면 별도 기록이 필요합니다. 자주 묻는 질문 공휴일에 근무하면 무조건 1.5배인가요? 국공휴일과 주휴일, 유급휴일의 구분에 따라 가중치가 달라지고, 사업장 유형·합의에 따라 달라질 수 있습니다. 대체휴일제로 근무한 날과 실제 국공휴일에 근무한 날은 같은 날로 계산하지 않습니다. 주휴일을 다른 날로 바꾸면 임금에서 빠지나요? 주휴일 근무로 지급하는 임금은 원칙적으로 주휴일 임금에 따릅니다. 다만 변경된 근무일정이 사적으로 정당한 사유가 있는지, 서면 동의가 있었는지가 쟁점이 됩니다. 회사가 휴무일 변경 통지를 서면으로 안 주는데요? 구두 통지 자체는 기록이 남지 않습니다. 스케줄 공지·근무표·메신저로 된 변경 통지만 확인해 두면 사후에 다툴 여지가 줄어듭니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:46:02 +0900</pubDate>
     </item>
     <item>
-      <title>실업급여(구직급여) — 수급 요건과 신청</title>
-      <link>https://fktu-nodong.vercel.app/articles/unemployment-benefits.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/unemployment-benefits.html</guid>
+      <title>노조 탄압·차별 대응 — 부당노동행위로 남기는 법</title>
+      <link>https://nodong.seoulblue.com/articles/union-suppression-response</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/union-suppression-response</guid>
       <category>지식</category>
-      <description>이직 사유 신고, 수급 자격, 실업 인정 절차와 자주 걸리는 지점</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>해고와 부당해고 구제 절차</title>
-      <link>https://fktu-nodong.vercel.app/articles/unfair-dismissal.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/unfair-dismissal.html</guid>
-      <category>지식</category>
-      <description>해고의 정당성 요건과 노동위원회 구제신청 절차·기간 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>쟁의행위(파업) — 합법 요건과 절차</title>
-      <link>https://fktu-nodong.vercel.app/articles/strike-legal-basics.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/strike-legal-basics.html</guid>
-      <category>지식</category>
-      <description>쟁의행위의 절차적 요건, 조정 신청, 찬반투표, 면책 범위를 정리한 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>노동 권리의 소멸시효 — 언제까지 다툴 수 있나</title>
-      <link>https://fktu-nodong.vercel.app/articles/statute-of-limitations.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/statute-of-limitations.html</guid>
-      <category>지식</category>
-      <description>임금·퇴직금·구제신청·차별시정의 기간 제한을 한눈에 정리</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>산업안전보건위원회 — 근로자 참여 창구</title>
-      <link>https://fktu-nodong.vercel.app/articles/safety-health-committee.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/safety-health-committee.html</guid>
-      <category>지식</category>
-      <description>산업안전보건위원회 구성·심의 사항과 현장에서 활용하는 방법 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>퇴직금 — 발생 요건과 산정</title>
-      <link>https://fktu-nodong.vercel.app/articles/severance-pay.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/severance-pay.html</guid>
-      <category>지식</category>
-      <description>퇴직금 지급 요건, 평균임금 산정, 지급 기한과 미지급 대응 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>직업병·업무상 질병 — 인정 기준과 준비</title>
-      <link>https://fktu-nodong.vercel.app/articles/occupational-disease.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/occupational-disease.html</guid>
-      <category>지식</category>
-      <description>업무와 질병의 관련성을 어떻게 입증하는지, 신청 전에 모아야 할 자료</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>최저임금 점검 — 빠뜨리기 쉬운 경우</title>
-      <link>https://fktu-nodong.vercel.app/articles/minimum-wage-check.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/minimum-wage-check.html</guid>
-      <category>지식</category>
-      <description>최저임금 판단 기준, 수습·도급·파견에서 생기는 착시, 점검 순서</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>최저임금과 주휴수당 기초</title>
-      <link>https://fktu-nodong.vercel.app/articles/minimum-wage-weekly-holiday.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/minimum-wage-weekly-holiday.html</guid>
-      <category>지식</category>
-      <description>최저임금 적용 방식과 주휴수당 발생 요건을 정리한 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>노동위원회 구제신청 — 절차와 준비</title>
-      <link>https://fktu-nodong.vercel.app/articles/labor-commission-remedy.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/labor-commission-remedy.html</guid>
-      <category>지식</category>
-      <description>부당해고·부당노동행위 구제신청의 기한, 신청서 구성, 심문 준비</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>진정서 작성과 근로감독 요청</title>
-      <link>https://fktu-nodong.vercel.app/articles/labor-complaint-guide.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/labor-complaint-guide.html</guid>
-      <category>지식</category>
-      <description>임금체불·근로조건 위반을 근로감독관에게 알리는 절차와 진정서 쓰는 법</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>산재보험 급여 — 휴업·장해·유족·간병</title>
-      <link>https://fktu-nodong.vercel.app/articles/industrial-accident-benefits.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/industrial-accident-benefits.html</guid>
-      <category>지식</category>
-      <description>산재 승인 후 받을 수 있는 급여의 종류와 각각의 요건</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>산업재해 — 인정 요건과 신청 절차</title>
-      <link>https://fktu-nodong.vercel.app/articles/industrial-accident-claim.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/industrial-accident-claim.html</guid>
-      <category>지식</category>
-      <description>업무상 재해 인정 기준과 요양급여·휴업급여 등 신청 절차 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>노동 사건 증거 정리 — 무엇을 어떻게 모을까</title>
-      <link>https://fktu-nodong.vercel.app/articles/evidence-checklist.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/evidence-checklist.html</guid>
-      <category>지식</category>
-      <description>임금·해고·괴롭힘 사건에서 설득력 있는 자료를 만드는 방법과 보관 원칙</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>근로계약서 — 서명 전에 볼 것</title>
-      <link>https://fktu-nodong.vercel.app/articles/employment-contract-checklist.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/employment-contract-checklist.html</guid>
-      <category>지식</category>
-      <description>근로계약서 필수 기재사항과 자주 문제 되는 조항 점검 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>해고 절차 — 서면통지·해고예고·구제신청</title>
-      <link>https://fktu-nodong.vercel.app/articles/dismissal-procedure.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/dismissal-procedure.html</guid>
-      <category>지식</category>
-      <description>해고가 유효하려면 갖춰야 할 절차와, 통보받았을 때 해야 할 일</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>내용증명과 서면 통지 — 요구를 남기는 방법</title>
-      <link>https://fktu-nodong.vercel.app/articles/content-certified-mail.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/content-certified-mail.html</guid>
-      <category>지식</category>
-      <description>임금·퇴직금·복직 요구를 문서로 남기는 이유와 작성 요령</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>교섭 창구 단일화 — 절차와 실무</title>
-      <link>https://fktu-nodong.vercel.app/articles/bargaining-unit-singleization.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/bargaining-unit-singleization.html</guid>
-      <category>지식</category>
-      <description>여러 노조가 있는 사업장에서 교섭 대표를 정하는 절차와 유의점</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>단체교섭 — 요구에서 협약 체결까지</title>
-      <link>https://fktu-nodong.vercel.app/articles/collective-bargaining.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/collective-bargaining.html</guid>
-      <category>지식</category>
-      <description>교섭 요구, 대표자 자격, 교섭 절차와 합의 효력을 순서대로 정리한 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>평균임금과 통상임금 — 계산의 두 기준</title>
-      <link>https://fktu-nodong.vercel.app/articles/average-wage-ordinary-wage.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/average-wage-ordinary-wage.html</guid>
-      <category>지식</category>
-      <description>퇴직금·휴업수당은 평균임금, 연장·휴일수당은 통상임금. 두 기준의 차이와 확인 방법</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>연차휴가 — 발생과 사용</title>
-      <link>https://fktu-nodong.vercel.app/articles/annual-leave.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/annual-leave.html</guid>
-      <category>지식</category>
-      <description>연차휴가 발생 기준, 사용 촉진, 미사용 수당 안내</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>산재 은폐 — 사업장에서 벌어지는 일과 대응</title>
-      <link>https://fktu-nodong.vercel.app/articles/accident-concealment.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/accident-concealment.html</guid>
-      <category>지식</category>
-      <description>재해를 숨기거나 축소하는 방식, 그때 남겨야 할 기록, 신고와 대응</description>
-      <pubDate>Thu, 24 Sep 2026 14:53:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>노동조합이란 무엇인가</title>
-      <link>https://fktu-nodong.vercel.app/articles/what-is-union.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/what-is-union.html</guid>
-      <category>지식</category>
-      <description>노동조합은 노동자가 임금·근로조건·고용 안정·산업안전 등 공통의 이해관계를 지키기 위해 자주적으로 결성하는 조직입니다.</description>
-      <pubDate>Thu, 24 Sep 2026 14:50:52 +0900</pubDate>
-    </item>
-    <item>
-      <title>산업안전과 중대재해처벌법 개요</title>
-      <link>https://fktu-nodong.vercel.app/articles/safety-serious-accident.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/safety-serious-accident.html</guid>
-      <category>지식</category>
-      <description>산업안전은 ‘사고가 난 뒤의 보상’보다 ‘사고를 막는 예방’이 핵심입니다.</description>
-      <pubDate>Thu, 24 Sep 2026 14:50:52 +0900</pubDate>
-    </item>
-    <item>
-      <title>한국노총 노동연대, 김승원 법무부장관 후보자 지지 입장 표명</title>
-      <link>https://fktu-nodong.vercel.app/news/2026-09-14-kim-seungwon.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/news/2026-09-14-kim-seungwon.html</guid>
-      <category>소식</category>
-      <description>2026.09.14 중부일보 보도 요약: 경기 노동현장 활동가들의 김승원 후보자 지지 입장</description>
-      <pubDate>Thu, 24 Sep 2026 14:44:36 +0900</pubDate>
+      <description>← 지식 목록 노조 탄압·차별 대응 — 부당노동행위로 남기는 법 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-24 · 정리: 한국노총 노동연대 노조 활동에 대한 불이익은 감정 싸움이 아니라 부당노동행위·불이익 취급의 증거 싸움 입니다. 행위가 일어난 시점과 인과를 문서로 남기는 것이 1순위입니다. 자주 문제 되는 행위 노조 가입·탈퇴 강요, 조합비 납부 방해 조합원에 대한 해고·전배·징계·평가 불이익 교섭 요구의 거부·지연·태만 노조 개입·지배·원조(노사협의회로 대체하려는 압력 포함) 대응 순서 1) 인사 발령·평가·지시를 서면·메신저로 확보 2) 노조 내부 일지에 날짜·행위자·진술 기록 3) 회사에 시정 요구(내용증명 또는 노사 문서) 4) 미시정 시 노동위원회 부당노동행위 구제신청 — 부당노동행위 · 구제신청 일반 안내입니다. 신청 기한이 짧으므로 사안 발생 직후 전문가와 일정을 확인하세요. 시효·기한 메모 행위일 ____ · 인과 인지일 ____ · 구제신청 기한(주의: 짧음) ____ 내부 기록(일지·메신저) + 외부 기록(발령문·평가표) 겹쳐 보관 절차 전체: 부당노동행위 → 노동위 구제신청 노동위 신청서 구성 당사자·구제 희망 내용(복직·금전·공표)·행위 일시·인과 주장·증거 목록 노조 내부 결의·교섭록이 있으면 첨부 순서를 미리 정하세요. 방어가 아니라 기록이 먼저다 탄압 대응의 출발점은 “누가 뭘 했다”가 아니라 “언제·어떻게·누가 시켜서” 입니다. 이 세 칸이 비어 있으면 진정·구제신청에서 설명이 어려워집니다. 기록은 서류가 없어도 됩니다. 당일저녁, 또는 그날 기준 그래프는 언제 썼는지 를 남깁니다. 메시지·메일은 원본 그대로 두고, 캡처 파일명에는 날짜를 붙입니다. 조합원별로 일지 한 장 을 유지하는 방식이 가장 현실적입니다. 조합원 수가 많아도 각자 1장은 자기 손으로 씁니다. 조합장 일지만 있으면 “왜 증인이 없는지”를 물을 때 답이 어려워집니다. 회사가 문서로 내지 않은 것 도 사실입니다. “평가 기준을 알려달라”, “교섭 요구에 대한 회신서를 달라”처럼 서면으로 요청한 사실과, 회신이 없었던 사실을 함께 남깁니다. 내부 결의·교섭록·집회 기록은 행위와 인과를 잇는 자료입니다. 조합 활동 기록을 누가 언제 만들었는지, 누구에게 전달했는지까지 남기면 서술의 빈틈이 줄어듭니다. 자주 묻는 질문 대표가 직접 지시하지 않았다고 하는데요? 지시자 확인이 어려워도 실행한 사람·시점·목적은 정리할 수 있습니다. “누가 지시했는가”는 질문 하나만 따로 남기고, 나머지 사실관계는 서면 자료로 채웁니다. 증인이 그만두겠다고 하면 어떻게 하나요? 본인이 원하지 않는 진술을 요구하지 않습니다. 대신 그 사람이 작성한 메신저·이메일·일지 등 이미 존재하는 기록을 확보합니다. 진술 요구는 자신이원하할 때만 합니다. 아직 구체적인 불이익이 없는데 조합원가입 사실을 알고 있는데, 지금 대비할 게 있나요? 있습니다. 가입 시점의 인사 기록, 배정 방식, 평가·상여 기준을 미리 확인해 두면 이후 비교 기준이 생깁니다. 지금은 “이력 확보”가 가장 값싸고 가장 어려운 단계입니다. 신청 기한이 걱정됩니다. 구제신청은 행위일로부터 기한이 짧게 걸립니다. 확실하지 않더라도 사안 발생 시점에 내부 기록을 시작하고, 기한·절차를 전문가에게 먼저 확인하는 순서를 권합니다. 절차 자체는 구제신청 안내 를 참고하세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:46:02 +0900</pubDate>
     </item>
     <item>
       <title>한국노총 노동연대 홈페이지 안내 — 소식·지식·문의를 한 곳에</title>
-      <link>https://fktu-nodong.vercel.app/news/2026-09-16-site-guide.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/news/2026-09-16-site-guide.html</guid>
+      <link>https://nodong.seoulblue.com/news/2026-09-16-site-guide</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/news/2026-09-16-site-guide</guid>
       <category>소식</category>
-      <description>한국노총 노동연대 홈페이지(fktu-nodong.vercel.app) 안내 — 메뉴 구성과 활용법</description>
-      <pubDate>Thu, 24 Sep 2026 14:44:36 +0900</pubDate>
+      <description>← 소식 목록 한국노총 노동연대 홈페이지 안내 — 소식·지식·문의를 한 곳에 사이트 안내 2026년 9월 16일 · 자체 안내 한국노총 노동연대 홈페이지를 nodong.seoulblue.com 한 주소로 정리했습니다. 현장에서 자주 나오는 질문과 공개된 소식을 한곳에 모아, 필요한 자료를 빠르게 찾을 수 있게 구성했습니다. 무엇이 들어 있나 소개·활동방향 — 연대·비정규·산업안전·지역조직 연결 등 활동 축과 조직 소개 소식 — 보도·정부 보도자료를 요약하고 원문 링크 를 함께 제공합니다 지식 — 노동조합·노동3권, 비정규직·불법파견, 임금체불, 산업재해, 부당해고, 근로시간, 최저임금·주휴수당 등 30편 의 기초 해설 오피니언 — 노동 현안에 대한 현장 논평과 입장 게시판 — 공지·현장소식·성명·오피니언·자료 회원가입 — 이름·이메일만 있으면 신청됩니다. 안내·소식 전달 목적이며 운영자만 열람합니다 문의 — 폼으로 접수되며 운영자가 직접 확인합니다 이렇게 쓰시면 됩니다 현장에서 제도·절차가 헷갈릴 때 → 지식 에서 해당 항목 확인 (일반 안내이며 법률 자문은 아닙니다) 최근 노동 현안 확인 → 소식 에서 요약과 원문 링크 확인 현안에 대한 연대의 입장·논평 → 오피니언 확인 연대·제보·상담 요청 → 문의 폼 또는 이메일 자료 공유·알림이 필요할 때 → 게시판 공지 확인 문의 한국노총 노동연대 · 서울특별시 영등포구 국제금융로6길 26, 한국노총 빌딩 9층 (07328) · fktu-nodong@gmail.com 이 사이트는 조직의 공식 채널을 대체하는 것이 아니라, 공개된 사실과 제도 정보를 정리해 안내하는 페이지입니다. 확인되지 않은 내용은 싣지 않습니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
     </item>
     <item>
-      <title>개정 노조법 시행 이후 원·하청 교섭 첫 타결 — 현대제철</title>
-      <link>https://fktu-nodong.vercel.app/news/2026-09-10-wonhacheong-agreement.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/news/2026-09-10-wonhacheong-agreement.html</guid>
+      <title>한국노총 노동연대, 김승원 법무부장관 후보자 지지 입장 표명</title>
+      <link>https://nodong.seoulblue.com/news/2026-09-14-kim-seungwon</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/news/2026-09-14-kim-seungwon</guid>
       <category>소식</category>
-      <description>2026.09.10 고용노동부 보도참고 요약: 개정 노동조합법 시행 이후 원·하청 교섭 타결 첫 사례</description>
-      <pubDate>Thu, 24 Sep 2026 14:44:36 +0900</pubDate>
+      <description>← 소식 목록 한국노총 노동연대, 김승원 법무부장관 후보자 지지 입장 표명 보도 요약 2026년 9월 14일 · 출처: 중부일보 중부일보(2026.09.14)에 따르면, 경기 지역 노동현장 활동가들이 김승원 법무부 장관 후보자에 대한 지지 입장을 공식 밝혔다. 보도는 이들을 한국노총 노동연대 산하에서 활동해 온 이들로 소개했다. 참여 규모 참여 단체는 한국노총 용인·수원·시흥·중북부·광양지역지부와 용인지역지부 산하 단체 등 16개 단체로 보도됐다. 지지 근거로 언급된 내용 노동조합법 제2조·제3조 — 단체교섭권 확대와 과도한 손해배상 제한을 골자로 하는 개정에 찬성 입장을 유지해 왔다는 평가 주 4.5일제 등 노동시간 단축 — 일·생활 균형 정책 논의에 적극 참여해 왔다는 점 지역 소통 — 한국노총 경기지역본부 등 지역 노동계와의 지속적 소통 그밖에 노동기본권 강화, 법률·사법 분야 전문성 등이 긍정적 요소로 언급됨 청문회 검증 활동가들은 후보자를 둘러싼 논란에 대해 국회 인사청문회를 통한 성실한 검증이 필요하다고 선을 그었다고 보도됐다. 공개된 내용만으로 결정적 결격사유라고 단정하기는 어렵다면서도, 국민 눈높이에 맞는 사실관계 설명과 검증을 강조했다는 내용이다. 아울러 노동자를 비롯한 사회적 약자의 기본권을 보호하는 법무행정을 당부했다고 한다. 지지 입장에 함께한 사람들 한국노총 노동연대 일동 명의로 밝힌 입장으로, 다음 두 사람이 대표로 참여했다. 이상원 한국노총 용인지역지부 의장(전 한국노총 상임부위원장, 노동연대 공동대표) 박강원 한국노총 비정규노동조합연대회의 상임본부장 라이프케어플랜트노동조합 위원장 함께한 지역·업종 조직은 다음과 같다. 한국노총 수원지역지부 의장(노동연대 공동대표) 서종창 한국노총 시흥지역지부 의장(노동연대 공동대표) 김진업 한국노총 중북부지역지부 의장(노동연대 공동대표) 백호 한국노총 광양지역지부 의장(노동연대 공동대표) 신용수 개혁과 통합을 위한 노동연대 상임대표 심일선 레미콘운송노동조합 위원장 임영택 용인지역일반노동조합 위원장 김완규 성신양회건설운송노동조합 지부장 원상희 한국건설산업노동조합연맹 경기남부본부장 이신우 한국비정규직일반노조 간호요양원지부장 김순자 대한산업안전협회노동조합 위원장 김덕용 에머슨노동조합 위원장 신일호 삼성에스원참여노동조합 위원장 신웅교 88관광개발노동조합 위원장 김귀동 서울교통공사 통합노동조합 위원장 이양섭 지역고용문제연구소 소장 류영철 지지선언문 전문과 연대의 주축 보기 → 이 페이지는 언론 보도의 요약이며, 한국노총 전체의 공식 입장을 대변한다고 단정하지 않습니다. 세부 표현·인용은 원문을 확인해 주세요. 원문: 중부일보 — 경기 노동계, 김승원 법무부 장관 후보자 지지 (idxno=363736700)</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
     </item>
     <item>
       <title>김승원 법무부 장관 후보자 지지선언문</title>
-      <link>https://fktu-nodong.vercel.app/news/2026-09-14-kim-seungwon-statement.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/news/2026-09-14-kim-seungwon-statement.html</guid>
+      <link>https://nodong.seoulblue.com/news/2026-09-14-kim-seungwon-statement</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/news/2026-09-14-kim-seungwon-statement</guid>
       <category>소식</category>
-      <description>2026.09.14 한국노총 노동연대 일동, 김승원 법무부 장관 후보자 지지선언문 전문과 연대의 주축</description>
-      <pubDate>Thu, 24 Sep 2026 14:44:36 +0900</pubDate>
+      <description>← 소식 목록 김승원 법무부 장관 후보자 지지선언문 2026년 9월 14일 · 한국노총 노동연대 일동 이상원 한국노총 용인지역지부 의장(전 한국노총 상임부위원장, 노동연대 공동대표) 박강원 한국노총 비정규노동조합연대회의 상임본부장 라이프케어플랜트노동조합 위원장 김진업 한국노총 시흥지역지부 의장 류영철 지역고용문제연구소 소장(전 한국노총 수석부위원장) 심일선 개혁과 통합을 위한 노동연대 상임대표(전 한국은행노동조합위원장) 연대의 주축 한국노총 노동연대의 주축을 이루는 인물들은 한국노총 산하 금융, 제조, 플랫폼, 관광, 서비스, 공공, 운수 등 전국의 다양한 업종 조직에서 비정규·간접고용과 산업안전 문제를 오래 다뤄 온 현장 출신입니다. 각자의 자리에서 오랜 시간 경험과 신뢰를 쌓아 온 분들입니다. 용인·수원·시흥·중북부·광양지역지부 의장, 한국노총 비정규노동조합연대회의 상임본부장, 개혁과 통합을 위한 노동연대 상임대표, 건설·운송·돌봄·연구 분야 조직 대표가 함께했습니다. 이들은 지역과 업종을 가로질러, 개별 사업장과 지역 지부가 홀로 감당하기 어려운 의제를 공동 입장으로 묶어 온 흐름에 함께해 왔습니다. 아래 이름들은 그 대표적인 면면을 보여주는 일부이며, 연대에는 지역과 업종 곳곳의 많은 조직과 인사가 함께하고 있습니다. 지지선언문 전문 노동의 가치와 기본권을 존중하는 법무행정을 기대하며 김승원 후보자를 지지합니다. 저는 오랜 기간 노동현장에서 노동자들의 목소리를 듣고 노동자의 권익 향상과 건전한 노사관계 발전을 위해 활동해 왔습니다. 그 과정에서 노동자의 권리와 사회적 약자를 보호하고, 법과 원칙에 따라 공정한 사회를 만들어가는 것이 우리 사회의 중요한 과제라는 것을 깊이 느껴왔습니다. 이러한 관점에서 저는 김승원 법무부 장관 후보자가 지금까지 보여온 활동과 정책을 다음과 같이 평가하며 지지하고자 합니다. 1. 노동기본권 강화를 위한 입법 활동 김승원 후보자는 노동조합법 제2조·제3조 개정에 지속적으로 찬성하며 노동자의 단체교섭권 확대와 노동기본권 강화에 힘을 보태왔습니다. 노동자의 정당한 노동3권을 실질적으로 보장하는 것은 우리 사회가 보다 성숙한 노사관계로 나아가기 위해 반드시 필요한 과제라고 생각합니다. 2. 노동시간 단축과 일·생활 균형에 대한 정책적 노력 김승원 후보자는 주 4.5일제와 노동시간 단축을 제시하고 관련 정책 논의에도 참여하는 등 노동자의 삶의 질과 일·생활 균형을 개선하기 위한 정책에 관심을 보여왔습니다. 장시간 노동을 개선하고 노동자가 일과 가정, 개인의 삶을 조화롭게 영위할 수 있도록 하는 것은 앞으로 우리 사회가 지속적으로 추진해야 할 중요한 과제입니다. 3. 노동계와의 정책협력 김승원 후보자는 노동조합과 정책협약을 체결하여 퇴직연금제도 개선과 금융의 공공성 강화 등 노동자의 삶과 직결된 정책에 협력해 온 이력이 있습니다. 또한 경기지역 노동계와 노동정책 관련 논의와 활동을 함께 해왔다는 점도 노동계의 한 사람으로서 의미 있게 평가합니다. 4. 법률·사법 분야의 전문성과 경험 김승원 후보자는 판사와 변호사를 거쳐 대통령비서실 행정관과 재선 국회의원으로 활동하였으며, 국회 법제사법위원회 간사 등을 맡아 법률과 사법제도에 대한 전문성과 경험을 쌓아왔습니다. 형사사법체계가 크게 변화하는 시기에 이러한 경험과 전문성은 법무행정을 안정적으로 이끌어가는 데 중요한 자산이 될 것으로 기대합니다. 지지의 뜻을 밝히며 물론 국무위원 후보자는 국회의 인사청문회를 통해 제기된 여러 사안에 대해 충분히 설명하고 검증받아야 하며, 국민의 눈높이에 맞는 책임 있는 자세를 보여야 합니다. 우리들의 지지는 이러한 검증의 필요성을 부정하거나 현재 제기된 개별 사안에 대한 판단을 대신하려는 것이 아닙니다. 김승원 후보자가 지금까지 보여온 노동기본권에 대한 입장과 의정활동, 노동계와의 정책적 협력, 그리고 법률·사법 분야에서 축적한 전문성과 경험을 종합적으로 평가하여 개인적으로 김승원 법무부 장관 후보자를 지지합니다. 김승원 후보자가 앞으로 노동자를 비롯한 사회적 약자의 기본권을 보호하고, 노동의 가치와 노동기본권을 존중하며, 법 앞에서 누구나 공정하게 대우받을 수 있는 법무행정을 펼쳐주기를 기대합니다. 현장의 요구는 특별한 것이 아닙니다. 받지 못한 임금은 끝까지 책임지고, 그 구제의 성과는 서류가 아니라 통장으로 확인되고, 다친 사람과 남겨진 가족에게는 형식적인 위로가 아니라 진실과 책임이 남고, 어떤 계약서로 일하든 권리가 작아지지 않으며, 지위와 친분에 흔들리지 않는 법 집행과 현장 가까이의 법률지원이 이루어지기를 바랍니다. 아울러 국회 인사청문회를 통해 국민에게 제기된 여러 질문에 성실하고 책임 있게 답하고, 국민의 신뢰를 바탕으로 법무행정을 이끌어가기를 바랍니다. 2026년 9월 14일 한국노총 노동연대 일동 함께한 사람들 한국노총 용인지역지부 의장(노동연대 공동대표) 이상원 한국노총 수원지역지부 의장(노동연대 공동대표) 서종창 한국노총 시흥지역지부 의장(노동연대 공동대표) 김진업 한국노총 중북부지역지부 의장(노동연대 공동대표) 백호 한국노총 광양지역지부 의장(노동연대 공동대표) 신용수 개혁과 통합을 위한 노동연대 상임대표 심일선 레미콘운송노동조합 위원장 임영택 용인지역일반노동조합 위원장 김완규 성신양회건설운송노동조합 지부장 원상희 한국건설산업노동조합연맹 경기남부본부장 이신우 한국비정규직일반노조 간호요양원지부장 김순자 라이프케어플랜트노동조합 위원장 박강원 — 한국노총 비정규노동조합연대회의 상임본부장 대한산업안전협회노동조합 위원장 김덕용 에머슨노동조합 위원장 신일호 삼성에스원참여노동조합 위원장 신웅교 88관광개발노동조합 위원장 김귀동 서울교통공사 통합노동조합 위원장 이양섭 지역고용문제연구소 소장 류영철 이 페이지의 인물 평가와 조직 성격 서술은 해당 인물·조직 측 입장이며, 한국노총 전체의 공식 입장을 대변하지 않습니다. 보도 요약은 한국노총 노동연대, 김승원 법무부장관 후보자 지지 입장 표명 에서 볼 수 있습니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
     </item>
     <item>
-      <title>500인 이상 사업장, 하청 노동자 사망사고 공개 의무 — 8월 1일 시행</title>
-      <link>https://fktu-nodong.vercel.app/news/2026-08-01-safety-disclosure.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/news/2026-08-01-safety-disclosure.html</guid>
+      <title>개정 노조법 시행 이후 원·하청 교섭 첫 타결 — 현대제철</title>
+      <link>https://nodong.seoulblue.com/news/2026-09-10-wonhacheong-agreement</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/news/2026-09-10-wonhacheong-agreement</guid>
       <category>소식</category>
-      <description>2026.08.01 시행 산업안전보건법 시행령 개정: 안전보건공시 대상과 위험성평가 과태료</description>
-      <pubDate>Thu, 24 Sep 2026 14:44:36 +0900</pubDate>
+      <description>← 소식 목록 개정 노조법 시행 이후 원·하청 교섭 첫 타결 — 현대제철 자료 요약 2026년 9월 10일 · 출처: 고용노동부 보도참고 고용노동부는 2026년 9월 10일(목) 현대제철 당진공장에서 원청인 현대제철과 4개 자회사(현대ITC·현대IEC·현대IMC·현대ISC) 노사가 「원·하청 단체협약」 조인식을 열고 ‘2026년 원·하청 교섭 합의서’에 서명했다고 밝혔다. 보도참고에 따르면 이번 단체협약은 2026년 3월 10일 개정 노동조합법 시행 이후 원·하청 노사가 교섭을 통해 타결한 첫 사례 다. 교섭이 진행된 방식 보도참고는 교섭 경과를 구체적으로 적고 있다. 노동위원회에서 자회사 4개 노동조합과 사내 협력업체 소속 노동조합에 대해 교섭단위 분리결정이 이뤄졌고(초심 4월 16일, 재심 6월 24일), 현대제철은 각 교섭단위별로 교섭을 진행해 왔다. 자회사 4개 노동조합과의 원·하청 교섭은 8월 20일 상견례를 시작으로 4차례 진행됐다. 합의 내용 노동위원회를 통해 현대제철의 사용자성이 인정된 산업안전 의제에 대해 자회사 사측도 함께 참여해 논의했고, 그 결과 자회사 산업안전·보건 관리체계를 지속적으로 개선하고 중장기 개선방안(로드맵)을 수립하기로 하는 등의 합의가 도출됐다고 밝혔다. 현장에 주는 의미 사용자성 확대가 실제 교섭으로 이어졌다 — 원청이 산업안전 의제의 교섭 당사자로 참여한 첫 결과물이라는 점이 핵심이다. 교섭단위 분리와 병행 — 분리결정 이후에도 교섭단위별 논의가 진행됐고, 원·하청 교섭이 그 위에 얹혔다. 의제는 안전·보건 — 임금·복지가 아니라 산업안전보건이 첫 합의 의제였다는 점에서, 하청 노동자의 위험 노출 문제가 교섭 테이블에 올라간 사례로 볼 수 있다. 이 페이지는 고용노동부 보도참고(2026.09.10)의 내용을 요약한 것입니다. 한국노총 전체 또는 한국노총 노동연대의 공식 입장이 아니며, 세부 내용·표현은 원문을 확인해 주세요. 원문: 고용노동부 — (참고) 원·하청 대화와 상생을 위한 첫 발 내딛다… 개정노조법 시행 이후 원·하청 교섭 첫 결실</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
     </item>
     <item>
       <title>2027년 적용 최저임금 시간급 10,700원 — 결정·고시</title>
-      <link>https://fktu-nodong.vercel.app/news/2026-08-05-minimum-wage-2027.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/news/2026-08-05-minimum-wage-2027.html</guid>
+      <link>https://nodong.seoulblue.com/news/2026-08-05-minimum-wage-2027</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/news/2026-08-05-minimum-wage-2027</guid>
       <category>소식</category>
-      <description>2027년 적용 최저임금 시간급 10,700원 결정·고시 (2026.08.05) 요약</description>
-      <pubDate>Thu, 24 Sep 2026 14:44:36 +0900</pubDate>
+      <description>← 소식 목록 2027년 적용 최저임금 시간급 10,700원 — 결정·고시 제도 동향 2026년 8월 5일 고시 · 출처: 고용노동부 · 언론 보도 고용노동부는 2026년 8월 5일 2027년도 적용 최저임금을 시간급 10,700원 으로 결정·고시했다. 올해(2026년) 적용 최저임금 시간급 10,320원보다 380원, 3.7% 인상된 금액이다. 언론 보도에 따르면 월 환산액은 2,236,300원 수준(주 40시간 기준)이다. 결정 경과 최저임금위원회는 2026년 7월 14일 제14차 전원회의에서 2027년 적용 최저임금안을 시간급 10,700원으로 의결했다. 보도에 따르면 노동계와 경영계가 자정을 넘겨 협상을 이어갔지만 합의에 이르지 못해 표결로 최종 결정됐다. 최저임금법에 따라 최저임금위원회는 의결한 최저임금안을 고용노동부에 제출하고, 고용노동부는 8월 5일까지 다음 연도 최저임금을 확정·고시한다. 앞선 해와 비교 2026년 적용 최저임금: 시간급 10,320원 · 월 환산 2,156,880원(주 40시간, 월 209시간 기준) — 2025년 8월 5일 결정·고시 2027년 적용 최저임금: 시간급 10,700원 · 2026년 대비 380원(3.7%) 인상 — 2026년 8월 5일 결정·고시 현장에서 챙길 것 월급제는 시급을 환산해 비교해야 한다. 주휴수당이 포함돼 있는지 별도인지에 따라 결과가 달라진다. 수습 기간 등 최저임금 적용 예외에 해당한다고 주장되는 경우, 예외 요건을 실제로 충족하는지 확인한다. 식대·교통비 등 수당의 최저임금 산입 여부는 고시 내용을 매년 확인해야 한다. 고시 시점과 실제 적용 시점이 다르다. 2027년 적용 최저임금은 2027년 1월 1일부터 효력이 생긴다. 이 페이지는 제도 동향 요약이며 법률 자문이 아닙니다. 적용 시점·예외 요건·산입 범위는 반드시 최신 고시와 법령 원문으로 확인하세요. 참고: 고용노동부 — 2026년 적용 최저임금 시간급 10,320원 확정·고시 · 뉴스1 — 2027년 최저임금 시급 1만 700원 확정 (2026.07.14)</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>500인 이상 사업장, 하청 노동자 사망사고 공개 의무 — 8월 1일 시행</title>
+      <link>https://nodong.seoulblue.com/news/2026-08-01-safety-disclosure</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/news/2026-08-01-safety-disclosure</guid>
+      <category>소식</category>
+      <description>← 소식 목록 500인 이상 사업장, 하청 노동자 사망사고 공개 의무 — 8월 1일 시행 보도 요약 2026년 8월 1일 시행 · 출처: 뉴시스 2026.07.21 보도 2026년 7월 21일 국무회의에서 「산업안전보건법 시행령」 개정안이 의결됐고, 개정 사항은 8월 1일부터 시행됐다. 뉴시스 보도에 따르면 이번 개정은 ‘노동안전 종합대책’의 후속 조치로, 산업안전보건법 개정에 따라 법률이 위임한 사항을 구체적으로 규정하기 위해 마련됐다. 공시 대상과 공시 항목 안전보건공시 대상은 상시근로자 500명 이상 사용 사업주 와 연간 건설공사금액 1,200억 원 이상 건설사업주 로 정해졌다. 공시 항목에 관계수급인(하청) 근로자의 사망사고 현황 과 공공 건설발주공사의 사고사망 현황이 포함됐다. 그동안 원청 사업장의 공시가 원청 소속 근로자 중심으로 이뤄져, 실제 위험에 더 많이 노출되는 하청 노동자의 사망사고가 드러나지 않는다는 지적이 있었다. 명예산업안전감독관 추천 범위 확대 근로자대표가 소속 사업장 근로자 중 추천한 사람을 명예산업안전감독관으로 위촉하도록 하는 내용이 의무화됐다. 추천할 수 있는 근로자대표의 범위도 산업안전보건위원회 구성 대상 사업장에서 전체로 확대됐다. 위험성평가 미실시 과태료 위험성평가 실시나 근로자 참여 등 필수 절차를 누락한 사업주에 대한 과태료 기준도 새로 마련됐다. 위험성평가 미실시: 1차 500만 원 · 2차 700만 원 · 3차 1,000만 원 근로자·근로자대표 참여 의무 위반: 1차 150만 원 · 2차 300만 원 · 3차 500만 원 안전보건개선계획 명령 범위 추가 고용노동부 장관이 안전보건개선계획 수립·시행을 명할 수 있는 범위에 ‘안전조치 또는 보건조치를 이행하지 않아 화재·폭발 또는 붕괴 등으로 인한 산업재해가 최근 1년 이내에 2회 이상 발생한 사업장’이 추가됐다. 현장에서 확인할 것 소속 사업장이 공시 대상 규모에 해당하는지, 공시된 사망사고 현황에 하청 노동자 사망이 제대로 반영됐는지 확인한다. 산업안전보건위원회와 명예산업안전감독관 제도가 실제로 작동하는지 — 추천·위촉이 형식적으로 처리되지 않았는지 본다. 위험성평가가 서류로만 남지 않았는지, 근로자 참여 절차가 있었는지 기록을 남긴다. 이 페이지는 보도 내용을 요약한 것입니다. 시행령 조문과 적용 대상은 사업장 규모·업종에 따라 달라질 수 있으므로 반드시 원문과 최신 법령을 확인하세요. 원문: 뉴시스 — 500명 이상 사업장, 8월부터 하청 사망사고 의무 공개 (2026.07.21)</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>직장 내 괴롭힘 — 판단 기준과 대응</title>
+      <link>https://nodong.seoulblue.com/articles/workplace-bullying</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/workplace-bullying</guid>
+      <category>지식</category>
+      <description>← 지식 목록 직장 내 괴롭힘 — 판단 기준과 대응 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 직장 내 괴롭힘은 지위를 이용한 우위 와 업무상 적정 범위 초과 가 함께 있어야 인정됩니다. 그래서 행위별 기록이 결정적입니다. 이 글은 판단 기준부터 기록법·신고 절차·사업주 의무까지 대응 순서대로 정리한 안내입니다. 정신건강·법률 자문이 아니며, 건강에 영향이 있다면 진료를 먼저 받고 절차는 노조·전문가와 상의하세요. 관련 글 괴롭힘 신고 절차 · 증거 점검표 와 함께 보세요. 기록 → 신고 → 조사 → 보호조치 (개념도) 한눈에 보는 표 — 판단 3요소 요소 의미 기록 포인트 직장에서의 지위·관계 우위 상사뿐 아니라 선임·원청 관계 등 실질 우위 포함 행위자와의 관계·직책 메모 업무상 적정 범위 초과 방식·횟수·시간·장소가 상식 초과 일시·장소·발언·목격자 매회 기록 신체·정신 고통, 근무환경 악화 피해 결과가 실제로 발생 진료 기록·근무 변화 메모 1. 무엇이 괴롭힘인가 — 업무 지시와 구분 직장에서 지위·관계의 우위를 이용해 업무상 적정 범위를 넘는 행위로 신체·정신 고통을 주거나 근무환경을 악화시키면 해당합니다. 업무 지시·평가 자체는 괴롭힘이 아닙니다. 다만 방식·횟수·시간·장소가 상식을 벗어나면 판단이 달라집니다. 예를 들어 모두가 보는 앞에서 반복되는 모욕, 퇴근 후 반복 호출, 업무와 무관한 심부름 지시가 문제 됩니다. 한 번의 큰 사건보다 반복된 작은 행위가 판단 근거가 되는 경우가 많습니다. “별일 아니겠지” 넘기지 말고 매번 적으세요. 2. 기록하는 방법 — 날짜·발언·목격자 행위 일시·장소·발언 내용·목격자를 매번 적으세요. 메신저·메일은 삭제하지 말고 보관하고, 통화 녹음은 대화 당사자가 자기 대화를 녹음하는 경우에 한해 활용 여부를 따져야 합니다. 업무상 필요로 한 지시였는지 스스로 구분해 적어 두세요. 이 구분이 조사에서 결정적이 됩니다. 관련 글 증거 수집 점검표 의 양식을 그대로 쓰세요. 건강 영향(수면·식사·출근 두려움 등)이 있으면 진료 기록을 남기세요. 진료 기록은 고통의 객관적 자료가 됩니다. 3. 사업주가 해야 하는 일 — 조사와 보호 신고가 들어오면 사실 확인과 조사, 피해자 보호 조치를 해야 합니다. 조사 중에 피해자와 행위자를 같은 공간에 두는 것은 피해자 보호에 반합니다. 취업규칙에 괴롭힘 예방·대응 절차를 두어야 하고, 신고자·진술자에게 불이익을 주는 것은 별개의 위법이 됩니다. 인사·평가 결과를 시점별로 기록해 두세요. 사업주의 조치 의무와 제재 규정은 사업주 의무 글 에서 더 자세히 볼 수 있습니다. 4. 신고와 그 이후 — 사내·노동청·노동위 사내 신고(인사·고충처리·취업규칙상 창구) 외에 노동청 진정, 노동위원회 구제신청 등을 검토할 수 있습니다. 사안에 따라 적용 법률이 다르므로 신고 절차 글 순서대로 진행하세요. 조사 결과가 미흡하면 그 자체를 문제 삼을 수 있습니다. 조사 진행 경과와 결과 통보 여부를 기록하고, 필요하면 재조사를 요구하세요. 괴롭힘과 성희롱이 겹치면 성희롱 글 의 절차도 함께 봅니다. 자주 틀리는 3가지 “상사가 혼내는 건 다 괴롭힘” — 적정 범위의 지시·평가는 괴롭힘이 아닙니다. 범위 초과 여부가 기준입니다. “증거 없이 말로 신고하면 된다” — 일시·발언·목격자 기록이 없으면 조사에서 불리합니다. “신고하면 인사 불이익은 감수” — 신고를 이유로 한 불이익은 별개 위법입니다. 인사 기록을 시점별로 보관하세요. 현장 체크리스트 □ 행위 일시·장소·발언·목격자를 매회 기록했는가 □ 메신저·메일 원본을 보관했는가 □ 사내 신고 창구(취업규칙)를 확인했는가 □ 인사·평가 변화를 시점별로 메모했는가 □ 건강 영향이 있으면 진료 기록을 남겼는가 자주 묻는 질문 Q. 동료·선임의 괴롭힘도 되나요? — A. 직위와 무관하게 실질적 우위 관계가 있으면 해당할 수 있습니다. 관계와 반복성을 기록하세요. Q. 카톡으로 욕설을 받았습니다. — A. 삭제하지 말고 원본을 보관하세요. 날짜·맥락과 함께 신고 자료가 됩니다. Q. 회사가 “장난이었다”고 합니다. — A. 행위자의 의도보다 적정 범위 초과 여부와 피해 결과가 기준입니다. Q. 신고 후 따돌림이 심해졌습니다. — A. 2차 불이익은 별개 위법이 될 수 있습니다. 변화 전후 기록을 모아 추가 상담을 받으세요. 근거와 원문 근로기준법 직장 내 괴롭힘 금지·조치 규정 — 국가법령정보센터 괴롭힘 판단·예방 안내 — 고용노동부 누리집 관련 글: 신고 절차 · 사업주 의무 · 증거 점검표 이 글은 2026-09-19 기준 일반 안내이며 정신건강·법률 자문이 아닙니다. 신체·정신 건강에 영향이 있다면 진료를 먼저 받고, 대응 절차는 노조·전문가와 상의하세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>직장 내 성희롱 — 예방과 대응</title>
+      <link>https://nodong.seoulblue.com/articles/workplace-sexual-harassment</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/workplace-sexual-harassment</guid>
+      <category>지식</category>
+      <description>← 지식 목록 직장 내 성희롱 — 예방과 대응 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 직장 내 성희롱은 상대가 원하지 않았는지 와 업무 관계에서 비롯됐는지 를 중심으로 판단됩니다. “의도가 아니었다”는 항변은 기준이 아닙니다. 이 글은 범위·사업주 의무·당사자 대응·증거 보관까지 순서대로 정리한 안내입니다. 사안 특성상 상담·수사 절차가 개입되는 경우가 많으므로 마지막 점검표까지 읽고 괴롭힘 글 ·신뢰할 수 있는 상담 창구와 함께 대응하세요. 기록·거부의사 → 신고 → 조사·보호조치 (개념도) 한눈에 보는 표 구분 기준 기록할 것 성립 업무 관련성 + 상대가 원하지 않은 성적 언동 일시·장소·발언·목격자, 거부의사 표시 기록 사업주 의무 예방교육·고충처리·조사·피해자 보호·불이익 금지 신고일·조사 경과·조치 통보 보관 대응 경로 사내 → 노동청·사외 상담 → 수사 원본 별도 저장, 2차 피해 기록 1. 범위를 어디까지 보나 말·행동·게시물 등 형태를 가리지 않습니다. 업무 관련 모임이나 온라인 소통도 직장 내 행위로 취급될 수 있습니다. 회사가 문제를 알았는데 방치하면 고용상 불이익과 함께 별도 문제가 됩니다. “알았다”는 시점을 기록하는 것이 중요합니다. 괴롭힘과 겹치는 경우가 많습니다. 관련 글 괴롭힘 글 · 신고 절차 글 과 함께 보세요. 2. 사업주의 의무 — 교육·조사·보호 예방 교육, 고충 상담, 조사와 피해자 보호 조치가 요구됩니다. 신고 접수와 조사 절차를 문서로 정해 두는 것이 회사 의무의 일부입니다. 신고·진술을 이유로 불이익을 주는 것은 금지됩니다. 신고 전후의 인사·평가 변화를 시점별로 기록하세요. 3. 당사자가 할 수 있는 일 — 거부·분리·문서요청 일시·장소·발언·목격자를 남기고, 반복되는 경우 즉시 거부 의사를 명확히 표시하세요. 거부 기록 자체가 이후 절차의 근거가 됩니다. 가해자와 직접 협의를 요구받는 상황을 피하세요. 조사 절차와 피해자 보호 조치(분리·휴가 등)를 문서로 요청하세요. 필요하면 사외 상담 기관, 노동청, 수사기관을 함께 검토하세요. 사내 절차만으로 해결되지 않는 경우가 있습니다. 4. 증거와 유의점 — 원본을 살려라 삭제된 메신저는 복구가 어렵습니다. 받은 즉시 별도 저장(캡처+원본 보관)하세요. 관련 글 증거 점검표 양식을 쓰세요. 진정·고소 과정에서 2차 피해가 생기지 않도록 신뢰할 수 있는 창구를 정해 두는 것이 중요합니다. 혼자 대응하지 마세요. 자주 틀리는 3가지 “장난이면 괜찮다” — 상대가 원하지 않았는지가 기준입니다. “회식 자리는 직장 밖” — 업무 관련성이 있으면 직장 내 행위로 볼 수 있습니다. “증거 없이 말로 하면 된다” — 일시·발언·목격자 기록이 조사에서 결정적입니다. 현장 체크리스트 □ 일시·장소·발언·목격자를 기록했는가 □ 거부의사를 표시하고 기록했는가 □ 원본을 별도 저장했는가 □ 신고·조사 경과를 문서로 남겼는가 □ 신뢰할 창구(노조·상담기관)를 정했는가 자주 묻는 질문 Q. 한 번만 있었는데 신고되나요? — A. 성적 언동의 수위·맥락에 따라 한 번도 문제될 수 있습니다. 기록하고 상담하세요. Q. 카톡을 지웠습니다. — A. 남은 기록(통화·목격·정황)을 모으세요. 이후 자료는 즉시 별도 저장하세요. Q. 회사가 합의를 종용합니다. — A. 서명 전 상담이 필요합니다. 합의 내용은 문서로 확정하세요. Q. 신고 후 불이익이 걱정됩니다. — A. 불이익 금지가 법으로 정해져 있습니다. 전후 기록을 모아 두세요. 근거와 원문 남녀고용평등법 직장 내 성희롱 규정 — 국가법령정보센터 예방·대응 안내 — 고용노동부 누리집 관련 글: 직장 내 괴롭힘 · 신고 절차 · 증거 점검표 이 글은 2026-09-19 기준 일반 안내입니다. 사안의 성격상 상담·수사 절차가 개입되는 경우가 많으므로, 노조·여성위원회·관련 상담 기관과 함께 대응하세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>근로시간과 연장·야간·휴일수당 기초</title>
+      <link>https://nodong.seoulblue.com/articles/working-hours-overtime</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/working-hours-overtime</guid>
+      <category>지식</category>
+      <description>← 지식 목록 근로시간과 연장·야간·휴일수당 기초 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 수당 문제는 대부분 “내 근로시간이 어떻게 기록됐는가” 에서 갈립니다. 계산식보다 기록이 먼저입니다. 이 글은 법정 근로시간 구조부터 연장·야간·휴일 가산, 포괄임금 점검, 기록 남기는 법까지 순서대로 정리한 안내입니다. 통상임금 범위와 가산 적용은 판례·해석에 따라 달라질 수 있으므로 마지막 점검표까지 읽고 연장수당 청구 글 ·전문가 상담으로 확인하세요. 기록 → 시간 확정 → 통상시급 → 가산 적용 (개념도) 한눈에 보는 표 구분 기준 기록할 것 법정 근로시간 주 40시간·일 8시간 원칙, 연장 한도 별도 소정·연장 구분 출퇴근 기록 가산 사유 연장·야간·휴일, 겹치면 중복 여부 판단 야간·휴일 시간대 표시 포괄임금 약정 시간 vs 실제 시간 대조 계약서 시간과 실제 기록 비교표 1. 법정 근로시간의 기본 구조 1주 법정 근로시간과 1일 한도, 연장근로 한도가 따로 정해져 있습니다. 한도를 넘긴 근로는 위법이면서 동시에 가산임금 대상이 됩니다. 근로기준법의 상당 부분은 일정 규모 이상 사업장에 적용됩니다. 사업장 규모에 따라 적용 여부가 달라지는 항목이 있으므로 자기 사업장 기준을 먼저 확인하세요. 휴게시간은 근로시간이 아닙니다. “휴게”인데 자리를 못 비웠다면 근로시간에 해당하는지 따져봐야 합니다. 2. 가산임금이 붙는 경우 연장근로, 야간근로, 휴일근로에는 통상임금에 가산율을 더해 지급합니다. 각 사유가 겹치면(예: 휴일 야간) 중복해서 가산되는지 여부를 따져야 합니다. 통상시급 기준은 평균·통상임금 글 을 보세요. 휴일근로는 8시간 이내와 초과분의 가산율이 다릅니다. 명절·공휴일 근무가 여기에 해당하는지도 확인 대상입니다. 가산 계산 전에 통상임금 범위를 확정해야 합니다. 고정수당 포함 여부가 금액을 바꿉니다. 3. 포괄임금제의 함정 — 약정 vs 실제 “수당 포함”이라는 계약 문구가 있어도 실제 근로시간이 그보다 훨씬 많으면 다툼이 생깁니다. 계약서에 적힌 시간과 실제 출퇴근 기록을 비교해 표로 만드세요. 감시·단속적 근로 등 승인을 받은 경우에는 근로시간 규정이 달리 적용됩니다. 승인 여부·승인 범위를 확인하지 않으면 판단을 잘못하기 쉽습니다. 포괄약정이 유효하려면 약정 시간·금액이 명확하고 실제 근로와 크게 어긋나지 않아야 합니다. 어긋남이 크면 차액 청구가 문제 됩니다. 4. 기록을 남기는 방법 출퇴근 시각, 작업 시작·종료, 휴게 시간을 본인이 따로 기록하세요. 사내 시스템에 없는 시간(사전 준비, 인수인계, 대기)도 적어 두세요. 지시가 구두로만 오는 사업장이라면 메신저·문자로 확인하는 습관이 기록을 만듭니다. 관련 글 증거 점검표 양식을 그대로 쓰세요. 월말에 명세서와 대조해 누락된 시간을 표시하세요. 누락이 반복되면 사업장 차원의 개선 요구로 이어가세요. 자주 틀리는 3가지 “포괄이라 초과수당 없다” — 약정 시간을 초과한 근로는 차액 문제가 생깁니다. “휴게시간도 근로시간” — 자유 이용이 보장된 휴게는 제외됩니다. 대기와의 구분이 핵심입니다. “야간·휴일 겹쳐도 한 번만” — 중복 가산 여부를 따져야 합니다. 현장 체크리스트 □ 소정·연장을 구분해 매일 기록했는가 □ 야간·휴일 시간대를 표시했는가 □ 계약서 약정 시간과 실제 시간을 비교했는가 □ 통상시급 계산 근거를 적었는가 □ 월말 명세서와 대조했는가 자주 묻는 질문 Q. 출퇴근 기록이 회사에만 있습니다. — A. 본인 기록을 따로 만드세요. 사진·메모·메신저 확인이 보조 증거가 됩니다. Q. 준비·마감 시간이 근무인가요? — A. 사용자의 지휘 아래 의무적으로 한 시간이면 해당할 수 있습니다. 실태를 기록하세요. Q. 포괄임금인데 야근이 많습니다. — A. 약정 시간과 실제를 비교해 차액을 계산하고 청구 글 순서대로 진행하세요. Q. 휴일 근무했는데 평일 수당과 같답니다. — A. 휴일 가산 규정을 적용해야 합니다. 명세서 항목을 확인하세요. 근거와 원문 근로기준법 근로시간·가산임금 규정 — 국가법령정보센터 근로시간 해석과 지침 — 고용노동부 누리집 관련 글: 연장수당 청구 · 통상임금 · 급여명세서 이 글은 2026-09-19 기준 일반 안내입니다. 통상임금 범위와 가산율 적용은 판례·행정해석에 따라 달라질 수 있으므로 전문가 확인이 필요합니다. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>해고와 부당해고 구제 절차</title>
+      <link>https://nodong.seoulblue.com/articles/unfair-dismissal</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/unfair-dismissal</guid>
+      <category>지식</category>
+      <description>← 지식 목록 해고와 부당해고 구제 절차 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 해고 통보를 받았다면 가장 먼저 볼 것은 두 가지입니다. 이유가 정당한가, 절차가 적법한가. 내용이 타당해 보여도 절차가 어긋나면 다툴 여지가 생깁니다. 이 글은 해고예고부터 노동위원회 구제신청까지 시간 순서대로 정리한 안내입니다. 구제신청 기간은 엄격하므로, 통보를 받은 날부터 바로 이 글의 점검표대로 움직이세요. 개별 전략은 해고 절차 · 노동위원회 구제 와 함께 보고 전문가 상담을 받으세요. 통보 확인 → 예고 확인 → 구제신청 → 결정 이후 (개념도) 한눈에 보는 표 — 해고 대응 4단계 단계 확인할 것 바로 할 일 1. 통보 해고 사유·시기가 서면인가 통보서 원본 보관, 구두 통보는 문서 요구 2. 예고 30일 전 예고 또는 예고수당 지급 여부 예고일·수당 계산 근거 기록 3. 구제신청 해고일로부터 3개월 이내 접수 경위서 시간순 정리, 증거 목록화 4. 결정 이후 복직·수당·불복 절차 행정소송·민사 병행 여부 상담 1. 해고의 두 가지 요건 — 이유와 절차 정당한 이유가 있어야 하고, 해고 사유와 시기를 서면으로 통지 해야 합니다. 구두 통보만으로는 요건을 갖추지 못한 경우가 많습니다. “말로 들었다”면 서면 교부를 요구하고, 그 과정도 기록하세요. 일정 규모 이상 사업장에서는 해고 전 협의·통보 절차가 요구됩니다. 취업규칙·단체협약에 별도 절차(징계위원회 등)가 있으면 그 절차 위반 자체가 다툼의 근거가 됩니다. 사유가 “근무태도 불량”처럼 추상적이면 구체적 사실(언제·어디서·무엇을)을 요구하세요. 추상적 사유만으로 한 해고는 다투기 쉽습니다. 2. 해고예고 — 30일 또는 수당 해고할 때는 30일 전에 예고하거나 그에 해당하는 통상임금을 지급해야 합니다. 예고 없이 즉시 해고했다면 이 부분도 함께 문제 삼을 수 있습니다. 다만 중대한 법규 위반 등 예고 의무가 면제되는 예외가 있습니다. 회사가 주장하는 사유가 실제로 그 예외에 해당하는지 따져야 합니다. 회사의 주장만으로 예외가 인정되지는 않습니다. 예고수당은 통상임금을 기준으로 계산합니다. 관련 글 평균임금과 통상임금 에서 계산 기준을 확인하세요. 3. 구제신청 — 기간이 가장 중요하다 부당해고라고 판단되면 관할 지방노동위원회에 구제신청을 할 수 있습니다. 해고가 있은 날부터 3개월 안에 접수 해야 하며, 이 기간을 넘기면 다툴 수 없습니다. 우편 접수는 도착일 기준이므로 마감 직전에는 직접·전자 접수가 안전합니다. 신청서에는 해고 경위·근무 이력·회사의 주장에 대한 반박을 시간순으로 정리해 붙입니다. 통보서·문자·메신저·녹취·동료 진술이 증거가 됩니다. 증거는 원본을 지우지 말고 목록으로 정리하세요. 신청 후에는 심문회의가 열립니다. 회사 측 주장에 대한 반박을 미리 문서로 준비하고, 새로 나온 주장이 있으면 추가 서면으로 대응합니다. 4. 결정 이후 — 끝이 아니다 구제 결정(부당해고 인정)이 나와도 회사가 불복해 중앙노동위원회 재심, 행정소송으로 가는 경우가 있습니다. 각 단계마다 별도 기간이 있으므로 결정문을 받는 즉시 다음 기한을 확인하세요. 반대로 기각되면 재심 신청 등 다음 단계를 검토합니다. 기각 이유를 분석해 부족한 증거를 보강하는 것이 핵심입니다. 구제 절차와 별개로 해고무효확인 소송(민사)·임금 청구 등을 병행하는 경우도 있습니다. 전략은 사안에 따라 달라지므로 노조·변호사와 상의하세요. 자주 틀리는 3가지 “말로 해고해도 효력 있다” — 서면 통지 요건을 갖추지 못하면 다툼의 여지가 큽니다. “3개월 지나도 된다” — 구제신청 기간을 넘기면 접수 자체가 각하됩니다. “예고 없이 자르면 그만” — 예고 또는 예고수당 지급 의무가 별도로 있습니다. 현장 체크리스트 (통보 받은 날 바로) □ 통보서 원본(사유·시기 적힌 서면)을 확보했는가 □ 해고일(기간 기산일)을 달력에 표시했는가 □ 예고 여부와 예고수당 계산 근거를 기록했는가 □ 문자·메신저·녹취·출퇴근 기록을 백업했는가 □ 3개월 마감 전에 전문가 상담 예약을 잡았는가 자주 묻는 질문 Q. 구두로 “내일부터 나오지 마”라는데 해고인가요? — A. 서면 통지를 요구하세요. 구두 통보만으로는 요건 위반을 다툴 수 있습니다. Q. 수습·계약직도 구제신청이 되나요? — A. 고용형태와 별개로 해고 요건·절차를 따집니다. 계약만료와 중도해고를 구분해 보세요. 관련 글 기간제 보호 도 확인하세요. Q. 회사가 합의를 요구합니다. — A. 합의서·각서에 서명하기 전 반드시 상담을 받으세요. 서명한 뒤에는 되돌리기 어렵습니다. Q. 구제신청과 소송을 같이 할 수 있나요? — A. 가능합니다. 다만 절차별 기한과 비용이 다르므로 전략 상담이 필요합니다. 근거와 원문 근로기준법 해고 제한·예고·서면통지 규정 — 국가법령정보센터 에서 “근로기준법” 검색 노동위원회 구제신청 절차 — 중앙노동위원회 누리집 관련 글: 해고 절차 요건 · 징계 절차 · 증거 수집 점검표 이 글은 2026-09-19 기준 일반 안내입니다. 구제신청 기간과 요건은 사안에 따라 엄격하게 적용되므로, 해고 통보를 받았다면 즉시 전문가 상담을 받으세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>부당노동행위 — 유형과 구제 절차</title>
+      <link>https://nodong.seoulblue.com/articles/unfair-labor-practice</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/unfair-labor-practice</guid>
+      <category>지식</category>
+      <description>← 지식 목록 부당노동행위 — 유형과 구제 절차 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 부당노동행위는 “마음”이 아니라 행위와 시점 으로 판단됩니다. 언제 무슨 일이 있었는지가 사실관계의 전부입니다. 이 글은 금지 행위 유형부터 증거 정리·구제신청·인정 이후 추적까지 순서대로 정리한 안내입니다. 인정 여부는 사실관계와 시점에 좌우되므로 마지막 점검표까지 읽고 초기부터 상급단체·전문가와 함께 대응하세요. 시점 대조 → 증거 목록 → 구제신청 → 이행 추적 (개념도) 한눈에 보는 표 — 금지 행위 5유형 유형 내용 확인 자료 불이익 처우 가입·활동을 이유로 인사·평가 불이익 가입일·활동일·인사발령일 대조 지배·개입 조합 운영에 개입, 대항조직 지원 회의 자료·메신저·공지문 교섭 거부·지연 정당한 교섭 요구에 불응 교섭 요구서·재촉 기록 대표자 아닌 자와 협약 대표자 아닌 사람과 협약 체결 협약서·서명자 자격 보복적 해고 조합 활동을 이유로 한 해고·계약거절 활동 기록·해고 통보서 1. 법이 금지하는 행위 유형 조합 가입·탈퇴·활동을 이유로 한 불이익 처우, 조합 운영에 대한 지배·개입, 교섭 거부·지연 등이 대표적인 유형입니다. 실제로 가장 다툼이 되는 것은 '불이익 처우'와 '지배·개입'이다. 인사 발령과 조합 탄압이 겹치는 경우가 많습니다. 2. 무엇을 증거로 남기나 — 시점 대조가 핵심 가입 시점, 활동 내역, 불이익이 발생한 시점을 시간순으로 나열하세요. 두 사건의 간격이 판단의 핵심입니다. 회의 자료·메신저·평가서·인사발령문을 모으세요. 회사가 제시한 사유와 실제 정황이 맞지 않는 부분을 정리하세요. 3. 구제신청 노동위원회에 구제신청을 할 수 있고, 신청 기간 제한이 있으므로 사건을 인지한 즉시 기한을 확인하세요. 구제신청과 별개로 형사 고발, 노동청 진정을 병행할 수 있다. 순서와 자료 공유 방법을 정해 두면 중복 작업이 줄어듭니다. 4. 인정된 뒤 — 이행 추적 구제 명령이 내려지면 원상회복·부당이득 반환 등이 문제 됩니다. 명령 내용을 조합 차원에서 추적해야 합니다. 회사가 행정소송으로 다투는 경우가 흔합니다. 소송 기간 동안 조합원 처우가 다시 나빠지지 않는지 기록을 이어가세요. 자주 틀리는 3가지 “마음이 문제다” — 행위와 시점으로 판단됩니다. 날짜 대조표가 핵심입니다. “인사는 회사 권한이다” — 조합 활동 시점과 맞물리면 별개 판단이 필요합니다. “명령이 나오면 자동 이행된다” — 조합이 이행 여부를 추적하고 필요한 절차를 검토해야 합니다. 현장 체크리스트 □ 가입·활동 시점을 날짜로 정리했는가 □ 불이익 발생 시점을 대조표로 만들었는가 □ 회사가 제시한 사유와 실제 정황의 불일치를 적었는가 □ 구제신청 기간을 확인했는가 □ 명령 이행 여부를 추적하고 있는가 자주 묻는 질문 Q. 조합 가입 후 인사평가가 떨어졌습니다. — A. 시점 대조표를 만들고 이전 평가·평가 기준과 비교하세요. 평가서와 통보 일자를 보관하세요. Q. 회사가 조합 대신 다른 모임을 지원합니다. — A. 지배·개입 유형에 해당할 수 있습니다. 지원 내역·공지문·회의 자료를 보관하세요. Q. 교섭 요구에 답이 없습니다. — A. 재촉 기록을 남기고 지연·거부로 다툴 수 있는지 상급단체와 상담하세요. Q. 조합원 다수가 같은 불이익을 받았습니다. — A. 개별 기록을 모아 사업장 단위 문제로 제기할 수 있는지 검토하세요. 근거와 원문 노동조합 및 노동관계조정법 부당노동행위 규정 — 국가법령정보센터 부당노동행위 구제신청 안내 — 중앙노동위원회 누리집 관련 글: 노동위 구제신청 · 증거 점검표 · 쟁의행위 이 글은 2026-09-19 기준 일반 안내입니다. 부당노동행위 인정 여부는 사실관계와 시점에 좌우되므로 초기부터 상급단체·관할 노동위원회·노무사·변호사와 함께 대응하세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>노조 회계·조합비·전임자 — 운영의 기본</title>
+      <link>https://nodong.seoulblue.com/articles/union-finance-and-officers</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/union-finance-and-officers</guid>
+      <category>지식</category>
+      <description>← 지식 목록 노조 회계·조합비·전임자 — 운영의 기본 안내·해설 일반 교육용 정리 · 법률 자문 아님 회계와 전임자 문제는 조합 내부 신뢰의 기초 이면서 회사와의 분쟁 지점입니다. 규약과 회계 규칙을 먼저 정리해야 합니다. 회계의 기본 원칙 수입·지출 내역을 문서로 남기고 정기적으로 감사와 보고를 한다. 회계 연도와 예산 승인 절차를 규약에 정한다. 회비·보조금·기부금 등 수입원별로 구분해 기록한다. 용도가 정해진 자금은 다른 항목과 섞지 않는다. 조합비 징수 조합비를 급여에서 공제해 받는 방식(체크오프)은 회사와의 합의가 필요하다. 동의 방식과 범위를 문서로 정한다. 조합원별 징수 내역과 미납 내역을 명확히 관리한다. 나중에 분쟁이 되면 이 기록이 기준이 된다. 전임자 전임자 급여·인원 처리에 대해서는 노동조합법상 일정한 제한이 있고, 단체협약·취업규칙과의 관계가 문제 된다. 전임자 근무 조건과 복귀 절차를 문서로 남긴다. 복귀 시 원직 복귀 여부가 다툼이 되는 경우가 있다. 투명성이 주는 힘 회계 자료를 조합원이 열람할 수 있게 하면 내부 분쟁이 줄고 외부 공격에 대한 방어력이 생긴다. 회의록·결산서를 연도별로 보관한다. 교섭 단계에서 조합의 운영 체계를 설명하는 자료가 된다. 이 글은 일반 안내입니다. 전임자 관련 규정과 회계 기준은 법령·판례에 따라 달라질 수 있으므로 상급단체 검토를 받으세요. 실무 유의 조합비 징수·지출은 대장과 결재 흐름을 항상 남깁니다. 전임자 급여·근로시간은 협약과 법에 따라 처리 — 사전 합의 문서가 최선입니다. 회계 감사·총회 보고 일정을 사규·규약에 맞춰 고정하세요. 교섭·쟁의 비용과 회계의 경계는 단체교섭 · 조정 절차와 함께 관리합니다. 총회·감사 기본 일지 □ 예산·결산 승인 일자 ____ □ 조합비 인상·징수 변경 고지 ____ □ 전임자 급여 근거 협약 조항 ____</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>노동조합 설립 — 절차와 준비물</title>
+      <link>https://nodong.seoulblue.com/articles/union-setup</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/union-setup</guid>
+      <category>지식</category>
+      <description>← 지식 목록 노동조합 설립 — 절차와 준비물 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 노동조합 설립은 허가가 아니라 신고 입니다. 다만 규약과 절차를 갖추지 못하면 이후 교섭·분쟁에서 약점이 됩니다. 이 글은 설립 전 결정사항부터 규약·신고·방해 대응까지 순서대로 정리한 안내입니다. 필수 기재사항과 서류는 바뀔 수 있으므로 마지막 점검표까지 읽고 상급단체·관할 관청에서 최신 기준을 확인하세요. 교섭단위 결정 → 규약 작성 → 설립신고 → 교섭 준비 (개념도) 한눈에 보는 표 — 설립 4단계 단계 할 일 남길 기록 1. 준비 교섭 단위·구성원 범위·역할 결정 준비 회의 일시·참석자·발언 요지 2. 규약 법정 필수 기재사항 채우기 규약 원본·수정 이력 3. 신고 설립신고서·규약·임원 명단 제출 제출 사본·접수증·신고증 4. 활동 조합원 명부·회의·회계 정리 회의록·회계 장부 1. 설립 전에 정할 것 — 교섭 단위가 기준 교섭 단위를 정하세요. 사업장 단위, 산업·업종 단위, 지역 단위 등 형태에 따라 이후 활동 방식이 달라집니다. 관련 글 교섭 창구 단일화 글 도 함께 보세요. 초기 구성원의 범위와 역할을 정하세요. 설립 준비 단계의 회의·문서가 이후 분쟁에서 근거가 됩니다. 가입 권유 방법을 정하세요. 업무시간·장소 사용은 취업규칙과 충돌할 수 있으니 사전에 확인하세요. 2. 규약에 반드시 들어갈 사항 명칭, 목적, 소재지, 조합원 자격과 가입·탈퇴, 임원 구성과 임기, 회의 운영, 회계, 해산 등 법이 정한 필수 기재사항이 있습니다. 빠진 항목이 있으면 보완 요구를 받습니다. 규약은 표준안을 참고하되 사업장 현실에 맞게 고쳐야 한다. 나중에 고치는 것보다 처음에 검토를 받는 편이 낫습니다. 쟁의행위·교섭 대표 권한 조항을 구체적으로 쓰세요. 권한 없는 합의는 나중에 무효 다툼이 됩니다. 3. 설립신고 — 신고증이 교섭의 출발점 설립신고서와 규약, 임원 명단 등을 갖춰 행정관청에 제출하면 신고증이 교부됩니다. 이후 교섭 창구로서 지위를 갖추게 됩니다. 신고 전이라도 단결 자체는 보장됩니다. 다만 신고 여부가 교섭 요구·법적 보호에서 차이를 만듭니다. 신고증·접수 사본은 원본과 별도로 보관하세요. 교섭 요구 시 대표자 지위 증명에 쓰입니다. 관련 글 단체교섭 글 을 참고하세요. 4. 설립을 방해하는 경우 — 부당노동행위 가입 권유를 이유로 한 인사상 불이익은 부당노동행위에 해당할 수 있습니다. 노동조합법이 금지하는 행위 유형을 확인해 두면 대응이 쉬워집니다. 관련 글 부당노동행위 글 의 유형표를 확인하세요. 설립 단계부터 회의 일시·참석자·발언을 기록으로 남기는 습관이 필요합니다. 관련 글 증거 점검표 양식을 쓰세요. 자주 틀리는 3가지 “신고 안 하면 조합 아님” — 단결은 신고 전에도 보장됩니다. 다만 교섭 지위는 달라집니다. “규약은 나중에 정리” — 필수 기재사항 누락은 보완 요구로 이어집니다. “준비 회의는 기록 불필요” — 초기 기록이 방해·불이익 다툼의 기초가 됩니다. 현장 체크리스트 □ 교섭 단위를 정했는가 □ 규약 필수 기재사항을 채웠는가 □ 신고 서류 사본을 보관했는가 □ 준비 회의 기록을 남겼는가 □ 방해·불이익 발생 시 기록 체계를 갖췄는가 자주 묻는 질문 Q. 몇 명부터 만들 수 있나요? — A. 인원 기준보다 규약·대표자 요건이 관건입니다. 상급단체에 상담하세요. Q. 회사가 규약을 요구합니다. — A. 신고 후 확인 가능 범위를 따져보세요. 무리한 자료 요구는 간섭이 될 수 있습니다. Q. 설립 후 해고됐습니다. — A. 시점관계를 정리해 부당노동행위·부당해고를 함께 검토하세요. Q. 임원을 맡으면 불이익이 걱정됩니다. — A. 임원 활동을 이유로 한 불이익은 금지됩니다. 기록을 남기세요. 근거와 원문 노동조합 및 노동관계조정법 설립 규정 — 국가법령정보센터 설립 신고 안내 — 고용노동부 누리집 · 관할 지방관서 관련 글: 단체교섭 · 부당노동행위 · 노조 회계·전임자 이 글은 2026-09-19 기준 일반 안내입니다. 규약 필수 기재사항과 신고 서류는 변경될 수 있으므로 상급단체 또는 관할 행정관청에서 최신 기준을 확인하세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>임금체불 — 확인과 대응 절차</title>
+      <link>https://nodong.seoulblue.com/articles/wage-arrears</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/wage-arrears</guid>
+      <category>지식</category>
+      <description>← 지식 목록 임금체불 — 확인과 대응 절차 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 임금은 노동의 대가이자 생계의 기반입니다. 체불이 생겼을 때 대응의 핵심은 기록을 먼저 만들고, 절차를 순서대로 밟는 것 입니다. 감정적 항의보다 증거 확보가 회수 가능성을 높입니다. 이 글은 체불 확인부터 진정·지연이자·대지급금까지 실행 순서대로 정리한 안내입니다. 금액 계산과 시효 판단은 사안마다 다르므로 마지막 점검표까지 읽고 진정 안내 ·전문가 상담으로 확인하세요. 증거 확보 → 항목 구분 → 서면 요구 → 진정 → 지연이자·대지급금 (개념도) 한눈에 보는 표 — 대응 순서 순서 할 일 남길 기록 1 미지급 항목 구분 계약서·명세서·입금내역·출퇴근 기록 2 회사에 서면으로 지급 요구 내용증명·메일 발송 내역 3 고용노동청 진정 진정서·조사 결과서 4 지연이자·대지급금 검토 계산서·신청 서류 1. 먼저 확인할 것 — 항목을 구분하라 근로계약서·급여명세서·통장 입금내역·출퇴근 기록을 모으세요. 카카오톡·문자로 받은 지시와 약속도 증거가 됩니다. 구두 약속은 날짜·상대방과 함께 메모해 두세요. 미지급 항목을 구분하세요. 기본급·연장수당·주휴수당·퇴직금·연차수당은 각각 계산 근거가 다릅니다. 뭉뚱그려 “월급 밀렸다”가 아니라 항목별로 금액을 적어야 조사도 빨라집니다. 청구할 수 있는 기간을 확인하세요. 임금채권은 소멸시효가 짧아 시간이 지나면 회수 자체가 어려워집니다. 관련 글 소멸시효 를 함께 보세요. 2. 회사에 서면으로 요구 — 진정 전 한 단계 진정 전에 미지급 내역(기간·항목·금액)과 지급 기한을 적어 서면으로 요구하세요. 내용증명 우편이면 발송 기록이 남아 이후 절차에서 유리합니다. 회사가 “다음 달에 준다”고 하면 날짜·금액을 문서로 확정하세요. 구두 약속만으로는 시효가 계속 흐릅니다. 이 단계의 서류는 진정서·소송의 기초 자료가 됩니다. 관련 글 내용증명 작성법 을 참고하세요. 3. 진정과 근로감독 사업장 소재지를 관할하는 고용노동청(지방관서)에 진정을 제출하면 근로감독관이 사실관계를 조사합니다. 진정은 대리 제출도 가능하고, 노조가 있으면 조합을 통해 진행하는 편이 기록 관리에 유리합니다. 근로기준법상 임금 지급 의무 위반은 형사처벌 대상이지만, 반의사불벌 조항이 적용되어 처리 방식이 사안마다 달라질 수 있습니다. “처벌 의사” 표시에 신중해야 하는 이유입니다. 조사 과정에서 사용자가 일부 지급하면 지급 내역을 반드시 영수증·입금증으로 남기세요. 4. 지연이자와 대지급금 지급 기일을 넘긴 임금에는 지연이자가 붙습니다. 근로기준법이 정한 이율이 있으므로 청구 시 원금과 함께 적으세요. 사업주가 지급 능력이 없거나 도산한 경우 국가가 일정 범위에서 대신 지급하는 제도(대지급금)가 있습니다. 신청 요건과 한도가 정해져 있으니 퇴직 후라도 사업주 인적사항·사업자등록번호를 미리 확보해 두면 절차가 빨라집니다. 퇴직금도 임금채권의 하나로 진정·소송 대상이 됩니다. 퇴직 시점의 평균임금 산정 자료를 확보해 두는 것이 중요합니다. 관련 글 퇴직금 · 급여명세서 읽기 를 함께 보세요. 자주 틀리는 3가지 “사장이 어렵다니까 기다려야 한다” — 기다리는 동안 시효가 흐릅니다. 서면 요구와 진정은 병행할 수 있습니다. “명세서가 없으면 못 받는다” — 통장 내역·출퇴근 기록·메신저 지시도 증거가 됩니다. “회사가 망하면 끝” — 대지급금 제도로 일정 범위를 국가에서 대신 지급받을 수 있습니다. 현장 체크리스트 □ 계약서·명세서·통장내역·출퇴근 기록을 모았는가 □ 항목별(기본급·수당·퇴직금) 미지급액을 적었는가 □ 서면 지급 요구를 보냈는가 □ 관할 고용노동청을 확인했는가 □ 지연이자 계산 근거를 적었는가 자주 묻는 질문 Q. 퇴사했는데 체불을 청구할 수 있나요? — A. 가능합니다. 퇴직 후라도 진정·소송 대상이 됩니다. 다만 시효가 있으므로 미루지 마세요. Q. 증거가 명세서밖에 없습니다. — A. 통장 입금내역, 출퇴근 기록, 업무 지시 메신저를 함께 모으세요. 여러 조각이 모이면 입증력이 커집니다. Q. 사장이 “고소 취하하면 준다”고 합니다. — A. 반의사불벌 구조를 악용한 흥정일 수 있습니다. 지급 확인 전 취하는 합의는 전문가 상담 없이 하지 마세요. Q. 일부만 받았습니다. — A. 받은 금액의 항목(어느 달·어느 수당인지)을 문서로 확정하고 나머지를 계속 청구하세요. 근거와 원문 근로기준법 임금 지급·지연이자 규정 — 국가법령정보센터 진정 제기와 대지급금 안내 — 고용노동부 누리집 관련 글: 노동청 진정 방법 · 증거 수집 점검표 · 연장수당 청구 이 글은 2026-09-19 기준 일반 안내입니다. 구체적인 금액 산정·소멸시효 판단은 사안마다 다르므로, 노조·공인노무사·변호사 또는 관할 고용노동청에서 확인하세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>노동조합이란 무엇인가</title>
+      <link>https://nodong.seoulblue.com/articles/what-is-union</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/what-is-union</guid>
+      <category>지식</category>
+      <description>← 지식 목록 노동조합이란 무엇인가 안내·해설 일반 교육용 정리 · 법률 자문 아님 노동조합은 노동자가 임금·근로조건·고용 안정·산업안전 등 공통의 이해관계를 지키기 위해 자주적으로 결성하는 조직입니다. 한 사람이 사용자와 대등하게 협상하기 어려운 현실에서, 조합은 집단의 힘으로 교섭하고 권리를 주장하는 통로가 됩니다. 헌법이 보장하는 노동3권(단결·단체교섭·단체행동)의 실천 단위이기도 합니다. 무엇을 위해 존재하는가 조합의 일상은 파업만이 아닙니다. 임금·근로시간·휴게·휴가·안전보건·괴롭힘·차별 등 현장에서 반복되는 문제를 모으고, 단체협약과 취업규칙·근로계약의 공백을 메우며, 부당해고·임금체불 등 개별 사건에 대한 상담과 대응을 돕습니다. 또한 산업·지역 단위의 정책 변화에도 목소리를 내어, 한 사업장을 넘는 기준을 만드는 데 참여합니다. 누가 가입할 수 있는가 원칙적으로 근로자 지위에 있는 사람이 가입 대상입니다. 정규직뿐 아니라 기간제·단시간·파견·용역 등 다양한 고용형태에서도 노조 가입·활동의 권리가 논의됩니다. 다만 사용자 측에 해당하는 직책·권한을 가진 경우 가입 제한이 생길 수 있어, 구체 사례는 해당 노조와 상담하는 것이 안전합니다. 현장에서 체감하는 역할 잘 작동하는 조합은 위험을 혼자 감추지 않게 하고, 부당한 지시를 기록·문제제기할 통로를 만들며, 교섭 테이블에 노동자의 요구를 올립니다. 반대로 조합이 없거나 약하면 개별 노동자가 보복을 두려워해 침묵하기 쉽습니다. 연대와 정보 공유는 바로 그 침묵을 줄이기 위한 출발점입니다. 조합비와 민주적 운영 조합비는 상담·교육·교섭·법률지원·연대활동 등 운영 재원이 됩니다. 대의원·총회·회계 공개 등 민주적 절차가 있을수록 조합원의 신뢰가 커집니다. 가입 전에는 규약·회비·교섭 단위·최근 활동을 확인하는 것이 좋습니다. 상급단체(총연맹·산별)와의 관계도 현장 대응력에 영향을 줍니다. 연대가 필요한 이유 하청·파견·특수고용처럼 사용자가 여럿이거나 모호한 구조에서는 한 사업장 조합만으로 한계가 있습니다. 지역·업종을 넘는 정보 공유와 공동 대응이 바로 노동연대가 강조하는 지점입니다. 작은 제보와 기록이 모여 제도 개선의 근거가 되기도 합니다. 이 글은 일반 개념 안내입니다. 가입 자격·교섭 창구·쟁의행위 요건 등은 사안마다 다르므로 소속·관심 노조 또는 전문가와 확인하세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>산업안전과 중대재해처벌법 개요</title>
+      <link>https://nodong.seoulblue.com/articles/safety-serious-accident</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/safety-serious-accident</guid>
+      <category>지식</category>
+      <description>← 지식 목록 산업안전과 중대재해처벌법 개요 안내·해설 일반 교육용 정리 · 법률 자문 아님 산업안전은 ‘사고가 난 뒤의 보상’보다 ‘사고를 막는 예방’이 핵심입니다. 「산업안전보건법」은 사업주의 안전·보건 확보 의무, 근로자의 참여, 유해·위험 작업에 대한 조치, 산재 예방 체계 등을 규율합니다. 원·하청이 섞인 현장일수록 위험의 외주화와 책임 공백이 문제로 떠오릅니다. 현장에서 반복되는 위험 요인 추락·끼임·충돌, 화학물질·분진, 과로·야간근무, 폭염·한파, 정신적 스트레스와 직장 내 괴롭힘까지 위험은 다양합니다. 위험은 ‘익숙함’ 속에 숨는 경우가 많아, 보고해도 묵살되거나 일정 압박에 밀려 생략되기 쉽습니다. 안전은 개인의 조심만으로 완성되지 않으며, 설비·절차·인력·교육·중단권이 뒷받침되어야 합니다. 중대재해처벌법의 취지 「중대재해 처벌 등에 관한 법률」은 중대산업재해·중대시민재해가 발생했을 때, 안전·보건 확보 의무를 소홀히 한 경영책임자 등에 대한 처벌과 책임 체계를 강화하려는 취지로 이해됩니다. 요지는 ‘현장 관리자만의 문제’로 돌리지 않고, 조직의 안전보건관리체계를 갖추고 이행했는지 묻는 데 있습니다. 적용과 의무의 큰 그림 사업 규모·업종·재해 유형에 따라 적용 범위와 의무 내용이 달라질 수 있습니다. 일반적으로는 재해 예방을 위한 인력·예산·점검, 위험성 평가, 도급·용역·위탁 시 안전보건 확보, 종사자 의견 청취 등 체계적 조치가 논의됩니다. 구체 요건은 시행령·고시·해설과 함께 확인해야 하며, 이 글만으로 의무 이행 여부를 판단할 수 없습니다. 노동자가 할 수 있는 일 위험 상황을 보고하고, 작업 중지를 요청하며, 산재 신청과 증거 보전(사진·목격자·의무기록)을 미루지 않는 것이 중요합니다. 하청·파견 노동자라도 안전에 대한 보호 요청을 포기할 이유는 없습니다. 노조·산업안전 담당·노동관서 상담을 적극 활용하세요. 원·하청과 안전 책임 도급 구조에서는 ‘누가 지시하고 위험을 통제하는가’가 핵심입니다. 원청이 작업 일정·방법·장소를 사실상 지배하면서 안전 투자를 하청에만 미루면, 산재 예방 체계가 공백이 됩니다. 중대재해 논의도 이러한 구조적 외주화를 배경으로 합니다. 하청 노동자도 위험 보고와 작업 중지를 요청할 수 있어야 합니다. 산재 신청과 기록 다치거나 질병이 업무와 관련 있다면 요양·휴업 등 산재보험 절차를 신속히 살펴야 합니다. 사업주 동의가 없어도 신청이 가능한 경우가 있으며, 초기 의무기록·목격자·작업환경 자료가 중요합니다. ‘공상 처리’로 서둘러 덮으면 나중에 불리해질 수 있어 신중해야 합니다. 중대재해처벌법·산안법의 적용·처벌은 사안별 법률 판단 영역입니다. 이 글은 개요 안내이며, 사고·고소·고발 등에서는 전문가와 상의하세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>퇴직금 — 발생 요건과 산정</title>
+      <link>https://nodong.seoulblue.com/articles/severance-pay</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/severance-pay</guid>
+      <category>지식</category>
+      <description>← 지식 목록 퇴직금 — 발생 요건과 산정 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 퇴직금은 재직 기간과 퇴직 직전 임금 으로 정해집니다. 그래서 퇴직 직전 3개월의 급여 자료를 남겨 두는 것이 핵심입니다. 이 글은 누가 받는지부터 산정 구조·지급 기한·못 받았을 때 순서까지 정리한 안내입니다. 계속근로 인정과 평균임금 포함 범위는 사안마다 결론이 다르므로 마지막 점검표까지 읽고 평균임금 글 ·전문가 상담으로 확인하세요. 계속근로기간 × 30일분 평균임금 구조 (개념도) 한눈에 보는 표 항목 기준 확인할 것 대상 계속근로 1년 이상 + 주 15시간 이상 수습·휴직·갱신 기간 포함 여부 산식 30일분 평균임금 × 계속근로연수 상여·연차수당 포함 여부 지급 퇴직 후 14일 이내 원칙 지연 시 지연이자, 합의 연장 여부 1. 누가 받나 — 계속근로가 관건 계속 근로 기간이 1년 이상이고 4주간 평균 주당 소정근로시간이 15시간 이상이면 퇴직급여 제도가 적용됩니다. 기간제·단시간도 요건을 채우면 대상입니다. “알바는 안 된다”는 말은 사실이 아닙니다. 수습 기간, 휴직 기간, 계약 갱신으로 이어진 기간이 계속 근로로 인정되는지가 다툼의 출발점입니다. 계약서가 바뀌었어도 실제 근로가 끊기지 않았다면 계속근로로 볼 여지가 큽니다. 입사일·계약서·갱신 내역을 시간순으로 정리해 두세요. 이 기록이 퇴직금 분쟁의 출발점입니다. 2. 얼마인가 — 평균임금 × 연수 계속근로 1년에 대해 30일분 이상의 평균임금을 지급하는 것이 기준입니다. 평균임금은 퇴직 전 3개월의 임금 총액을 그 기간의 일수로 나눈 값입니다. 상세 구조는 평균임금과 통상임금 글 을 보세요. 상여금·연차수당·미지급 수당이 평균임금에 포함되는지에 따라 결과가 크게 달라집니다. 퇴직 직전 1년의 지급 내역을 빠뜨리지 말고 모으세요. 법정 기준보다 유리한 퇴직급여를 정한 단체협약·취업규칙이 있으면 그것이 적용됩니다. 자사 규정을 먼저 확인하세요. 3. 언제 받나 — 14일 원칙 퇴직 후 14일 이내에 지급하는 것이 원칙이고, 늦어지면 지연이자가 문제 됩니다. 지급 기한을 문서로 확인하고, 연장 합의가 있었다면 그 합의서 사본을 보관하세요. 퇴직금을 분할 지급하거나 중간정산하는 방식은 요건이 엄격합니다. 동의서·각서를 요구받으면 서명 전에 내용을 확인하고 상담을 받으세요. 퇴직연금(DB·DC)에 가입된 경우 지급 방식이 다릅니다. 관련 글 퇴직급여 종류 글 에서 본인 유형을 확인하세요. 4. 받지 못했을 때 — 체불과 같은 순서 임금체불과 같은 절차로 진정·소송을 할 수 있습니다. 근로계약서·급여명세서·입금내역·출퇴근 기록을 모으세요. 관련 글 임금체불 대응 · 진정 방법 순서대로 진행하세요. 회사가 지급 능력이 없거나 도산한 경우 임금채권보장 제도(대지급금)를 검토합니다. 요건과 한도가 정해져 있으니 사업주 인적사항을 미리 확보해 두세요. 자주 틀리는 3가지 “1년 못 채우면 0원” — 계속근로 판단은 계약서 날짜가 아니라 실제 근로 연속성으로 봅니다. “상여금은 제외” — 정기 상여 등은 평균임금에 포함될 수 있어 포함 여부가 금액을 바꿉니다. “중간정산 동의는 형식” — 중간정산은 요건이 엄격합니다. 동의 전 상담이 필요합니다. 현장 체크리스트 □ 입사일·계약 갱신 내역을 시간순으로 정리했는가 □ 퇴직 전 3개월~1년 급여명세서를 모았는가 □ 취업규칙·단체협약의 퇴직급여 규정을 확인했는가 □ 지급 기한(14일)을 문서로 확인했는가 □ 중간정산·분할 요구가 있으면 상담 전에 서명하지 않았는가 자주 묻는 질문 Q. 계약직 11개월인데 퇴직금이 없나요? — A. 갱신 반복으로 계속근로 1년을 넘기면 대상이 될 수 있습니다. 계약서 전부를 모아 확인하세요. Q. 주 15시간 미만이면 정말 없나요? — A. 법정 퇴직급여 대상에서 제외될 수 있습니다. 다만 소정시간 산정 방식을 따져봐야 합니다. Q. 퇴직금 대신 연봉에 포함됐다고 합니다. — A. 퇴직금 분할 약정은 엄격한 요건을 갖춰야 유효합니다. 약정서와 실제 지급 내역을 대조하세요. Q. 회사가 “다음 달에 준다”고 합니다. — A. 지급 기한 연장은 문서로 확정하고 지연이자를 함께 확인하세요. 근거와 원문 근로자퇴직급여 보장법 규정 — 국가법령정보센터 에서 “퇴직급여” 검색 퇴직급여·대지급금 안내 — 고용노동부 누리집 관련 글: 평균임금과 통상임금 · 퇴직급여 종류 · 급여명세서 읽기 이 글은 2026-09-19 기준 일반 안내입니다. 평균임금·계속근로기간 판단은 사안마다 결론이 다르므로, 실제 청구 전에 노무사·변호사 검토를 받으세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>노동 권리의 소멸시효 — 언제까지 다툴 수 있나</title>
+      <link>https://nodong.seoulblue.com/articles/statute-of-limitations</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/statute-of-limitations</guid>
+      <category>지식</category>
+      <description>← 지식 목록 노동 권리의 소멸시효 — 언제까지 다툴 수 있나 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 권리가 있어도 기간이 지나면 청구할 수 없습니다 . 사건별로 어느 시계가 돌고 있는지 구분해서 봐야 합니다. 이 글은 돈 청구의 시효부터 행정 구제 기간·실무 순서까지 정리한 안내입니다. 구체 기간은 유형·시점에 따라 달라지므로 마지막 점검표까지 읽고 반드시 전문가에게 확인하세요. 이 글의 날짜를 그대로 적용하면 안 됩니다. 돈 청구 시효 vs 행정구제 신청기간 — 별개 시계 (개념도) 한눈에 보는 표 — 두 개의 시계 구분 대상 기산·대응 돈 청구 시효 임금·퇴직금 등 금전 청구 지급일부터 진행, 매달 각각 진행, 서면 청구로 중단 행정구제 신청기간 부당해고·부당노동행위·차별시정 발생·인지일부터 별도 계산, 경과 시 각하 1. 돈 청구의 시효 — 매달 따로 돈다 임금·퇴직금 등 금전 청구에는 소멸시효가 적용됩니다. 몇 해가 지나면 청구할 수 없습니다. 기간 길이는 유형별로 다르니 전문가 확인이 필요합니다. 시효는 급여 지급일처럼 청구할 수 있었던 시점부터 진행됩니다. 매달 발생하는 임금은 달마다 각각 진행됩니다. 오래된 달부터 소멸합니다. 청구로 시효가 중단될 수 있습니다. 내용증명 ·지급 요구 문서를 남기는 것이 그래서 중요합니다. 2. 행정 구제의 기간 — 소멸시효와 별개 부당해고·부당징계 구제신청, 부당노동행위 구제신청, 차별시정 신청에는 각각 별도의 신청 기간이 있습니다. 관련 글 노동위 구제 글 의 기한표를 보세요. 이 기간은 소멸시효와 다르게 움직입니다. 사건이 발생한 날과 안 날을 기준으로 계산합니다. 기간을 넘기면 실체 판단 없이 각하될 수 있습니다. 확실하지 않으면 즉시 접수하고 나중에 보정하는 편이 안전합니다. 3. 실무 순서 — 짧은 것부터 사건 목록을 만들고 각각에 대해 (1) 발생 시점, (2) 안 시점, (3) 적용되는 기간을 적으세요. 남은 기한이 짧은 것부터 처리하세요. 여러 사건이 얽혀 있으면 시급한 것만 먼저 접수하세요. 재직 중인지 퇴직 후인지에 따라 선택할 수 있는 절차가 달라집니다. 퇴사 예정이라면 퇴사 전에 정리해 두는 것이 좋습니다. 자주 틀리는 3가지 “한 번 요구하면 영구 중단” — 중단 효력과 요건을 따져야 합니다. 서면으로 남기세요. “행정 신청하면 돈 시효도 멈춘다” — 별개 시계입니다. 각각 대응하세요. “오래됐으니 포기” — 달마다 따로 돌므로 최근 달은 살아 있을 수 있습니다. 목록부터 만드세요. 현장 체크리스트 □ 사건별 발생·인지 시점을 적었는가 □ 돈 청구와 행정구제를 구분했는가 □ 가장 짧은 기한을 달력에 표시했는가 □ 서면 청구·접수를 했는가 □ 퇴사 전 정리할 것을 정리했는가 자주 묻는 질문 Q. 2년 전 체불도 되나요? — A. 달마다 따로 진행되므로 최근 달부터 확인하세요. 목록을 만들어 상담하세요. Q. 구두로 요구했습니다. — A. 구두 요구는 중단 근거로 인정받기 어렵습니다. 서면으로 남기세요. Q. 여러 사건이 겹쳤습니다. — A. 기한 짧은 것부터 접수하세요. 나머지는 순서대로 정리합니다. Q. 노조가 있는데 따로 해야 하나요? — A. 단체 교섭·진정·구제신청을 함께 설계해 기간을 놓치지 않게 관리하세요. 근거와 원문 민법 소멸시효·노동관계법 신청기간 — 국가법령정보센터 관련 글: 임금체불 · 노동위 구제 · 내용증명 이 글은 2026-09-19 기준 일반 안내입니다. 구체적인 기간은 사건 유형과 시점에 따라 달라지므로 반드시 전문가에게 확인하세요. 이 글의 날짜를 그대로 적용하면 안 됩니다. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>쟁의행위(파업) — 합법 요건과 절차</title>
+      <link>https://nodong.seoulblue.com/articles/strike-legal-basics</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/strike-legal-basics</guid>
+      <category>지식</category>
+      <description>← 지식 목록 쟁의행위(파업) — 합법 요건과 절차 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 쟁의행위는 절차를 지켰는지 가 핵심입니다. 목적이 정당해도 절차가 어긋나면 법적 보호를 받지 못합니다. 이 글은 기본 전제부터 절차 요건·현장에서 지킬 선·쟁의 이후 대응까지 순서대로 정리한 안내입니다. 적법성 판단은 구체적 사실에 따라 결론이 달라지므로 마지막 점검표까지 읽고 반드시 전문가 상담을 거치세요. 교섭 결렬 → 조정 → 찬반투표 → 쟁의행위 (개념도) 한눈에 보는 표 — 쟁의행위 4요건 요건 내용 남길 기록 목적 교섭 결렬 후 근로조건 개선 목적 교섭 요구·회의록·결렬 확인 절차 조정 신청 + 찬반투표 가결 조정 신청서·투표 공고·개표 기록 참여 자유로운 참여 보장, 강제 금지 참여 명단·교대 계획 방식 폭력·점거 등 위법 방식 배제 행동 수칙·교육 기록 1. 쟁의행위의 기본 전제 쟁의행위는 교섭이 결렬된 뒤의 수단이다. 교섭을 시도한 기록이 있어야 목적의 정당성을 설명할 수 있다. 정당한 쟁의행위는 민·형사 책임이 면제된다. 다만 폭력·점거 등 위법한 방식이 섞이면 개별 행위는 보호받지 못한다. 2. 절차 요건 — 조정과 찬반투표 쟁의행위 전에는 조정 절차를 거쳐야 한다. 조정 신청 대상과 기관은 사업장 성격에 따라 달라진다. 조합원 찬반투표에서 일정 비율 이상의 찬성을 받아야 한다. 투표 공고·개표 기록을 남겨 두는 것이 안전하다. 필수유지업무가 있는 사업장은 유지 인원·업무를 정하는 절차가 별도로 필요하다. 3. 현장에서 지켜야 할 선 조합원의 자유로운 참여를 보장해야 한다. 강제 참여나 불참자에 대한 압박이 확인되면 쟁의행위 자체의 정당성이 흔들린다. 생산시설 점거·대인 폭력·교통 방해는 형사책임으로 이어질 수 있다. 행위 방식을 사전에 정하고 교육한다. 참여자 명단·출입 기록·교대 계획을 남긴다. 이후 징계·손해배상 다툼에서 사실관계 자료가 된다. 4. 쟁의 이후 — 불이익은 부당노동행위 쟁의 종료 후 회사가 참여자에게 불이익을 주면 부당노동행위 검토 대상입니다. 인사 발령·징계 내역을 시간순으로 기록하세요. 관련 글 부당노동행위 글 을 참고하세요. 합의서에 쟁의 기간 중 행위에 대한 불이익 금지 조항을 넣는 것이 이후 다툼을 줄입니다. 자주 틀리는 3가지 “조정 없이 바로 파업” — 절차 요건을 건너뛰면 민·형사 면책을 받지 못합니다. “전원 찬성이라 투표 기록 불필요” — 공고·개표 기록이 없으면 절차 준수를 입증하기 어렵습니다. “쟁의 끝나면 끝” — 이후 불이익은 별개의 부당노동행위가 됩니다. 현장 체크리스트 □ 교섭 시도·결렬 기록이 있는가 □ 조정 신청을 했는가 □ 찬반투표 공고·개표 기록을 남겼는가 □ 필수유지업무 인원·업무를 정했는가 □ 행동 수칙을 정하고 교육했는가 자주 묻는 질문 Q. 투표 없이 파업하면 어떻게 되나요? — A. 절차 위반으로 민·형사 책임 문제가 생깁니다. 반드시 절차를 갖추세요. Q. 조합원이 아닌 동료에게 참여를 요구해도 되나요? — A. 자유로운 참여 보장이 원칙입니다. 강제·압박은 정당성을 훼손합니다. Q. 대표가 교섭 없이 파업을 선언했습니다. — A. 목적 정당성부터 상담이 필요합니다. 즉시 전문가 검토를 받으세요. Q. 파업 참여로 징계를 받았습니다. — A. 정당한 쟁의행위 참여를 이유로 한 불이익은 다툴 여지가 있습니다. 징계 통보서를 보관하세요. 근거와 원문 노동조합 및 노동관계조정법 쟁의행위 규정 — 국가법령정보센터 조정·중재 절차 — 중앙노동위원회 누리집 관련 글: 조정·중재 · 단체교섭 · 부당노동행위 이 글은 2026-09-19 기준 일반 안내입니다. 쟁의행위의 적법성 판단은 구체적 사실에 따라 결론이 달라지므로 반드시 전문가 상담을 거치세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>원·하청 구조와 사용자 책임</title>
+      <link>https://nodong.seoulblue.com/articles/subcontract-liability</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/subcontract-liability</guid>
+      <category>지식</category>
+      <description>← 지식 목록 원·하청 구조와 사용자 책임 안내·해설 일반 교육용 정리 · 법률 자문 아님 원·하청 문제는 '이름'이 아니라 실질 로 판단됩니다. 지휘·명령을 누가 했는지가 고용형태 판단의 기준입니다. 도급과 파견의 갈림길 도급은 일의 완성을 맡기는 계약이고 파견은 지휘·명령 아래 근로를 제공하는 형태다. 실제 운영이 어느 쪽인지가 핵심이다. 작업 지시, 근태 관리, 교육, 징계를 원청이 직접 하면 파견으로 판단될 여지가 커진다. 지시 방식과 기록을 남겨 둔다. 불법파견이 되면 파견 요건을 갖추지 못한 채 파견 형태로 근무하면 근로자에게 직접 고용을 청구할 수 있는 길이 열린다. 고용 의제 여부는 노동위원회 절차를 거치는 등 정해진 경로가 있다. 근무 기간과 지휘 관계를 처음부터 정리해 두는 것이 중요하다. 원청의 책임 산업재해와 안전보건에서는 원청의 책임이 확대되는 방향으로 법이 바뀌어 왔다. 위험성 평가, 안전보건 정보 제공, 협의체 운영 등이 요구된다. 임금체불에서도 원청이 지급을 보장해야 하는 경우가 있다. 하청 근로자에게 직접 지급하는 절차가 마련된 제도가 별도로 있다. 현장에서 준비할 것 소속 회사, 실제 지휘자, 작업 장소, 근무 기간을 시간순으로 기록한다. 원·하청 구조를 도식으로 만들어 두면 설명이 쉬워진다. 사업자등록정보와 계약 구조를 확인한다. 회사 간 계약을 알 수 없어도 소속·지휘 관계는 본인이 정리할 수 있다. 이 글은 일반 안내입니다. 고용형태 판단과 원청 책임 범위는 판례·행정해석에 따라 달라지므로 상급단체·전문가 검토가 필요합니다. 원·하청 사고 시 도급·용역·파견 중 무엇인지 계약서·실제 지휘감독 관계를 기록하세요. 산재는 하청 근로자도 신청 가능하고, 은폐·지시는 별도 문제가 됩니다 — 산재 은폐 참고. 불법파견 여부는 비정규·불법파견 기초 글과 함께 검토하세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>실업급여(구직급여) — 수급 요건과 신청</title>
+      <link>https://nodong.seoulblue.com/articles/unemployment-benefits</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/unemployment-benefits</guid>
+      <category>지식</category>
+      <description>← 지식 목록 실업급여(구직급여) — 수급 요건과 신청 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 실업급여(구직급여)는 이직 사유를 어떻게 신고하느냐 로 갈립니다. 회사가 적어 준 사유와 실제 사실이 다르면 그 차이를 다퉈야 합니다. 이 글은 수급 틀부터 이직확인서 정정·신청·실업인정·자주 걸리는 지점까지 순서대로 정리한 안내입니다. 요건·금액은 가입 기간과 사유에 따라 달라지므로 마지막 점검표까지 읽고 고용보험 누리집 ·고용센터 상담으로 확인하세요. 사유 확인 → 정정 요구 → 수급 신청 → 실업인정 (개념도) 한눈에 보는 표 단계 핵심 기록할 것 수급 틀 피보험단위기간 + 비자발적 이직 + 재취업 의사·능력 가입 기간·이직 사유 메모 이직확인서 회사 제출 내용과 사실 대조 정정 요구 문자·메일 보관 신청·인정 기한 내 신청 + 주기별 실업인정 구직활동·소득신고 기록 1. 수급 자격의 큰 틀 이직 전 일정 기간(피보험단위기간) 동안 고용보험에 가입된 기간이 있어야 하고, 이직 사유가 비자발적이어야 하며, 재취업 의사와 능력이 있어야 합니다. 권고사직·계약만료·해고처럼 비자발적 사유가 인정됩니다. 다만 자발적 사직으로 신고돼 있으면 정정 절차가 필요합니다. 질병·간병·임금체불·괴롭힘 같은 사유로 그만둔 경우에도 사유를 구체적으로 적으면 인정될 여지가 있습니다. 진단서·체불 기록·신고 기록을 함께 내세요. 2. 이직확인서가 중요하다 — 사실과 다르면 정정 회사가 제출하는 이직확인서에 사유와 기간이 적힙니다. 여기 적힌 내용이 다툼의 출발점이 됩니다. 고용보험 누리집에서 본인 내용을 먼저 확인하세요. 사실과 다르게 적혀 있으면 회사에 정정을 요구하세요. 요구는 문자·메일로 남기고, 응하지 않으면 고용센터에 알리세요. 퇴사 전에 사유를 미리 확인해 두면 나중에 바로잡기 쉽습니다. “사직서”를 쓰라는 압박을 받으면 사유란을 비워두지 말고 실제 사유(권고·체불·질병 등)를 적으세요. 백지·허위 사직서는 나중에 정정이 어렵습니다. 3. 신청과 실업 인정 — 기한이 생명 이직 후 정해진 기간 안에 고용센터를 방문해 수급 자격을 신청하세요. 늦으면 그만큼 받지 못합니다. 신분증·이직확인·통장 등 준비물을 미리 확인하세요. 이후에는 지정된 주기마다 실업 인정을 받아야 합니다. 구직 활동 내용을 성실히 기재하지 않으면 인정이 제한될 수 있습니다. 취업·아르바이트로 소득이 생기면 반드시 신고하세요. 미신고는 부정수급으로 이어져 반환·제재 대상이 됩니다. 4. 자주 걸리는 지점 권고사직을 사직으로 처리하려는 요구가 있습니다. 서면으로 사직서를 내라는 요구를 받으면 내용을 확인하고, 사유를 명확히 적으세요. 합의퇴직으로 처리하면 수급이 어려워질 수 있습니다. 합의 조건에 실업급여 문제를 포함해 확인하고, 합의서에 사유를 명시하세요. 실업급여를 받는 동안 조기 재취업을 하면 조기재취업수당을 검토할 수 있습니다. 요건(남은 소정급여일수 등)을 고용센터에서 확인하세요. 자주 틀리는 3가지 “자진퇴사면 무조건 안 된다” — 체불·질병 등 정당한 사유가 있으면 인정될 여지가 있습니다. “회사가 써준 사유가 최종” — 사실과 다르면 정정을 요구하고 고용센터에 알릴 수 있습니다. “알바비는 신고 안 해도 된다” — 소득 발생은 신고 대상입니다. 미신고는 부정수급입니다. 현장 체크리스트 □ 이직 사유를 실제 사실대로 적었는가 □ 이직확인서 내용을 본인이 확인했는가 □ 정정 요구를 문서로 남겼는가 □ 기한 내 수급 신청을 했는가 □ 구직활동·소득신고를 매회 기록했는가 자주 묻는 질문 Q. 권고사직인데 사직으로 돼 있습니다. — A. 회사에 정정을 요구하고, 문자·메일 기록을 남기세요. 응하지 않으면 고용센터에 알리세요. Q. 체불 때문에 그만뒀습니다. — A. 체불 기록(명세서·입금내역·진정서)을 모아 사유로 제출하세요. 관련 글 임금체불 대응 을 참고하세요. Q. 단기 알바를 해도 되나요? — A. 소득 발생 시 신고하면 됩니다. 미신고가 문제입니다. Q. 빨리 취업하면 손해인가요? — A. 조기재취업수당 요건을 확인하세요. 남은 일수에 따라 별도 수당이 있을 수 있습니다. 근거와 원문 고용보험법 구직급여 규정 — 국가법령정보센터 수급 안내와 모의계산 — 고용보험 누리집 ·관할 고용센터 관련 글: 해고 절차 · 임금체불 · 육아휴직급여 이 글은 2026-09-19 기준 일반 안내입니다. 수급 요건과 급여 수준은 개인의 이직 사유·가입 기간에 따라 달라지므로 고용센터 상담을 권합니다. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>산업안전보건위원회 — 근로자 참여 창구</title>
+      <link>https://nodong.seoulblue.com/articles/safety-health-committee</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/safety-health-committee</guid>
+      <category>지식</category>
+      <description>← 지식 목록 산업안전보건위원회 — 근로자 참여 창구 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 산업안전보건위원회는 근로자가 위험을 공식 안건으로 올릴 수 있는 자리 입니다. 회의를 열게 하는 것 자체가 안전 활동입니다. 이 글은 기구 성격부터 위원·안건화·미개최 대응까지 순서대로 정리한 안내입니다. 설치 기준·범위는 규모·업종에 따라 다르므로 마지막 점검표까지 읽고 최신 법령·관할 노동청 기준으로 확인하세요. 안건 문서화 → 회의록·기한 → 이행 추적 (개념도) 한눈에 보는 표 — 회의 4점검 점검 내용 기록할 것 설치 규모 이상 사업장, 노사 동수 설치 여부·위원 명단 안건 예방계획·교육·측정·위험성평가 사전 문서 제출, 사진·위치 첨부 회의록 의결·담당·기한 명시, 다음 회의 추적 회의록 사본 보관 미개최 진정·시정요구 대상 미개최 회차·요구·답변 기록 1. 무엇을 하는 기구인가 일정 규모 이상 사업장에 설치가 요구되고, 근로자 위원과 사용자 위원이 같은 수로 참여합니다. 산업재해 예방 계획, 안전보건 교육, 작업환경 측정 결과, 위험성 평가 등이 심의·의결 대상입니다. 2. 누가 위원이 되나 — 추천과 보호 근로자 위원은 근로자 대표 또는 노동조합이 추천합니다. 추천 절차와 임기를 규약·내규로 정해 두세요. 위원 활동을 이유로 불이익을 주는 것은 금지됩니다. 회의 참석 시간과 활동 내역을 기록으로 남기세요. 3. 회의를 실질로 만드는 법 — 문서·기한·추적 안건을 사전에 문서로 제출하세요. 구두로만 제기한 사항은 회의록에 남지 않습니다. 회의록에 의결사항, 이행 담당과 기한까지 적으세요. 다음 회의에서 이행 여부를 추적하는 것이 핵심입니다. 현장 순회에서 나온 지적을 사진·위치와 함께 안건으로 올리세요. 정성적 표현보다 사실 기록이 강합니다. 4. 회의가 열리지 않을 때 설치·개최 의무를 이행하지 않으면 노동청 진정이나 시정 요구의 대상이 될 수 있습니다. 관련 글 진정 글 순서대로 접수하세요. 미개최 회차, 요구한 안건, 회사의 답변을 기록해 두면 이후 절차에서 근거가 됩니다. 자주 틀리는 3가지 “위원회는 형식” — 안건·회의록·추적이 있으면 실질 기구가 됩니다. “구두로 말하면 된다” — 문서 안건이 아니면 회의록에 남지 않습니다. “위원 하면 불이익” — 위원 활동 불이익은 금지됩니다. 기록을 남기세요. 현장 체크리스트 □ 설치 여부·위원 명단을 확인했는가 □ 안건을 문서로 제출했는가 □ 회의록에 담당·기한이 적혔는가 □ 다음 회의에서 이행을 추적했는가 □ 미개최 시 요구·답변을 기록했는가 자주 묻는 질문 Q. 우리 회사는 위원회가 없답니다. — A. 설치 의무 대상인지 규모·업종 기준으로 확인하세요. Q. 안건을 냈는데 회의록에 없습니다. — A. 제출 기록을 근거로 정정을 요구하세요. Q. 위험성평가 결과를 안 보여줍니다. — A. 심의 대상 자료로 요구하세요. 요구 기록을 남기세요. Q. 하청 노동자도 참여되나요? — A. 원·하청 안전 협의 구조를 확인하세요. 관련 글 원하청 책임 글 을 보세요. 근거와 원문 산업안전보건법 위원회 규정 — 국가법령정보센터 위원회 운영 안내 — 고용노동부 누리집 관련 글: 산재신청 · 산재은폐 대응 · 진정 방법 이 글은 2026-09-19 기준 일반 안내입니다. 설치 기준과 심의 범위는 사업장 규모·업종에 따라 다르므로 최신 법령과 관할 노동청 기준을 확인하세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>플랫폼·배달 종사자 — 산재와 고용보험</title>
+      <link>https://nodong.seoulblue.com/articles/platform-insurance</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/platform-insurance</guid>
+      <category>지식</category>
+      <description>← 지식 목록 플랫폼·배달 종사자 — 산재와 고용보험 안내·해설 일반 교육용 정리 · 법률 자문 아님 플랫폼·배달 일을 하다 다쳐도 보험 적용 대상이면 보상을 받을 수 있습니다 . 가입 여부부터 확인하는 것이 첫 단계입니다. 어떤 제도가 적용되나 노무를 제공하는 형태에 따라 산업재해보험과 고용보험이 적용되는 경우가 있다. 사업주가 가입·신고할 의무를 지는 경우도 있다. 플랫폼 종사자는 별도의 적용 기준과 절차가 마련돼 있다. 어떤 기준으로 적용되는지는 종사 형태와 계약 내용에 따라 달라진다. 본인이 가입 대상인지 확인하는 것이 출발점이다. 확인 없이 포기하면 받을 수 있는 보상을 놓친다. 다쳤을 때 사고 일시·장소·경위를 즉시 기록한다. 배달 앱의 주문·수행 기록과 위치 기록이 중요한 자료가 된다. 치료를 받고 진단 내용을 남긴다. 업무 수행 중 발생한 사고인지가 쟁점이 되므로 앱 기록과 시간을 맞춰 둔다. 보험 적용 대상이 아니라고 판단되면 산재 신청이나 민사상 책임을 별도로 검토한다. 소득과 보험료 보험료는 소득·수입을 기준으로 산정되는 경우가 많다. 신고 소득이 실제와 다르면 급여 수준이 낮아질 수 있다. 정산·신고 절차와 기한을 확인한다. 납부 내역을 스스로 기록해 두는 것이 안전하다. 함께 알아둘 것 플랫폼 변경·계정 정지로 일이 끊기는 경우, 부당한 정지인지 다툴 여지가 있는지 확인한다. 같은 문제를 겪는 사람들이 모이면 개선 요구가 가능해진다. 업종 단위 조직과 연락을 유지하는 것도 방법이다. 이 글은 일반 안내입니다. 플랫폼 종사자 보험 제도는 적용 기준과 신고 방식이 자주 바뀌므로 근로복지공단·고용센터의 최신 안내를 확인하세요. 가입·급여 확인 플랫폼·중개사가 고용보험·산재로 등록했는지 가입내역 조회 업무 중 사고·질병 시 산재 신청 가능 여부를 근무 기록과 함께 준비 특고·플랫폼 구분은 플랫폼 노동 · 특고 판단 글을 보세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
     </item>
     <item>
       <title>퇴직급여 — 퇴직금과 퇴직연금의 차이</title>
-      <link>https://fktu-nodong.vercel.app/articles/retirement-benefit-types.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/retirement-benefit-types.html</guid>
+      <link>https://nodong.seoulblue.com/articles/retirement-benefit-types</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/retirement-benefit-types</guid>
       <category>지식</category>
-      <description>퇴직금·DB·DC·IRP의 구조 차이와 수급 요건, 퇴직할 때 확인할 것</description>
-      <pubDate>Thu, 24 Sep 2026 14:44:36 +0900</pubDate>
+      <description>← 지식 목록 퇴직급여 — 퇴직금과 퇴직연금의 차이 안내·해설 일반 교육용 정리 · 법률 자문 아님 퇴직급여는 회사가 어떤 제도를 택했는지에 따라 받는 방식과 시점 이 달라집니다. 퇴직 전에 내 제도가 무엇인지 아는 것이 핵심입니다. 제도의 큰 갈래 퇴직금 제도는 회사가 퇴직 시점에 한꺼번에 지급하는 방식이다. 근로자에게 적립금이 미리 쌓여 있지 않아 회사 자금 사정의 영향을 받는다. 확정급여형(DB)은 회사가 운용하고, 퇴직 시 미리 정해진 산식에 따라 급여를 받는다. 운용 성과는 회사가 부담한다. 확정기여형(DC)은 회사가 매년 부담금을 근로자 계좌에 넣고, 근로자가 운용한다. 운용 결과에 따라 받는 금액이 달라진다. 개인형 퇴직연금(IRP)은 이직·퇴직 시 받은 급여를 이어서 보관·운용하는 계좌다. 내 제도를 확인하는 방법 급여명세서 공제 항목, 입사 시 안내문, 사내 규정으로 어느 제도인지 확인한다. 퇴직연금 제도라면 매년 받는 적립금 내역서를 확인한다. DC형이면 회사 부담금이 정해진 시점에 들어왔는지 스스로 점검할 수 있다. 퇴직금 제도라면 퇴직 전 마지막 3개월 급여와 그 이전 1년의 상여 등이 계산에 영향을 준다. 퇴직할 때 확인할 것 지급 시점과 지급 방식을 서면으로 확인한다. 지급이 늦어지면 지연이자 문제가 생긴다. DC·IRP 계좌에 입금되는 경우 입금 내역을 확인하고, 수령 방식(연금·일시금)을 정한다. 퇴직 후에도 회사가 부담금을 넣지 않은 기간이 있으면 그 기간을 특정해 두고 요구한다. 회사가 어려울 때 퇴직급여는 임금채권과 함께 보호받는 대상이다. 도산·체불 상황에서는 국가가 대신 지급하는 제도를 활용할 수 있다. 다만 절차와 요건이 정해져 있으므로, 회사의 지급 능력이 의심되면 가능한 빨리 노조나 전문가에게 상담한다. 이 글은 일반 안내입니다. 퇴직급여 산정과 수급 요건은 제도·가입 기간·계좌 상태에 따라 달라지므로 개별 확인이 필요합니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>임금명세서 — 교부 의무와 활용법</title>
+      <link>https://nodong.seoulblue.com/articles/payroll-statement</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/payroll-statement</guid>
+      <category>지식</category>
+      <description>← 지식 목록 임금명세서 — 교부 의무와 활용법 안내·해설 일반 교육용 정리 · 법률 자문 아님 임금명세서는 단순한 영수증이 아니라 임금 계산의 근거 자료 입니다. 계산이 맞는지 확인할 수 있는 유일한 정기 문서입니다. 명세서에 있어야 할 것 근로자 이름·생년월일·사업장 정보, 임금 지급일, 임금 총액과 구성 항목별 금액이 담긴다. 연장·야간·휴일근로수당은 항목이 나뉘어 표시되어야 계산 근거를 확인할 수 있다. '제수당', '기타수당'으로 뭉쳐 있으면 검산이 불가능하다. 공제 항목도 구분되어야 한다. 근로소득세·4대보험료 같은 법정 공제와 회사가 임의로 공제한 금액은 성격이 전혀 다르다. 받지 못할 때 임금명세서 교부는 사업주의 의무다. 서면뿐 아니라 전자문서 교부도 인정되므로, 사내 시스템·문자·메일로 받은 것도 자료가 된다. 계속 교부되지 않으면 근로감독관에게 진정해 시정을 요구할 수 있다. 언제부터 어떤 방식으로 요구했는지 기록을 남긴다. 구두로 요구한 뒤에는 문자·메일로 한 번 더 남긴다. '요구한 사실이 없다'는 다툼을 막는 가장 쉬운 방법이다. 임금 다툼에서의 활용 실제로 받은 수당액과 근무시간 기록을 대조하면 미지급액 계산의 출발점이 된다. 항목이 갑자기 바뀌거나 사라진 달은 따로 표시해 둔다. 임금 체계 변경은 근로계약 위반 문제로 이어질 수 있다. 수년치 명세서를 모아 두면 평균임금·통상임금 다툼에서 기준 기간의 임금 총액을 스스로 재구성할 수 있다. 보관 요령 월별로 파일을 모으고, 종이로 받았다면 촬영해 둔다. 퇴사 후에는 회사에 재발급을 요구하기 어렵다. 입사부터 퇴사까지 전 기간을 모으는 것이 이상적이다. 최소한 재직 마지막 해와 문제가 생긴 시점 전후는 확보한다. 이 글은 일반 안내입니다. 명세서 기재 방식과 교부 방법의 적법성은 사업장 상황에 따라 달라질 수 있습니다. 명세서에서 볼 항목 소정근로일·실제 근로일수, 소정근로시간·연장시간 지급 임금 합계와 공제 항목(4대보험·소득세·기타) 최저임금 적용 여부 표기·주휴수당 포함 여부 받지 못했으면 임금체불 , 계약과 다르면 근로계약서 와 대조하세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>연장·야간·휴일수당 — 청구 준비</title>
+      <link>https://nodong.seoulblue.com/articles/overtime-allowance-claim</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/overtime-allowance-claim</guid>
+      <category>지식</category>
+      <description>← 지식 목록 연장·야간·휴일수당 — 청구 준비 안내·해설 일반 교육용 정리 · 법률 자문 아님 가산수당 다툼은 근무시간을 어떻게 증명하는가 에서 갈립니다. 법 계산보다 기록 확보가 먼저입니다. 가산이 붙는 경우 정해진 근로시간을 넘겨 일한 연장근로, 밤 시간대의 야간근로, 휴일 근로에는 통상임금을 기준으로 가산한 수당이 붙는다. 연장과 야간, 휴일이 겹치는 경우 각각의 가산이 어떻게 합쳐지는지가 쟁점이 된다. 근무 형태를 시간대별로 나눠 정리해야 한다. 관리자라는 이유로 수당을 주지 않는 관행이 있으나, 직책만으로 자동 제외되는 것은 아니다. 실제 업무와 권한을 따져 판단한다. 기록을 어떻게 만들까 출퇴근 기록, 업무 메신저·메일 송수신 시각, 결재·출력 기록, 업무용 프로그램 로그처럼 시각이 남는 자료를 모은다. 직접 근무일지를 작성할 때는 그날 한 일과 시각을 함께 적는다. 나중에 만든 기록은 신빙성을 다투게 된다. 동료의 근무 형태, 교대표, 차량 운행 기록, 사업장 출입 기록 등 제3자 자료를 함께 확보하면 설득력이 올라간다. 청구 전에 정리할 것 기간을 정한다. 언제부터 언제까지의 어떤 수당인지 분명히 한다. 기준이 되는 통상임금과 시간을 적고, 실제 지급받은 금액과의 차액을 계산한다. 회사에 서면으로 지급을 요청하고, 요청 시점과 회사의 답변을 기록한다. 주의할 점 포괄임금 약정이 있더라도 실제 근로시간이 그 약정을 크게 넘으면 초과분을 다툴 여지가 있다. 재직 중 청구는 관계 악화로 이어질 수 있다. 노조가 있는 사업장이라면 개인 청구보다 단체 교섭·진정으로 접근하는 편이 낫다. 소멸시효가 있으므로 오래된 기간만 모아 두다가 청구하지 못하는 일이 없도록 한다. 이 글은 일반 안내입니다. 가산수당 계산과 포괄임금 약정의 효력은 사안별 판단이 크게 갈리므로 전문가 상담이 필요합니다. 청구서 구성 1) 미지급 기간·근무 일자별 시간 기록 2) 통상임금 산정 근거(급여명세) 3) 가산율 적용(연장·야간·휴일) 계산표 4) 지연이자·최저임금 대비 부족분이 있으면 병기 제출처: 회사 서면 요구 → 미이행 시 진정</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>노동쟁의 조정·중재 — 노동위원회 활용</title>
+      <link>https://nodong.seoulblue.com/articles/labor-dispute-mediation</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/labor-dispute-mediation</guid>
+      <category>지식</category>
+      <description>← 지식 목록 노동쟁의 조정·중재 — 노동위원회 활용 안내·해설 일반 교육용 정리 · 법률 자문 아님 노동위원회는 쟁의를 정리하고 권리를 구제하는 공식 창구 입니다. 어느 절차에 무엇을 신청하는지 구분하는 것이 먼저입니다. 무엇을 하는 기관인가 부당해고·부당노동행위 구제, 차별 시정, 노동쟁의 조정·중재 등 여러 사건을 다룬다. 사건 유형마다 신청 요건과 기간이 다르다. 근로자와 사용자 양측 위원으로 구성되어 공익위원이 판단에 참여한다. 조정과 중재의 차이 조정은 제3자가 개입해 합의를 이끌어내는 절차, 중재는 판정으로 사건을 종결하는 절차다. 구속력에서 차이가 난다. 쟁의행위를 하려면 원칙적으로 조정 절차를 먼저 거쳐야 한다. 조정 신청 시점과 대상 기관을 확인한다. 신청 준비 주장과 사실관계를 시간순으로 정리하고 증거 목록을 붙인다. 위원회는 기록으로 판단한다. 기간 제한이 있는 사건은 기한을 놓치면 권리 자체를 잃는다. 통보서를 받은 날짜를 바로 기록한다. 결정 이후 결정에 불복하는 절차(이의신청, 재심, 행정소송)가 정해져 있다. 기간과 방법을 확인해 다음 단계를 정한다. 결정 내용이 실제 현장에서 이행되는지 확인하는 것까지가 대응이다. 원상회복 여부를 주기적으로 점검한다. 이 글은 일반 안내입니다. 사건 유형별 신청 기간·요건은 엄격하게 적용됩니다. 사건 발생 즉시 전문가 상담을 받으세요. 신청 전 정리 쟁점(금액·복직·협약 문구)을 항목화하고 요구안·양보안을 미리 적어 두세요. 교섭록·합의 불이행 증거·급여 자료를 첨부 순서대로 정리합니다. 파업·쟁의가 걸린 경우 쟁의행위 요건 을 먼저 확인하세요. 조정 vs 중재 한 줄 조정: 노동위가 방안을 제시·권고에 가까움 중재: 중재인의 결정에 가깝고 절차·효력이 다름 합의문에는 지급일·미이행 시 제재를 반드시 적으세요</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
     </item>
     <item>
       <title>노동3권과 노동조합법 기초</title>
-      <link>https://fktu-nodong.vercel.app/articles/labor-rights-basics.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/labor-rights-basics.html</guid>
+      <link>https://nodong.seoulblue.com/articles/labor-rights-basics</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/labor-rights-basics</guid>
       <category>지식</category>
-      <description>대한민국 헌법은 근로자에게 단결권·단체교섭권·단체행동권을 보장합니다. 이른바 노동3권입니다. 「노동조합 및 노동관계조정법」(노동조합법)은 이 권리를 구체화하는 핵심 법률로, 노조의 설립·운영, 단체교섭과 협약, 쟁의행위와 조정, 부당노동행위 금지 등을 다룹니다.</description>
-      <pubDate>Thu, 24 Sep 2026 14:44:36 +0900</pubDate>
+      <description>← 지식 목록 노동3권과 노동조합법 기초 안내·해설 일반 교육용 정리 · 법률 자문 아님 대한민국 헌법은 근로자에게 단결권·단체교섭권·단체행동권을 보장합니다. 이른바 노동3권입니다. 「노동조합 및 노동관계조정법」(노동조합법)은 이 권리를 구체화하는 핵심 법률로, 노조의 설립·운영, 단체교섭과 협약, 쟁의행위와 조정, 부당노동행위 금지 등을 다룹니다. 단결권 노동자가 자주적으로 단체를 만들고 가입·활동할 권리입니다. 사용자가 노조 가입을 방해하거나, 가입을 이유로 불이익을 주는 행위는 부당노동행위로 문제될 수 있습니다. 단결은 ‘결성’뿐 아니라 일상적 조합 활동·정보 공유까지 포함해 이해해야 합니다. 단체교섭권 임금·근로시간·안전·고용 등 근로조건에 관해 사용자와 집단으로 협상할 권리입니다. 교섭 창구·대상·성실교섭 의무 등은 법과 판례·관행에 따라 구체화됩니다. 최근 논의되는 노동조합법 제2조·제3조 개정 이슈는, 교섭 상대·손해배상 청구의 범위와 맞물려 현장의 교섭력을 좌우한다는 점에서 주목받아 왔습니다. 단체행동권 교섭이 결렬되는 등 일정한 요건 아래에서 쟁의행위(파업 등)를 할 수 있는 권리입니다. 동시에 절차·목적·수단의 정당성, 필수유지업무 등 제한도 함께 존재합니다. ‘권리’와 ‘요건·한계’를 함께 아는 것이 중요합니다. 부당노동행위와 구제 사용자가 노조 활동을 방해·차별하거나 지배·개입하는 행위는 금지됩니다. 구제 절차로는 노동위원회 신청 등이 있으며, 사안에 따라 민사·형사 쟁점이 겹칠 수 있습니다. 증거(지시·문자·녹취·동료 진술 등)를 남기는 습관이 실질적 보호로 이어집니다. 단체협약의 의미 단체교섭의 결과로 체결되는 단체협약은 해당 범위의 근로조건에 강한 규범력을 가질 수 있습니다. 임금 체계, 근무시간, 안전보건, 징계·해고 절차, 조합 활동 보장 등이 담깁니다. 협약이 없거나 약하면 취업규칙·개별 계약에 더 의존하게 되어 불균형이 커질 수 있습니다. 왜 제2조·제3조가 거론되나 현장에서 교섭 상대가 실질 사용자인지, 쟁의 과정에서 손해배상·가압류가 과도하게 노동자의 삶을 압박하지 않는지는 오래 논쟁돼 온 주제입니다. 법 개정 논의는 교섭권의 실효성과 쟁의권의 실질을 좌우한다는 점에서 노동계가 주목합니다. 정확한 조문·경과는 국회·법령 정보를 확인해야 합니다. 법령은 개정될 수 있고, 적용은 사실관계에 따라 달라집니다. 분쟁 시에는 노조·공인노무사·변호사와 상담하세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>정리해고 — 요건과 절차</title>
+      <link>https://nodong.seoulblue.com/articles/mass-layoff</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/mass-layoff</guid>
+      <category>지식</category>
+      <description>← 지식 목록 정리해고 — 요건과 절차 안내·해설 일반 교육용 정리 · 법률 자문 아님 정리해고는 회사의 사정으로 하는 해고 라서 요건이 가장 엄격합니다. '어렵다'는 말만으로는 정당화되지 않습니다. 네 가지 요건 긴박한 경영상 필요, 해고 회피 노력, 합리적이고 공정한 대상자 선정, 근로자 대표와의 협의가 요구된다. 네 요건 중 하나라도 빠지면 절차에 하자가 생긴다. 회사가 제시한 자료를 항목별로 나눠 확인한다. 무엇을 확인하나 재무 자료와 사업 축소 계획, 희망퇴직·배치전환·근로시간 조정 등 회피 노력을 시도했는지 본다. 대상자 선정 기준이 사전에 공개되고 일관되게 적용됐는지 확인한다. 기준이 사후에 만들어지는 경우가 있다. 근로자 대표 협의의 시기·방식·내용을 확인한다. 해고 통보 뒤의 형식적 협의는 협의로 보기 어렵다. 통보와 절차 해고 사유와 시기를 서면으로 통지해야 한다. 구두 통보는 그 자체로 절차 위반이 된다. 해고예고 또는 해고예고수당 지급 여부도 함께 확인한다. 대응 노동위원회 구제신청 기간이 짧으므로 통보를 받으면 즉시 기한을 확인한다. 회사가 제시한 자료의 사본, 전체 인원·대상자 명단, 협의 기록을 요구해 남긴다. 이후 절차에서 비교 자료가 된다. 이 글은 일반 안내입니다. 경영상 해고의 정당성 판단은 자료와 절차에 따라 크게 갈립니다. 즉시 전문가·상급단체와 대응 체계를 만드세요. 대응 시 확인할 것 해고 대상 선정 기준이 공개·일관되었는지, 근로자 대표 협의 기록이 있는지 확인합니다. 서면 해고통지(사유·시점)를 받았는지 점검 — 없으면 해고 절차 위반이 될 수 있습니다. 노동위원회 구제신청 기한이 짧습니다. 구제신청 일정을 먼저 잡으세요. 실업급여·해고수당·퇴직금 정산을 별도로 챙깁니다. 금전 정산 항목 퇴직금(평균임금) · 해고예고수당(해당 시) · 미지급 임금 · 연차미사용수당 실업급여는 회사 급여와 별개 — 이직 사유 신고가 핵심입니다. 합의서 사전 서명 전 퇴직금 · 권고사직 구분을 확인하세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>최저임금 점검 — 빠뜨리기 쉬운 경우</title>
+      <link>https://nodong.seoulblue.com/articles/minimum-wage-check</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/minimum-wage-check</guid>
+      <category>지식</category>
+      <description>← 지식 목록 최저임금 점검 — 빠뜨리기 쉬운 경우 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 최저임금 미달은 기본급만 보면 안 걸리는 것처럼 보이지만, 실제 지급 총액을 근로시간으로 나눠야 드러납니다. 이 글은 시간급 환산부터 수습·포괄임금·파견의 착시, 스스로 점검하는 순서까지 정리한 안내입니다. 그 해 최저임금액은 매년 고시되므로 고용노동부 고시 로 확인하세요. 2027년 적용 시간급 10,700원 소식은 소식 글 에서 볼 수 있습니다. 임금 기준이 달라 계산 결과가 다르다 (개념도) 한눈에 보는 표 — 점검 3단계 단계 계산 주의 1. 분자 한 달 실제 지급 총액 매월 지급되지 않는 상여·실비성 수당 제외 2. 분모 실제 근로시간(휴게 제외) 연장·야간·휴일은 가산된 시간으로 3. 비교 시간급 = 총액 ÷ 시간 그 해 법정 최저임금과 비교, 미달액은 청구 가능 1. 판단의 기본 — 시간급으로 환산 비교 기준은 시간당 임금입니다. 월급·일급·연봉은 근로시간으로 나눠 시간급으로 환산해 비교하세요. 실제로 지급한 임금을 기준으로 한다는 점이 중요합니다. 계약서에 적힌 금액이 아니라 통장에 들어온 금액으로 봅니다. 급여명세서 읽는 법은 급여명세서 글 을 참고하세요. 매달 나오지 않는 상여금이나 실비 성격의 수당은 원칙적으로 비교 대상에 넣지 않습니다. 반대로 매월 고정으로 나오는 수당은 포함될 수 있어 항목별 확인이 필요합니다. 2. 착시가 생기는 경우 수습 감액: 수습 기간을 이유로 최저임금보다 낮게 주는 관행이 있으나, 감액이 가능한 경우는 법에 정해진 좁은 범위이고 기간 제한도 있습니다. 1년 이상 근로계약을 맺은 단순노무가 아닌 경우 등 요건을 따져야 합니다. 포괄·고정 연장수당: 고정 연장근로수당을 월급에 포함해 지급하는 방식은, 환산한 시간급이 최저임금에 미달하지 않는지 따로 확인해야 합니다. 연장근로가 실제로 줄었는데 수당이 그대로라면 임금 구조 자체를 점검하세요. 도급·용역·파견: 계약서 이름과 무관하게 실제로 사업주의 지휘를 받으며 일했다면 최저임금 규정이 그대로 적용됩니다. 관련 글 불법파견 개념 · 근로자성 판단 을 함께 보세요. 3. 스스로 점검하는 순서 한 달 급여명세서에서 실제 지급 총액을 확인합니다. 공제 전 총액인지, 실수령액인지 구분해 적으세요. 그 달의 실제 근로시간(휴게 제외)을 계산합니다. 연장·야간·휴일 근로가 있었다면 가산된 금액과 시간을 함께 봅니다. 총액을 시간으로 나눠 시간급을 구하고, 법정 최저임금과 비교합니다. 미달이면 차액 계산 근거(어느 달·몇 시간·얼마)를 적어 두세요. 4. 미달일 때 — 서면 요구부터 미달액은 임금이므로 청구할 수 있습니다. 다만 소멸시효가 있으므로 문제를 안 뒤에는 미루지 않는 것이 좋습니다. 회사에 서면으로 확인을 요청하고, 지급되지 않으면 근로감독관 진정으로 이어갑니다. 관련 글 진정 방법 · 임금체불 대응 순서대로 진행하세요. 수당 계산 방식 자체가 문제라면 사업장 단위로 개선을 요구하는 것이 낫습니다. 개인별 차액만 받아도 구조는 그대로 남습니다. 노조가 있으면 단체교섭 의제로 올리세요. 자주 틀리는 3가지 “기본급만 최저임금 넘으면 된다” — 실제 지급 총액을 시간으로 나눈 값이 기준입니다. “수습은 3개월 무조건 감액” — 감액 가능 범위와 기간이 법으로 한정되어 있습니다. “도급이라 최저임금 없다” — 실질이 근로관계면 최저임금이 적용됩니다. 현장 체크리스트 □ 그 해 최저임금액(고용노동부 고시)을 확인했는가 □ 한 달 실제 지급 총액을 적었는가 □ 실제 근로시간(휴게 제외)을 계산했는가 □ 시간급 환산값을 문서로 남겼는가 □ 미달 시 서면 요구 → 진정 순서를 밟았는가 자주 묻는 질문 Q. 주휴수당도 최저임금에 포함되나요? — A. 주휴수당은 임금으로서 비교 대상이 될 수 있습니다. 다만 계산 방식은 사안별로 따져야 하므로 주휴수당 글 을 함께 보세요. Q. 식대·교통비는 포함되나요? — A. 매월 고정 지급 여부와 실비 성격인지에 따라 달라집니다. 명세서 항목별로 확인이 필요합니다. Q. 포괄임금제라 초과수당이 없습니다. — A. 실제 근로시간과 비교해 미달이 없는지 따져야 합니다. 관련 글 근로시간 글 을 참고하세요. Q. 2027년 최저임금은 얼마인가요? — A. 시간급 10,700원으로 결정·고시되었습니다(2026년 10,320원에서 380원 인상). 상세 경과는 소식 글 을 보세요. 근거와 원문 최저임금액 고시 — 고용노동부 고시·보도자료 최저임금법 규정 — 국가법령정보센터 에서 “최저임금법” 검색 관련 글: 주휴수당 · 급여명세서 · 연장수당 이 글은 2026-09-19 기준 일반 안내입니다. 최저임금액은 매년 고시되므로 그 해 금액을 고용노동부 고시로 확인하세요. 개별 사안은 전문가 확인이 필요합니다. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>최저임금과 주휴수당 기초</title>
+      <link>https://nodong.seoulblue.com/articles/minimum-wage-weekly-holiday</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/minimum-wage-weekly-holiday</guid>
+      <category>지식</category>
+      <description>← 지식 목록 최저임금과 주휴수당 기초 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 최저임금은 시급만 비교하면 판단을 틀립니다 . 수당·주휴·공제를 함께 봐야 실제 임금이 나옵니다. 이 글은 최저임금 적용 방식과 주휴수당 발생 요건을 함께 정리한 안내입니다. 금액·산입 범위는 매년 고시로 바뀌므로 고용노동부 고시 로 그 해 기준을 확인하세요. 시간급 환산 점검은 최저임금 점검 글 순서대로 하세요. 월급 → 시간급 환산 → 주휴 포함 여부 확인 (개념도) 한눈에 보는 표 항목 요건 확인할 것 최저임금 모든 근로자 원칙 적용, 매년 고시 그 해 고시액, 산입 범위 비교 방법 월급 ÷ 소정근로시간 = 시간급 주휴 포함 여부, 식대·교통비 산입 여부 주휴수당 주 15시간 이상 + 소정근로일 개근 결근 주 발생 여부, 단시간 계산 1. 최저임금은 어떻게 정해지나 매년 심의·고시로 정해지고, 사업장 규모나 업종과 무관하게 모든 근로자에게 적용되는 것이 원칙입니다. 다만 수습 기간 등 일부 예외가 있어 요건을 따져야 합니다. 금액은 해마다 바뀌므로 문서에 숫자를 박아 두면 곧 틀린 정보가 됩니다. 항상 고시된 최신 값을 확인하세요. 2027년 적용 시간급 10,700원 경과는 소식 글 을 보세요. 2. 비교할 때 빠지기 쉬운 것 월급으로 받는 경우에는 소정근로시간으로 나눠 시급을 환산해 비교합니다. 여기에 주휴수당이 포함돼 있는지, 별도인지에 따라 결과가 달라집니다. 명세서상 “주휴” 항목을 먼저 찾으세요. 식대·교통비 등이 최저임금에 산입되는지 여부도 확인 대상입니다. 산입 여부는 매년 고시 내용을 봐야 합니다. 관련 글 급여명세서 읽기 에서 항목별 확인법을 보세요. 3. 주휴수당의 요건 1주일에 15시간 이상 근무하고 해당 주의 소정근로일을 개근한 경우 주휴수당이 발생하는 것이 일반적인 해석입니다. 단시간 근로자가 특히 문제 되므로 주별 개근 여부를 달력에 표시하세요. 결근한 주는 주휴수당이 발생하지 않을 수 있습니다. 지각·조퇴와 결근을 구분해 기록하는 것이 중요합니다. 사업장 규모·고용형태에 따라 다툼이 있는 지점이 있으므로, 자기 사례는 점검 글 계산 후 노무 상담으로 확인하는 편이 안전합니다. 4. 미달일 때 대응 최저임금 미달은 임금체불과 같은 절차로 다툴 수 있습니다. 급여명세서와 근로계약서를 확보하고 진정을 검토하세요. 관련 글 임금체불 대응 · 진정 방법 순서대로 진행하세요. 계약서에 ‘최저임금’이라고 적혀 있어도 실제 지급액이 미달이면 효력이 없습니다. 문서와 실제 지급 내역을 함께 보관하세요. 자주 틀리는 3가지 “주휴수당은 정규직만” — 주 15시간 이상이면 고용형태와 무관하게 요건을 따집니다. “결근해도 주휴는 나온다” — 소정근로일 개근이 요건이라 결근 주는 발생하지 않을 수 있습니다. “명세서에 주휴가 없으면 없는 것” — 미지급일 수 있습니다. 환산 계산으로 확인하세요. 현장 체크리스트 □ 그 해 최저임금 고시액을 확인했는가 □ 월급을 시간급으로 환산했는가 □ 명세서에서 주휴 항목을 찾았는가 □ 주별 개근 여부를 기록했는가 □ 미달 시 서면 요구 → 진정 순서를 밟았는가 자주 묻는 질문 Q. 주 14시간 일하는데 주휴가 있나요? — A. 15시간 미만이면 발생하지 않는 것이 일반적 해석입니다. 소정시간 계산을 먼저 확인하세요. Q. 하루 결근했는데 그 주 주휴는요? — A. 개근 요건을 못 채우면 발생하지 않을 수 있습니다. Q. 식대가 최저임금에 포함되나요? — A. 매월 고정 지급 여부와 고시 산입 범위에 따라 달라집니다. Q. 수습이라 최저임금 90%만 준답니다. — A. 감액 가능 요건·기간이 법으로 한정되어 있습니다. 계약 기간과 업무를 확인하세요. 근거와 원문 최저임금액 고시 — 고용노동부 고시·보도자료 최저임금법·근로기준법 규정 — 국가법령정보센터 관련 글: 최저임금 점검 · 급여명세서 · 근로시간 이 글은 2026-09-19 기준 일반 안내입니다. 최저임금 고시 금액과 산입 범위는 매년 바뀌므로 최신 고시를 확인하세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>직업병·업무상 질병 — 인정 기준과 준비</title>
+      <link>https://nodong.seoulblue.com/articles/occupational-disease</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/occupational-disease</guid>
+      <category>지식</category>
+      <description>← 지식 목록 직업병·업무상 질병 — 인정 기준과 준비 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 직업병은 사고와 달리 업무와 질병의 인과관계 를 스스로 입증해야 합니다. 기록이 곧 승인 여부를 가릅니다. 이 글은 인정 틀부터 모을 자료·신청과 다툼·예방까지 순서대로 정리한 안내입니다. 의학적·법적 판단이 함께 필요하므로 마지막 점검표까지 읽고 산재 전문 상담을 받으세요. 경력 기록 → 작업환경 자료 → 진단·신청 → 불복·예방 (개념도) 한눈에 보는 표 — 입증 3축 축 모을 것 어디서 노출 작업 내용·시간·강도·물질·기간 경력 기록, 작업일지, 측정결과 질병 진단·소견·진료 경과 병원, 건강검진 기록 관련성 동료 사례·환경자료·보호구 기록 동료 진술, 물질안전보건자료 1. 인정되는 경우 — 무엇이 대상인가 특정 작업에 반복 노출돼 생긴 신체 부담 질환, 유해물질에 노출돼 발생한 질환, 업무 스트레스가 원인이 된 정신질환 등이 인정 대상이 됩니다. 질병이 업무로 생겼는지는 업무의 양·시간·강도, 노출 기간과 농도, 작업 환경을 종합해 판단합니다. 기존 질환이 있었다면 업무가 그 질환을 악화시켰는지도 쟁점이 됩니다. 평소 진료 기록이 도움이 됩니다. 2. 모아야 할 자료 — 경력부터 써라 작업 내용과 근무 형태를 시간 순으로 정리한 경력 기록을 만드세요. 어떤 작업을 몇 년 했는지가 출발점입니다. 작업환경측정 결과, 물질안전보건자료, 보호구 지급 기록 같은 사업장 자료를 요청하세요. 요청 일시·내용을 기록하세요. 동료의 유사 증상 여부와 진술을 확보하세요. 같은 작업을 한 사람들의 사례는 관련성을 뒷받침합니다. 3. 신청과 다툼 — 이유부터 읽어라 업무상 질병도 산재 신청 대상입니다. 진단서와 함께 작업 내용·노출 기간을 구체적으로 적으세요. 관련 글 산재신청 글 순서대로 접수하세요. 불승인 처분을 받으면 이의 절차가 있습니다. 결정문에 적힌 판단 이유를 확인하고 반박 자료를 준비하세요. 승인 여부와 별개로, 치료가 필요한 시점에는 우선 진료를 받고 그 기록을 남기세요. 4. 예방 관점 — 개인을 넘어 구조로 같은 공정에서 증상이 반복되면 개인 대응으로 끝내지 말고 작업환경 개선을 요구하세요. 산업안전보건위원회나 노조를 통해 측정·검진 요구를 공식 안건으로 올리세요. 관련 글 안전보건위원회 글 의 안건화 방법을 쓰세요. 자주 틀리는 3가지 “오래된 병은 산재 아님” — 업무 악화가 입증되면 다툼 여지가 있습니다. “진단서만 있으면 된다” — 노출·경력 기록이 함께 있어야 합니다. “불승인이면 끝” — 이유 분석 후 반박 자료로 불복 절차가 있습니다. 현장 체크리스트 □ 작업 경력을 시간순으로 적었는가 □ 측정·물질·보호구 자료를 요청했는가 □ 진단·진료 기록을 모았는가 □ 동료 사례를 확보했는가 □ 불승인 시 이유를 분석했는가 자주 묻는 질문 Q. 퇴사 후에 아팠습니다. — A. 노출 기간과 발병 시점을 정리하세요. 잠복기가 있는 질환도 있습니다. Q. 회사가 자료를 안 줍니다. — A. 요청 기록을 남기고 공단·노동청 경로로 확보하세요. Q. 동료도 같은 증상입니다. — A. 함께 기록하면 관련성 입증에 유리합니다. Q. 정신질환도 되나요? — A. 업무 스트레스와의 관련성을 따집니다. 진료·업무 기록을 함께 모으세요. 근거와 원문 산업재해보상보험법 업무상 질병 규정 — 국가법령정보센터 질병 판단 안내 — 근로복지공단 누리집 관련 글: 산재신청 · 산재급여 · 안전보건위원회 이 글은 2026-09-19 기준 일반 안내입니다. 업무상 질병 인정 여부는 의학적·법적 판단이 함께 필요하므로 산재 전문 노무사·변호사 상담을 권합니다. 법률·의학적 판단이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>노동위원회 구제신청 — 절차와 준비</title>
+      <link>https://nodong.seoulblue.com/articles/labor-commission-remedy</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/labor-commission-remedy</guid>
+      <category>지식</category>
+      <description>← 지식 목록 노동위원회 구제신청 — 절차와 준비 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 구제신청은 기한이 가장 먼저 문제 됩니다. 사유가 아무리 명백해도 기간이 지나면 받아들여지지 않습니다. 이 글은 신청 기한부터 신청서 구성·심문 준비·결정 이후까지 순서대로 정리한 안내입니다. 기한·요건은 사안별로 다르므로 마지막 점검표까지 읽고 중앙노동위원회 ·전문가에게 즉시 확인하세요. 기한 확인 → 신청서 접수 → 심문 → 결정·불복 (개념도) 한눈에 보는 표 구분 기한 주의 부당해고·부당징계 해고·징계가 있은 날부터 3개월 이내 우편은 도착일 기준, 마감 직전 직접·전자 접수 부당노동행위 행위가 있은 날부터 3개월 이내 계속 행위는 종료일 기준 다툼 가능 재심·행정소송 결정서 받은 뒤 각 단계별 별도 기한 결정문 받는 즉시 다음 기한 표시 1. 얼마 안에 내야 하는가 — 달력에 먼저 표시 부당해고·부당징계 등 구제신청은 해고나 징계가 있음을 안 날부터 정해진 기간(3개월) 안에 내야 합니다. 기한을 넘기면 실체 판단 없이 각하됩니다. 기간 계산이 문제되는 경우가 많으므로, 통보받은 날짜와 방법(대면·문자·메일)을 그대로 적어 두고 가능한 한 빨리 접수하세요. 사건이 오래된 경우에는 특히 서두르세요. 확실하지 않으면 즉시 접수하고 나중에 보정하는 편이 안전합니다. 2. 신청서 구성 — 사실과 주장을 나눠라 당사자 정보, 사업장 정보, 해고(또는 징계·부당노동행위) 일시와 내용을 적으세요. 관련 글 해고 절차 글 의 시간순 정리법을 그대로 쓰세요. 다투는 이유를 사실과 주장으로 나눠 쓰세요. 절차 위반(서면통지·징계 절차·소명 기회)을 먼저 다투면 입증이 수월한 경우가 많습니다. 증거와 신청 취지를 정리해 붙이세요. 복직을 원하는지 금전 보상을 원하는지 명확히 밝히세요. 관련 글 증거 점검표 양식을 쓰세요. 3. 심문에서 — 사실만, 짧게, 문서로 조사관의 질문에 사실만 답하세요. 기억이 불명확한 부분은 추측하지 않고 “확인 후 답변하겠다”고 말하세요. 증인을 신청할 수 있습니다. 같은 사실을 본 사람의 진술은 판단에 큰 영향을 줍니다. 사실확인서는 미리 받아 두세요. 화를 내거나 상대를 공격하는 태도는 도움이 되지 않습니다. 문서와 기록으로만 다투세요. 4. 결정 이후 — 불복과 이행 결정에 불복하면 재심을 신청할 수 있습니다. 절차와 기한이 정해져 있으니 결정문을 받는 즉시 확인하세요. 구제명령이 내려도 이행되지 않으면 이행강제금 등 후속 절차가 있습니다. 행정 구제와 함께 민사상 임금 청구를 병행하는 경우가 많습니다. 중복·누락이 없도록 청구 목록을 정리해 두세요. 관련 글 임금체불 글 을 참고하세요. 자주 틀리는 3가지 “사유가 명백하면 기한은 유연” — 기한을 넘기면 실체 판단을 하지 않습니다. “신청서만 내면 된다” — 심문 준비(증거·증인·반박문)가 결과를 가릅니다. “이기면 자동 복직·자동 지급” — 불이행 시 이행강제 등 후속 절차가 필요합니다. 현장 체크리스트 □ 해고·징계일(기산일)을 달력에 표시했는가 □ 신청서를 기한 안에 접수했는가 □ 사실·주장·증거를 나눠 정리했는가 □ 복직·금전 요구를 명확히 적었는가 □ 결정문 수령 즉시 다음 기한을 확인했는가 자주 묻는 질문 Q. 기한이 3일 남았습니다. — A. 지금 접수하세요. 부족한 서류는 보정으로 냅니다. Q. 회사 주장을 처음 봅니다. — A. 추가 서면으로 반박하세요. 시점별 기록이 무기입니다. Q. 증인이 겁낸답니다. — A. 노조를 통해 확보 방식을 조율하세요. 강요된 진술은 역효과입니다. Q. 민사소송과 같이 해도 되나요? — A. 가능합니다. 청구 목록 중복·누락만 정리하세요. 근거와 원문 노동위원회법·근로기준법 구제 규정 — 국가법령정보센터 구제신청 절차와 서식 — 중앙노동위원회 누리집 관련 글: 부당해고 구제 · 해고 절차 · 증거 점검표 이 글은 2026-09-19 기준 일반 안내입니다. 구제신청 기한과 요건은 사안별로 다르므로 즉시 노동위원회나 전문가에게 확인하세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>진정서 작성과 근로감독 요청</title>
+      <link>https://nodong.seoulblue.com/articles/labor-complaint-guide</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/labor-complaint-guide</guid>
+      <category>지식</category>
+      <description>← 지식 목록 진정서 작성과 근로감독 요청 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 진정은 절차가 단순한 대신 준비된 사람이 이깁니다 . 무엇을 얼마나 언제부터 다투는지 정리해 두면 진행이 빠릅니다. 이 글은 진정 대상부터 진정서 작성·진행 흐름·제출 전 점검까지 순서대로 정리한 안내입니다. 서식과 접수법은 고용노동부 안내 로 확인하고, 사안에 따라 다른 창구가 나을 수 있으니 마지막 점검표까지 읽으세요. 항목 정리 → 진정서 접수 → 감독관 조사 → 시정·후속 (개념도) 한눈에 보는 표 — 진정 4점검 점검 내용 준비물 창구 임금·시간·해고절차·명세서·안전 위반은 진정, 부당노동행위는 노동위 사안 분류 메모 진정서 사업장·근로자 정보 + 위반 내용·기간·금액 항목별 계산표·증거 목록 진행 감독관 배정 → 조사 → 시정지시 → 불응 시 검찰 송치 추가 자료·진술 준비 전략 재직·퇴직 시기, 개인·단체, 중복접수 정리 노조 상의 기록 1. 진정으로 다룰 수 있는 것 — 창구부터 골라라 임금체불, 최저임금 미달, 근로시간·휴게·휴일 위반, 해고 절차 위반, 임금명세서 미교부, 안전보건 위반 등 근로기준법과 관련 법 위반이 대상입니다. 지연이자·손해배상처럼 민사 다툼 영역은 진정만으로 해결되지 않습니다. 별도 소송이 필요할 수 있습니다. 노동조합 관련 부당노동행위는 진정이 아니라 노동위원회 구제신청 대상입니다. 사안의 성격에 맞는 창구를 고르세요. 관련 글 노동위 구제 글 을 참고하세요. 2. 진정서에 담을 것 — 항목별 계산표 사업장 정보(상호·주소·대표자), 근로자 정보, 위반 내용, 발생 기간, 청구 금액을 적으세요. 금액은 항목별로 나눠 계산 근거를 표시하세요. 근로시간과 시급, 실제 지급액을 표로 만들면 확인이 빠릅니다. 증거 목록을 함께 제출하세요. 급여명세서, 근로계약서, 출퇴근 기록, 업무 대화 캡처 등입니다. 관련 글 증거 점검표 양식을 쓰세요. 3. 진정 후의 흐름 — 감독관은 무엇을 하나 담당 근로감독관이 배정되고 사업장 조사가 이뤄집니다. 근로자가 진술하거나 자료를 내라는 요구를 받을 수 있습니다. 시정지시로 끝나는 경우, 사업주가 응하지 않으면 사건이 검찰로 넘어갈 수 있습니다. 근로감독관은 체불 임금의 지급을 직접 명령하는 것이 아니라 지급을 지도하고, 불응하면 처벌로 이어집니다. 실제 회수는 별도 절차가 필요할 수 있습니다. 관련 글 임금체불 글 의 지연이자·대지급금 부분을 함께 보세요. 4. 진정 전에 정할 것 — 시기·주체·중복 재직 중에 낼지 퇴직 후에 낼지 정하세요. 재직 중 진정은 관계 악화로 이어질 수 있어 노조와 상의가 필요합니다. 개인 진정과 단체 진정을 구분하세요. 사업장 전체 문제라면 노조 명의로 내는 편이 효과가 큽니다. 동일한 사안을 여러 창구에 중복 접수하면 진행이 꼬일 수 있습니다. 주 경로를 정하고 나머지는 보조로 쓰세요. 자주 틀리는 3가지 “진정 내면 바로 돈 준다” — 감독관은 지도·처벌 경로이고, 회수는 별도 절차가 필요할 수 있습니다. “아무 창구나 된다” — 부당노동행위는 노동위, 체불·위반은 진정으로 나눠야 합니다. “여러 곳에 내면 빠르다” — 중복 접수는 진행을 꼬이게 합니다. 주 경로를 정하세요. 현장 체크리스트 □ 사안에 맞는 창구를 골랐는가 □ 항목별 계산표와 증거 목록을 붙였는가 □ 사업장·대표자 정보를 확인했는가 □ 재직·퇴직 시기와 주체를 정했는가 □ 중복접수를 정리했는가 자주 묻는 질문 Q. 익명으로 낼 수 있나요? — A. 익명 제보와 진정은 다릅니다. 조사를 원하면 실명·연락처가 필요합니다. 불이익이 걱정되면 노조와 상의하세요. Q. 재직 중인데 불이익이 걱정됩니다. — A. 진정 제기를 이유로 한 불이익은 별개 문제가 됩니다. 전후 기록을 남기세요. Q. 사장이 합의하자고 합니다. — A. 지급 항목·기한을 문서로 확정하세요. 서명 전 상담이 필요합니다. Q. 진정 후에도 안 줍니다. — A. 시정 불응 시 형사 절차로 이어질 수 있고, 회수는 민사·대지급금으로 검토하세요. 근거와 원문 근로감독·진정 안내와 서식 — 고용노동부 누리집·관할 지방관서 관련 글: 임금체불 대응 · 증거 점검표 · 노동위 구제 이 글은 2026-09-19 기준 일반 안내입니다. 진정 서식과 접수 방법은 고용노동부 안내를 확인하세요. 사안에 따라 다른 구제 절차가 더 적합할 수 있습니다. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>산업재해 — 인정 요건과 신청 절차</title>
+      <link>https://nodong.seoulblue.com/articles/industrial-accident-claim</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/industrial-accident-claim</guid>
+      <category>지식</category>
+      <description>← 지식 목록 산업재해 — 인정 요건과 신청 절차 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 산업재해는 다친 사실 자체보다 “업무와의 관련성”을 어떻게 남기느냐 가 인정 여부를 가릅니다. 현장에서 즉시 기록을 만드는 것이 가장 중요합니다. 이 글은 인정 요건부터 현장 조치·신청·급여·불복까지 순서대로 정리한 안내입니다. 서류와 기간은 사안마다 다르므로 마지막 점검표까지 읽고 근로복지공단 ·전문가와 확인하세요. 현장 기록 → 진료·진단서 → 공단 신청 → 급여·불복 (개념도) 한눈에 보는 표 단계 할 일 남길 기록 현장 경위 기록 + 목격자 확보 + 진료 시간순 경위서·진단서·사진 신청 근로복지공단에 요양급여 신청 (본인 직접 가능) 신청서·의무기록·작업자료 급여 요양·휴업·장해·유족 순으로 검토 결정서·지급 내역 불복 불승인 시 기한 내 이의·심사청구 통지서 수령일 메모 1. 무엇이 업무상 재해인가 업무상 사고와 업무상 질병으로 나뉩니다. 작업 중 사고뿐 아니라 통근 중 사고, 반복 작업·유해물질 노출로 생긴 질병도 검토 대상입니다. 관련 글 직업성 질병 글 · 산재급여 글 을 함께 보세요. 업무와 재해 사이의 상당인과관계가 핵심입니다. 사업장이 “개인 질병”이라 주장하더라도 작업 환경·시간·강도가 근거가 되면 다퉈볼 수 있습니다. 2. 현장에서 즉시 할 일 — 첫 24시간 재해 발생 경위를 시간순으로 적어 두세요. 목격자 이름과 연락처를 남기세요. 사진(현장·설비·보호구 상태)이 있으면 함께 보관하세요. 병원 진료를 받고 진단서·소견서를 보관하세요. 초기 진단 내용이 이후 판단의 기준이 됩니다. 통증을 참지 말고 증상을 그대로 말하세요. 사업주가 산재 신청을 미루거나 회유하는 경우가 있습니다. 신청은 근로자가 직접 할 수 있고, 사업주 동의가 필수는 아닙니다. 관련 글 산재은폐 대응 글 을 참고하세요. 3. 신청과 급여 요양급여 신청은 근로복지공단에 접수합니다. 승인되면 치료비 등이 급여로 처리됩니다. 신청서·진단서·경위서를 함께 내세요. 업무상 재해로 일정 기간 일하지 못하면 휴업급여, 치료 후 장해가 남으면 장해급여, 사망 시 유족급여를 검토하게 됩니다. 승인 전에 낸 진료비가 부담이 되는 경우가 많습니다. 신청 순서와 필요한 서류를 미리 확인하면 부담을 줄일 수 있습니다. 4. 결과가 나오지 않았을 때 — 불복 기한 불승인 처분을 받으면 심사청구·재심사청구 등 단계별 불복 절차가 있습니다. 기간 제한이 있으므로 통지서를 받은 날짜를 바로 확인하고 달력에 표시하세요. 노동조합·산재 상담 창구의 도움을 받아 의무기록·작업환경 자료를 정리하면 다툼에서 유리합니다. 자주 틀리는 3가지 “회사 동의 없으면 신청 불가” — 본인이 직접 신청할 수 있습니다. “통근 사고는 산재 아님” — 통근 중 사고도 요건에 따라 검토 대상입니다. “불승인이면 끝” — 기한 내 불복 절차가 있습니다. 현장 체크리스트 □ 경위를 시간순으로 적었는가 □ 목격자 연락처를 확보했는가 □ 진단서·소견서를 보관했는가 □ 공단 신청 서류를 접수했는가 □ 불승인 시 통지서 날짜를 표시했는가 자주 묻는 질문 Q. 사장이 “공상 처리하자”고 합니다. — A. 공상은 법정 절차가 아닙니다. 산재 신청 권리를 먼저 확인하세요. Q. 병원비가 먼저 나갑니다. — A. 영수증을 모아 두세요. 승인 후 정산 구조를 공단에 확인하세요. Q. 예전부터 아픈 부위입니다. — A. 기존 질환이 있어도 업무로 악화됐으면 다툼 여지가 있습니다. 작업 강도 기록을 모으세요. Q. 목격자가 없습니다. — A. 진료 기록·작업 일지·CCTV·출입 기록 등 간접 자료를 모으세요. 근거와 원문 산업재해보상보험법 규정 — 국가법령정보센터 신청 안내와 서식 — 근로복지공단 누리집 관련 글: 산재급여 종류 · 산재은폐 대응 · 직업성 질병 이 글은 2026-09-19 기준 일반 안내이며 법률·의학적 판단이 아닙니다. 신청 서류와 불복 기간은 사안마다 다르므로 근로복지공단·노무사·변호사와 확인하세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
     </item>
     <item>
       <title>비정규직·불법파견 기본 개념</title>
-      <link>https://fktu-nodong.vercel.app/articles/irregular-dispatch.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/irregular-dispatch.html</guid>
+      <link>https://nodong.seoulblue.com/articles/irregular-dispatch</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/irregular-dispatch</guid>
       <category>지식</category>
-      <description>‘비정규직’은 법률상 단일한 정의라기보다, 기간의 정함이 있는 근로(기간제), 단시간 근로, 파견근로, 용역·도급 형태의 간접고용, 특수고용 등 다양한 고용형태를 아우르는 현장 용어에 가깝습니다. 공통점은 고용 불안·차별·권리 공백이 상대적으로 크게 나타난다는 점입니다.</description>
-      <pubDate>Thu, 24 Sep 2026 14:44:36 +0900</pubDate>
+      <description>← 지식 목록 비정규직·불법파견 기본 개념 안내·해설 일반 교육용 정리 · 법률 자문 아님 ‘비정규직’은 법률상 단일한 정의라기보다, 기간의 정함이 있는 근로(기간제), 단시간 근로, 파견근로, 용역·도급 형태의 간접고용, 특수고용 등 다양한 고용형태를 아우르는 현장 용어에 가깝습니다. 공통점은 고용 불안·차별·권리 공백이 상대적으로 크게 나타난다는 점입니다. 기간제·단시간 기간제 근로는 근로계약에 기간을 둔 형태입니다. 관련 법률은 사용 사유·기간 상한·갱신 기대 등에서 보호 장치를 두지만, 현장에서는 ‘반복 갱신’과 ‘계약 만료’를 둘러싼 분쟁이 잦습니다. 단시간 근로는 소정근로시간이 짧은 형태로, 비례 보호와 차별 금지가 중요 쟁점입니다. 파견과 도급·용역 파견은 파견사업주가 고용한 근로자를 사용사업주가 지휘·명령하며 쓰는 제도로, 허용 업종·기간 등 규율이 있습니다. 반면 진정한 도급·용역은 수급인이 자기 책임으로 일을 완성하고, 원청이 개별 근로자를 직접 지휘하지 않는 형태를 전제로 합니다. 형식은 도급인데 실질은 원청이 직접 지휘한다면 ‘위장도급’·불법파견 논란이 생길 수 있습니다. 불법파견으로 논의되는 경우 허용되지 않는 업무에 파견을 쓰거나, 기간을 넘기거나, 도급 계약을 내세워 사실상 파견처럼 사용하는 경우가 대표적입니다. 판단은 계약서 문구만이 아니라 업무 지시권, 작업 배치, 근태·평가, 작업도구·복장, 원청 조직과의 혼재 등 실질을 종합합니다. 개별 사안의 성립 여부는 전문가 검토가 필요합니다. 현장에서 할 수 있는 일 지시 체계·근무표·메신저·회의 참석 여부 등을 기록하고, 동료와 정보를 공유하며, 노조·노동관서·법률구조 창구에 상담을 요청하는 것이 현실적입니다. 고용형태가 달라도 산업안전·임금·괴롭힘 등 기본 권리는 포기 대상이 아닙니다. 차별과 ‘동일노동 동일임금’ 논의 비정규 노동자는 같은 공간에서 같은 일을 하면서도 임금·상여·복지·승진에서 차이를 겪는 경우가 많습니다. 법률은 합리적 이유 없는 차별을 제한하려는 취지를 두지만, 실제 구제는 비교 대상·업무 실질·증거에 좌우됩니다. 차별 시정 신청·노조 교섭·상담을 병행하는 전략이 흔합니다. 특수고용·플랫폼 노동 배달·대리운전·학습지·화물 등에서는 ‘사업자’ 형식과 ‘근로자’ 실질이 다투어집니다. 산재보험 적용 확대 등 제도 변화가 이어지고 있으나, 단결·교섭의 틀은 업종마다 다릅니다. 계약서의 ‘프리랜서’ 문구만으로 권리를 포기했다고 단정하지 않는 것이 중요합니다. 이 글은 개념 안내입니다. 불법파견·직접고용 간주 등 법적 효과는 사실관계와 시점에 따라 달라지므로 단정하지 마세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>산재보험 급여 — 휴업·장해·유족·간병</title>
+      <link>https://nodong.seoulblue.com/articles/industrial-accident-benefits</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/industrial-accident-benefits</guid>
+      <category>지식</category>
+      <description>← 지식 목록 산재보험 급여 — 휴업·장해·유족·간병 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 산재 승인은 끝이 아니라 시작입니다. 어떤 급여를 언제 신청하는지 에 따라 실제 보상이 달라집니다. 이 글은 치료 기간 급여부터 장해·사망 급여, 회사 책임과의 관계까지 순서대로 정리한 안내입니다. 종류·요건은 사안에 따라 달라지므로 마지막 점검표까지 읽고 근로복지공단 상담과 전문가 검토를 받으세요. 요양·휴업 → 장해 → 유족·간병, 민사책임 별도 (개념도) 한눈에 보는 표 — 급여 4묶음 시기 급여 포인트 치료 중 요양급여 + 휴업급여 (+간병 필요 시 간병급여) 지정 의료기관 진료, 기간 단위 청구 치료 종결 후 장해급여 (일시금 또는 연금) 종결 시점 상태 기준, 검사 자료가 기초 사망 시 유족급여 + 장의비 (+생활안정 지원 별도) 유족 범위·순위 확인 회사 상대 민사 손해배상 (별도) 안전조치 위반 입증 시 추가 다툼 1. 치료 기간에 받는 급여 요양급여는 치료에 드는 비용을 보상합니다. 지정된 의료기관에서 진료받는 방식이 기본입니다. 관련 글 산재신청 글 의 서류 목록으로 접수하세요. 휴업급여는 치료 때문에 일을 하지 못한 기간의 소득을 보전합니다. 평균임금을 기준으로 계산하며, 청구는 기간 단위로 이뤄집니다. 간병이 필요한 상태라면 간병급여를 검토하세요. 치료 종결 후에도 간병이 필요한 경우가 대상이 됩니다. 2. 장해가 남았을 때 — 종결 시점이 기준 치료가 끝난 뒤에도 신체 기능에 장해가 남으면 장해급여를 청구합니다. 장해 상태에 따라 일시금 또는 연금으로 지급됩니다. 장해 판정은 치료 종결 시점의 상태를 기준으로 합니다. 진단서와 검사 자료가 판정의 기초가 되므로 종결 전 검사를 빠뜨리지 마세요. 판정 결과에 이견이 있으면 심사 청구 절차를 검토하세요. 결정문 받는 즉시 기한을 표시하세요. 3. 사망한 경우 — 유족급여와 장의비 업무상 사망이면 유족급여와 장의비가 지급됩니다. 유족의 범위와 순위가 법에 정해져 있습니다. 유족 보상과 함께 유족의 생활 안정을 위한 지원 제도가 별도로 운영됩니다. 공단 상담에서 함께 확인하세요. 4. 회사 책임과의 관계 — 산재와 민사는 별개 산재보험 급여를 받았다고 해서 회사의 민사상 손해배상 책임이 모두 사라지는 것은 아닙니다. 안전조치 의무 위반이 있었다면 별도로 다툴 수 있습니다. 산재 처리 과정에서 회사가 자료 제출을 미루면 신청이 늦어집니다. 요청한 자료와 요청 시점을 기록으로 남기세요. 자주 틀리는 3가지 “산재 승인되면 전부 끝” — 급여별 신청이 따로 필요합니다. “회사 합의하면 산재 불필요” — 공상 합의는 장해·후유증에서 불리합니다. “산재 받으면 회사 상대 불가” — 안전위반이 있으면 민사 청구가 별도로 가능합니다. 현장 체크리스트 □ 요양·휴업 신청을 했는가 □ 종결 전 검사·진단서를 확보했는가 □ 장해·유족 해당 여부를 확인했는가 □ 결정문 기한을 표시했는가 □ 회사 자료 요청 기록을 남겼는가 자주 묻는 질문 Q. 치료 중 생활비가 없습니다. — A. 휴업급여를 기간 단위로 청구하세요. 청구 주기를 공단에 확인하세요. Q. 장해 판정이 낮게 나왔습니다. — A. 심사 청구 절차가 있습니다. 결정문 이유부터 분석하세요. Q. 회사가 자료를 안 줍니다. — A. 요청 일시·내용을 기록하고 공단에 알리세요. Q. 합의서가 있습니다. — A. 서명 전 상담이 필요합니다. 서명 후 번복은 어렵습니다. 근거와 원문 산업재해보상보험법 급여 규정 — 국가법령정보센터 급여 안내와 서식 — 근로복지공단 누리집 관련 글: 산재신청 절차 · 산재은폐 대응 · 직업성 질병 이 글은 2026-09-19 기준 일반 안내입니다. 급여 종류와 요건은 개별 사안에 따라 달라지므로 근로복지공단 상담과 전문가 검토를 권합니다. 법률·의학적 판단이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>외국인 근로자 — 입국부터 권리까지</title>
+      <link>https://nodong.seoulblue.com/articles/foreign-workers</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/foreign-workers</guid>
+      <category>지식</category>
+      <description>← 지식 목록 외국인 근로자 — 입국부터 권리까지 안내·해설 일반 교육용 정리 · 법률 자문 아님 외국인 근로자도 근로기준법의 적용을 받는 노동자 입니다. 체류 자격 문제와 노동권 문제는 따로 다뤄야 합니다. 제도의 큰 틀 고용허가제는 사업장이 허가를 받아 외국인을 고용하는 구조로, 사업장 변경 사유와 절차가 정해져 있다. 입국 전 계약 조건과 실제 근로 조건이 다른 경우가 있다. 계약서·급여명세서를 입국 직후부터 모아야 한다. 권리는 자격과 무관하다 임금체불, 산업재해, 괴롭힘 문제는 체류 자격과 별개로 진정·신청이 가능하다. 신고를 이유로 체류나 고용에 불이익이 생길 것이라는 두려움이 대응을 막는 주요 원인이다. 통역 지원과 상담 창구를 미리 알아 둔다. 자주 겪는 문제 여권·외국인등록증을 회사가 보관하는 관행은 부당하다. 서류는 본인이 보관하고 사본만 제출한다. 근로계약서를 모국어로 못 받는 경우가 있다. 언어 지원이 가능한 상담 창구를 함께 찾는 것이 좋다. 숙소 제공 조건이 급여에서 공제되는 경우, 공제 근거와 금액이 적정한지 확인해야 한다. 사업장 변경과 지원 사업장 변경은 정해진 사유에 해당할 때 신청할 수 있고, 절차와 기한이 있다. 사유 발생 즉시 상담한다. 노동청, 외국인력 지원 기관, 이주노동자 상담 단체가 통역과 함께 지원한다. 대응 초기에 연락하는 것이 가장 빠르다. 이 글은 일반 안내입니다. 체류·고용 절차는 출입국·노동 당국 기준이 자주 바뀝니다. 사안에 따라 통역 지원이 가능한 상담 기관을 함께 이용하세요. 권리 챙기기 기본 □ 근로계약 사본(한국어 또는 통역 지원) 확보 □ 체류자격과 고용 사업장이 일치하는지 확인 □ 4대보험 가입·임금명세 수령 여부 □ 임금체불·폭언·신분증 압류는 임금체불 · 괴롭힘 경로로 즉시 신고 가능 — 출국·체류와 무관하게 민원 가능 여부는 관할에 확인하세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>4대보험과 산재보험 — 가입과 혜택</title>
+      <link>https://nodong.seoulblue.com/articles/four-insurances</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/four-insurances</guid>
+      <category>지식</category>
+      <description>← 지식 목록 4대보험과 산재보험 — 가입과 혜택 안내·해설 일반 교육용 정리 · 법률 자문 아님 보험은 사고가 난 뒤에 가입할 수 없습니다 . 가입 여부를 미리 확인하는 것이 유일한 대비입니다. 무엇이 있나 국민연금, 건강보험, 고용보험, 산업재해보상보험이 4대보험이며 가입 요건과 적용 방식이 각각 다르다. 일부 보험은 사업장 규모·근로시간·업종에 따라 적용이 달라진다. 자기 사업장 기준을 확인해야 한다. 가입 여부 확인 급여명세서의 공제 항목, 건강보험 자격득실 확인서, 국민연금 가입내역으로 확인할 수 있다. 가입돼 있어야 할 사람이 빠져 있으면 회사가 부담할 보험료를 체납한 상태일 수 있다. 이 경우 실업급여·산재 신청에서 문제가 생긴다. 산재보험의 특징 산재보험은 근로자 부담이 없고 사업주가 전액 부담한다. 사업주가 미가입이어도 재해를 인정받을 수 있도록 제도가 마련돼 있다. 산재는 사업장의 잘못을 가리는 절차가 아니라 업무 관련성을 판단하는 절차다. 회사가 반대해도 근로자가 직접 신청할 수 있다. 자주 있는 문제 5인 미만 사업장에서도 산재보험과 고용보험 일부는 적용된다는 점을 모르는 경우가 많다. 일용·단기 근로자도 요건을 채우면 적용된다. 일한 날짜와 장소를 기록해 두는 것이 중요하다. 이 글은 일반 안내입니다. 적용 기준과 급여 내용은 자주 개정됩니다. 본인 가입 이력은 공단 조회로 확인하고, 개별 상담은 해당 공단에 문의하세요. 가입 여부를 확인하는 실무 순서 1) 급여명세서 공제 항목 확인 → 2) 건강보험자격득실·국민연금 가입내역 대조 → 3) 고용보험 산재 가입 사실 확인 미가입 시 회사 귀책 문제와 근로자 불이익(실업급여·산재·연금 누락)이 함께 생깁니다. 일용·단시간·5인 미만도 적용되는 보험이 있으므로 “우리 사업장은 제외” 단정을 금지하세요. 미가입이 의심될 때 자격득실 확인서 발급, 국민연금 고객센터 조회, 관할 공단에 가입 사실 확인. 산재는 미가입 상태에서도 재해 인정이 가능 — 산재 신청 절차를 보세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>직장 내 괴롭힘 — 신고 이후 절차와 대응</title>
+      <link>https://nodong.seoulblue.com/articles/harassment-report-process</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/harassment-report-process</guid>
+      <category>지식</category>
+      <description>← 지식 목록 직장 내 괴롭힘 — 신고 이후 절차와 대응 안내·해설 일반 교육용 정리 · 법률 자문 아님 괴롭힘 신고에서 중요한 것은 회사가 정해진 절차를 밟았는가 입니다. 신고 이후의 기록이 결과를 좌우합니다. 신고하면 회사가 해야 할 일 신고를 접수하면 사실 확인·조사가 이뤄져야 한다. 조사 없이 넘어가거나 신고자만 옮기는 처리는 절차 위반이 된다. 조사는 당사자에게 의견을 낼 기회를 주는 방식으로 이뤄진다. 신고자에게도 진술 기회가 보장돼야 한다. 조사 결과에 따라 행위자에 대한 징계 등 조치가 이뤄지고, 필요한 경우 근무장소 변경·전환배치 같은 보호조치가 함께 검토된다. 신고자가 지켜야 할 것 괴롭힘 행위의 일시·장소·내용·목격자를 날짜별로 기록한다. 대화·메일 원본은 삭제하지 않는다. 신고는 서면으로 하고 접수 확인을 받는다. 구두 신고만 하면 처리된 사실이 남지 않을 수 있다. 조사 과정에서 진술을 요구받으면 서면으로 제출하고 사본을 남긴다. 불이익 금지 신고나 진술을 이유로 해고·전보·징계 등 불리한 처우를 하면 그 자체가 문제가 된다. 신고 직후 인사조치가 있었다면 시점을 명확히 기록한다. 시기의 근접성은 중요한 정황이다. 불이익 처우가 실제로 발생하면 노동위원회 구제신청 등으로 다툴 수 있다. 해결이 안 될 때 회사가 조사를 하지 않거나 결과를 알려주지 않으면 그 사실을 문서로 요구하고 기록을 남긴다. 사업장 안에서 해결이 어려우면 노동청 신고나 노동위 구제 절차를 검토한다. 이때도 1차 기록이 핵심 자료가 된다. 이 글은 일반 안내입니다. 괴롭힘 해당 여부와 처리 절차는 개별 사실관계에 따라 달라지므로 노조·전문가 상담을 권합니다. 조사 단계에서 챙길 것 □ 신고 접수번호·조사 일정 서면 수신 □ 진술 기회·자료 제출 권한 □ 조사 결과 통보(부유예: 비밀 유지 vs 알 권리 균형) □ 불이익이 있으면 차별 · 진정 으로 연결 □ 미조사·지연은 근로감독관 진정 사유가 될 수 있습니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>노동 사건 증거 정리 — 무엇을 어떻게 모을까</title>
+      <link>https://nodong.seoulblue.com/articles/evidence-checklist</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/evidence-checklist</guid>
+      <category>지식</category>
+      <description>← 지식 목록 노동 사건 증거 정리 — 무엇을 어떻게 모을까 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 분쟁은 기억이 아니라 자료 로 판단됩니다. 같은 사실도 언제 어떻게 남겼는지에 따라 무게가 달라집니다. 이 글은 시각이 남는 자료부터 본인 기록·사람 증거·보관 원칙까지 순서대로 정리한 안내입니다. 수집 과정에서 정보·개인정보 문제가 생길 수 있으므로 마지막 점검표까지 읽고 진정 글 ·전문가와 상의하세요. 시스템 기록 → 본인 기록 → 사람 증거 → 목록화 보관 (개념도) 한눈에 보는 표 — 증거 4종 종류 예시 확보법 시스템 기록 메신저·메일·결재·출입·로그 주소·날짜 보이게 캡처, 원본 보관 본인 기록 업무일지·메모·진술서 당일 작성 + 메일 발송으로 시각 확보 사람 증거 목격자 사실확인서 강요 금지, 노조 통해 조율 정리본 시간순 목록·주장-자료 대조표 원본 유지, 사본으로 작업 1. 시각이 남는 자료를 우선 메신저·메일·결재 기록, 출입 기록, 업무 프로그램 로그처럼 시스템이 만든 기록이 가장 강합니다. 사진·영상은 촬영 일시와 장소를 알 수 있게 남기세요. 화면 캡처는 주소창과 날짜가 함께 보이게 찍으세요. 통화 녹음은 대화 당사자로서 하는 경우가 많지만, 사용 목적과 방법에 따라 문제될 수 있으므로 노조·전문가 확인 후 활용하세요. 2. 내가 만든 기록 — 당일이 생명 업무일지·메모는 그날 작성해야 합니다. 나중에 몰아 쓴 기록은 상대가 작성 시점을 문제 삼습니다. 작성한 메모를 자신에게 메일로 보내거나, 사내 시스템에 남겨 생성 시각을 확보하세요. 진술을 요구받으면 서면으로 제출하고 사본을 남기세요. 구두 진술은 기록에서 사라집니다. 3. 사람 증거 — 사실확인서 목격자·동료의 진술은 사실확인서 형태로 남기면 힘이 큽니다. 다만 강요된 진술은 오히려 불리해집니다. 동료에게 불이익이 갈 수 있는 사안이라면 노조를 통해 확보 방식을 조율하세요. 4. 보관과 정리 — 목록이 무기 회사 계정·사내 시스템에만 있는 자료는 퇴사와 동시에 사라질 수 있습니다. 재직 중에 개인 보관본을 확보하세요. 자료를 시간 순서로 정리한 목록을 만드세요. 어떤 주장에 어떤 자료가 대응하는지 표로 만들면 심문·소송에서 유리합니다. 원본은 그대로 두고 사본으로 작업하세요. 편집한 파일만 남으면 신빙성을 다투게 됩니다. 자주 틀리는 3가지 “나중에 몰아서 정리” — 작성 시점을 다투면 기록이 무너집니다. 당일 기록이 원칙입니다. “캡처만 있으면 된다” — 원본 보관과 전체 맥락이 함께 있어야 합니다. “회사 자료를 몰래 가져오면 된다” — 범위·방법을 잘못하면 별개 문제가 됩니다. 전문가와 상의하세요. 현장 체크리스트 □ 시스템 기록을 날짜 보이게 보관했는가 □ 본인 메모를 당일 작성했는가 □ 목격자 연락처·확인서를 확보했는가 □ 시간순 목록·대조표를 만들었는가 □ 원본과 사본을 구분 보관했는가 자주 묻는 질문 Q. 이미 퇴사해서 자료가 없습니다. — A. 본인 메일·메신저·통장·사진부터 모으세요. 회사 자료는 목록을 만들어 요청하세요. Q. 녹음을 해도 되나요? — A. 대화 당사자의 녹음 활용 여부는 목적·방법에 따라 따져야 합니다. 상담 후 활용하세요. Q. 동료가 써주길 꺼립니다. — A. 강요하지 마세요. 노조를 통해 방식을 조율하세요. Q. 증거가 너무 많습니다. — A. 주장별 대조표로 추리세요. 전부 내기보다 핵심을 정리하는 것이 유리합니다. 근거와 원문 진정·구제 절차별 입증 안내 — 고용노동부 · 중앙노동위원회 누리집 관련 글: 진정서 작성 · 부당해고 · 괴롭힘 기록법 이 글은 2026-09-19 기준 일반 안내입니다. 자료 수집 과정에서 사업장 정보·개인정보 관련 문제가 생길 수 있으므로 범위와 방법은 전문가와 상의하세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
     </item>
     <item>
       <title>기간제·단시간 근로자 — 사용기간 제한과 차별 금지</title>
-      <link>https://fktu-nodong.vercel.app/articles/fixed-term-worker-protection.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/fixed-term-worker-protection.html</guid>
+      <link>https://nodong.seoulblue.com/articles/fixed-term-worker-protection</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/fixed-term-worker-protection</guid>
       <category>지식</category>
-      <description>기간제 사용의 제한, 무기계약 전환 논의, 단시간 근로자 보호 기준</description>
-      <pubDate>Thu, 24 Sep 2026 14:44:36 +0900</pubDate>
+      <description>← 지식 목록 기간제·단시간 근로자 — 사용기간 제한과 차별 금지 안내·해설 일반 교육용 정리 · 법률 자문 아님 기간제·단시간 근로자는 기간과 비율을 이유로 불리한 처우를 받지 않습니다. 무엇이 비교 대상인지 아는 것이 출발점입니다. 기간제 사용의 제한 기간제 근로자를 쓸 수 있는 경우는 법에 정해져 있다. 그 범위를 넘어 일정 기간 이상 계속 사용하면 기간의 정함이 없는 근로계약으로 본다. 여기서 '계속 사용'인지, 중간에 공백이 있어 근로관계가 끊긴 것인지는 다툼이 잦다. 근무 기간과 공백 기간, 업무의 동일성이 판단 자료가 된다. 고용의제가 문제될 때는 사용 기간 전체의 근로계약서·급여명세서·출근 기록을 모아 둔다. 차별 금지 기간제라는 이유로, 단시간이라는 이유로 임금·상여·수당·교육·복리후생에서 불리한 처우를 하면 차별 문제가 된다. 비교 대상은 같은 사업장에서 비슷한 업무를 하는 기간의 정함이 없는 근로자다. 업무 내용·책임·근무 형태가 얼마나 같은지가 핵심이다. 차별을 다투려면 비교 대상 근로자의 처우를 알아야 한다. 급여 규정, 채용 공고, 동료 확인을 통해 근거를 모은다. 차별시정 절차 차별 처우는 노동위원회에 시정 신청을 할 수 있다. 신청에는 기간 제한이 있으므로 차별을 안 날부터 서둘러야 한다. 신청서에는 비교 대상, 불리한 처우의 내용과 금액, 산정 근거를 적는다. 구체적인 숫자가 있을수록 진행이 빨라진다. 실무 점검 계약 갱신이 반복돼 왔다면 갱신 기대와 관련된 다툼으로 이어질 수 있다. 갱신 거절 통보 방식과 시점을 기록한다. 단시간 근로자는 정규직 대비 비례한 근로조건을 보장받아야 한다. 초과근로 시 가산수당 계산 방식도 따로 확인한다. 이 글은 일반 안내입니다. 기간제 사용기간 제한과 차별 판단은 사안별로 결론이 달라지므로 전문가 검토가 필요합니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
     </item>
     <item>
       <title>취업규칙 — 작성·변경과 근로자 동의</title>
-      <link>https://fktu-nodong.vercel.app/articles/employment-rules-writing.html</link>
-      <guid isPermaLink="true">https://fktu-nodong.vercel.app/articles/employment-rules-writing.html</guid>
+      <link>https://nodong.seoulblue.com/articles/employment-rules-writing</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/employment-rules-writing</guid>
       <category>지식</category>
-      <description>취업규칙에 담기는 내용, 불이익 변경 시 필요한 동의 절차, 규정을 확인하는 방법</description>
-      <pubDate>Thu, 24 Sep 2026 14:44:36 +0900</pubDate>
+      <description>← 지식 목록 취업규칙 — 작성·변경과 근로자 동의 안내·해설 일반 교육용 정리 · 법률 자문 아님 취업규칙은 사업장의 '작은 법'입니다. 불이익하게 바뀔 때 는 근로자 과반수의 동의라는 별도 절차가 필요합니다. 무엇이 담기는가 근로시간·휴게·휴일, 임금 계산과 지급, 퇴직과 해고, 징계, 안전보건 등 근로조건 전반이 담긴다. 규정은 근로계약과 단체협약보다 불리할 수 없다. 충돌하면 근로자에게 유리한 기준이 적용된다. 회사는 취업규칙을 근로자가 볼 수 있는 곳에 두고, 의견을 낼 수 있게 해야 한다. 규정을 못 본 상태에서 불이익 처분을 받았다면 그 점부터 다툴 수 있다. 불이익 변경의 절차 임금·근로시간 등 근로조건을 근로자에게 불리하게 바꿀 때는 근로자 과반수의 동의가 필요하다. 과반수는 노조가 아니라 근로자 전체를 기준으로 한다. 과반수 노조가 있는 경우에는 그 노조의 동의를 받는 방식이 인정된다. 어떤 경로로 동의를 받았는지가 나중에 쟁점이 된다. 동의 없이 시행된 변경은 효력이 없다고 다툴 수 있다. 언제 어떤 방식으로 변경됐는지 통지 문서를 확인한다. 규정을 확인하는 순서 사업장에 비치된 취업규칙 또는 사내 시스템의 규정 문서를 확보한다. 개정 이력과 시행일을 확인한다. 개정본만 있고 이전 본이 없으면, 변경 전후를 비교해 무엇이 불리해졌는지 정리한다. 근로계약서·단체협약과 다른 부분을 표시해 둔다. 어느 문서가 우선인지가 실제 권리를 결정한다. 현장에서 쓰는 방법 징계·해고·수당 계산처럼 자주 다투는 조항은 따로 발췌해 노조원과 공유한다. 규정과 실제 운영이 다른 부분을 목록화한다. 관행이 규정보다 유리하게 운영돼 왔다면 그 관행도 근거가 될 수 있다. 이 글은 일반 안내입니다. 취업규칙 변경의 효력 판단은 동의 절차와 관행에 따라 달라지므로 사안별 검토가 필요합니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>취업규칙 — 작성과 불이익 변경</title>
+      <link>https://nodong.seoulblue.com/articles/employment-rules-change</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/employment-rules-change</guid>
+      <category>지식</category>
+      <description>← 지식 목록 취업규칙 — 작성과 불이익 변경 안내·해설 일반 교육용 정리 · 법률 자문 아님 취업규칙은 사내 규범이면서 근로조건의 하한 입니다. 근로자에게 불리한 변경은 절차 없이 효력이 생기지 않습니다. 무엇이 정해지나 임금, 근로시간, 휴일, 휴가, 징계, 해고, 안전보건 등이 규정 대상이다. 근로계약이 정하지 않은 사항은 취업규칙이 적용된다. 일정 규모 이상 사업장은 취업규칙을 작성해 신고할 의무가 있고, 근로자가 언제든 볼 수 있어야 한다. 불리한 변경의 요건 근로자에게 불리하게 바꾸려면 근로자 과반수의 동의가 필요하다. 동의 절차 없이 사규만 고치면 그 부분은 효력이 없다. 동의는 노동조합이 있는 경우 그 조합의 동의 방식이 문제 되는 등 절차가 복잡하다. 회의·서명 문서를 남겨야 한다. 근로계약·단체협약과의 관계 취업규칙이 근로계약보다 불리하면 그 부분은 근로계약이 우선한다. 두 문서를 나란히 놓고 비교해야 한다. 단체협약이 있으면 그것이 우선하는 범위가 있다. 충돌하는 조항은 조합 차원에서 정리해 둔다. 현장 점검 변경 전후 문구를 비교한 표를 만든다. 어떤 조항이 실제로 불리해졌는지 눈으로 확인하는 것이 첫 단계다. 시행일과 동의 절차 진행 상황을 기록한다. '시행했다'는 사실만 있고 동의가 없으면 다툴 근거가 된다. 이 글은 일반 안내입니다. 불이익 변경 여부와 동의 요건은 판례상 판단이 갈립니다. 조합 차원의 법률 검토를 권합니다. 불이익 변경에 대응할 때 구버전·신버전 취업규칙, 공고·통지 기록, 불이익이 실제로 발생한 사례(급여·징계)를 모으세요. “근로자 동의”가 정말 있었는지(서명·투표) 확인 — 대표자만 서명한 경우 효력 다툼이 큽니다. 요구·진정 경로: 진정서 · 취업규칙 작성·변경 자료 목록 구·신 취업규칙, 공고 사진, 회의록, 동의 서명부, 불이익 사례(급여·징계) 1~2건 제출처: 회사 민원 → 미반영 시 고용노동청 진정</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>특수고용·프리랜서 — 근로자성은 어떻게 판단하나</title>
+      <link>https://nodong.seoulblue.com/articles/dependent-contractor-status</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/dependent-contractor-status</guid>
+      <category>지식</category>
+      <description>← 지식 목록 특수고용·프리랜서 — 근로자성은 어떻게 판단하나 안내·해설 일반 교육용 정리 · 법률 자문 아님 계약서에 '프리랜서'라고 적혀 있어도 실제로 어떻게 일했는지 가 근로자 여부를 정합니다. 무엇을 보는가 업무 내용을 회사가 정하는지, 근무 시간과 장소가 구속되는지, 대가가 노무 제공의 대가인지가 핵심이다. 다른 일을 할 수 없게 제한했는지, 장비·재료를 회사가 제공했는지, 업무 지시와 보고가 이뤄졌는지도 판단 자료가 된다. 계약 형식은 보조적 요소다. 실질이 근로라면 근로기준법이 적용된다고 다툴 수 있다. 자료를 모으는 방법 업무 지시가 오간 메신저·메일, 근무 스케줄표, 출퇴근·출입 기록, 장비 지급 내역을 모은다. 급여가 어떻게 계산됐는지 확인한다. 건당 지급이라도 최소 근무시간을 채우도록 했거나 대기 시간을 강제했다면 근로에 가깝다. 다른 업체와도 계약할 수 있었는지, 거절하면 불이익이 있었는지를 기록한다. 실제로 어떻게 쓰이나 근로자성 다툼은 산재·실업급여·체불임금 청구의 전제가 된다. 계약 형태 때문에 신청 자체를 포기하는 경우가 많은데, 신청은 가능하다. 근로자성 판단은 행정·사법 기관이 한다. 개인이 스스로 결론을 내리고 포기하지 않는 것이 중요하다. 계약할 때 챙길 것 계약서 사본을 반드시 받고, 구두로 정한 내용은 문자·메일로 확인한다. 업무 지시 방식과 대가 계산 기준을 문서로 남긴다. 나중에 실질 판단을 뒷받침하는 자료가 된다. 이 글은 일반 안내입니다. 근로자성 판단은 개별 사실관계에 따라 결론이 달라지므로, 구체적 사안은 노무사·변호사 상담이 필요합니다. 실무 체크리스트 □ 계약서 직함보다 실제 근무 지시·시간·장소·중요성 기록 □ 급여성 지급 내역(정기·고정) vs 성과·수수료 구분 □ 장비·비용 부담 주체 □ 근로자성 인정 시 근로자성 체크리스트 와 대조 □ 고용보험·산재 가입 여부를 별도로 확인 (근로자성과 제도 적용이 다를 수 있음)</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>징계 — 감봉·정직·해고의 요건과 대응</title>
+      <link>https://nodong.seoulblue.com/articles/disciplinary-action</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/disciplinary-action</guid>
+      <category>지식</category>
+      <description>← 지식 목록 징계 — 감봉·정직·해고의 요건과 대응 안내·해설 일반 교육용 정리 · 법률 자문 아님 징계는 사업주가 자유롭게 정할 수 있는 것이 아닙니다. 규정·절차·비례 세 가지가 어긋나면 무효를 다툴 수 있습니다. 징계의 종류와 한계 견책·감봉·정직·강등·해고 등이 쓰인다. 감봉액에는 상한이 있고, 정직 기간에도 제한이 있다. 징계는 취업규칙이나 단체협약에 정한 사유와 절차를 따라야 한다. 규정에 없는 이유로 한 징계는 다툼의 대상이 된다. 가벼운 과실에 무거운 징계를 하면 비례 원칙 위반이 문제된다. 같은 사안에서 다른 사람은 가볍게 처리했다는 사실도 근거가 된다. 징계위원회에서 확인할 것 회의 일시·참석자·진행 방식과 내가 소명할 기회를 실제로 받았는지 확인한다. 위원 구성에 이해관계자가 포함됐는지, 규정에 정한 절차가 지켜졌는지 본다. 진술 내용은 서면으로 제출하고 사본을 남긴다. 구두 진술만 하면 기록에서 빠질 수 있다. 통보받은 뒤 징계 사유서·징계 통보서 사본을 요구한다. 어떤 사실을 근거로 어떤 조치를 했는지 특정할 수 있어야 반박이 가능하다. 징계가 임금 감액·직위 박탈로 이어지면 그 금액과 기간을 계산해 둔다. 이후 다툼에서 청구액의 기초가 된다. 해고가 섞여 있으면 해고 구제신청 기간이 함께 도는지 확인한다. 기간이 지나면 다툴 수단이 크게 줄어든다. 노조가 있을 때와 없을 때 노조가 있으면 징계 절차에 노조가 관여할 수 있는지 규정을 먼저 확인한다. 사전 통보·의견 청취 조항이 있는 경우가 많다. 노조가 없으면 취업규칙과 근로계약서를 기준으로 다투게 된다. 규정 사본을 확보하는 것이 첫 단계다. 이 글은 일반 안내입니다. 징계의 정당성은 규정과 사실관계에 따라 판단이 달라지므로 사안별 검토가 필요합니다. 징계 통보를 받았다면 1) 징계 사유·근거 자료·위원회 구성·의결 내용을 서면으로 요청 2) 소명 기회·변호인 참여 가능 여부 확인 3) 해고로 이어지면 부당해고 · 구제신청 기한을 먼저 계산 4) 징계이후에도 임금체불·휴가 등 다른 청구는 별도로 남습니다. 일반 안내입니다. 중징계·해고 징계는 조기 상담을 권합니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>해고 절차 — 서면통지·해고예고·구제신청</title>
+      <link>https://nodong.seoulblue.com/articles/dismissal-procedure</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/dismissal-procedure</guid>
+      <category>지식</category>
+      <description>← 지식 목록 해고 절차 — 서면통지·해고예고·구제신청 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 해고는 이유 보다 절차 에서 먼저 무너지는 경우가 많습니다. 통보를 받은 날부터 무엇을 남기느냐가 결과를 바꿉니다. 이 글은 절차 요건부터 통보 직후 조치·구제 경로·복직 전 점검까지 순서대로 정리한 안내입니다. 정당성과 절차는 사업장 규모·사유에 따라 크게 달라지므로 마지막 점검표까지 읽고 부당해고 글 ·전문가 상담으로 확인하세요. 서면통지 → 해고예고 → 구제신청 (개념도) 한눈에 보는 표 요건 내용 위반 시 서면통지 사유·시기 적은 서면 교부 절차 위반 다툼 해고예고 30일 전 예고 또는 예고수당 예고수당 청구 징계절차 취업규칙상 위원회·소명 기회 징계 무효 다툼 구제신청 해고일로부터 3개월 이내 노동위 신청 기한 경과 시 각하 1. 절차 요건 — 서면·예고·징계 해고는 원칙적으로 서면으로 통지해야 하고, 그 문서에는 해고 사유와 시기가 적혀야 합니다. 구두 통보는 그 자체로 절차 위반 문제가 됩니다. 해고를 하려면 30일 전에 예고하고, 예고하지 않으면 예고수당을 지급해야 합니다. 다만 천재지변 등 예외가 있어 주장의 근거를 따져야 합니다. 징계해고라면 취업규칙에 정한 징계 절차를 거쳐야 합니다. 징계위원회 개최·소명 기회 부여 여부가 다툼의 핵심이 됩니다. 관련 글 징계 절차 글 을 함께 보세요. 2. 통보받은 직후 할 일 — 다투지 말고 적어라 통보 문서의 사본을 확보하고, 받은 날짜와 방법(대면·문자·메일)을 적어 두세요. 해고 사유에 적힌 사실과 다른 점을 그 자리에서 다투지 말고, 사실관계를 시간 순서로 정리하세요. 출입 제한·계정 정지·자리 이동이 있었다면 그 시점을 기록하세요. 실질적 해고 여부를 판단하는 자료가 됩니다. 3. 구제를 요청하는 길 — 노동위·민사·진정 부당해고라면 노동위원회에 구제신청을 할 수 있습니다. 신청에는 기간 제한(3개월)이 있으므로 해고를 안 날부터 서두르세요. 관련 글 노동위 구제 글 순서대로 준비하세요. 신청서에는 해고 일시·경위·다투는 이유와 함께 증거 자료를 정리해 붙이세요. 관련 글 증거 점검표 를 쓰세요. 근로자가 5명 미만인 사업장처럼 노동위 경로를 쓰기 어려운 경우에는 민사소송이나 진정 등 다른 방법을 검토하세요. 4. 돌아가기 전에 챙길 것 — 요구를 정하라 복직을 원하는지, 금전 보상을 원하는지 미리 정하세요. 요구가 흔들리면 협상에서 불리해집니다. 실업급여 신청 가능성도 함께 확인하세요. 이직 사유를 어떻게 신고하느냐가 수급 여부에 영향을 줍니다. 관련 글 실업급여 글 을 보세요. 동료 진술·업무 기록처럼 회사에 있는 자료를 확보할 수 있는 시점은 퇴사 직후입니다. 늦으면 접근이 어려워집니다. 자주 틀리는 3가지 “사유가 정당하면 절차는 형식” — 절차 위반 자체가 무효 사유가 됩니다. “5인 미만은 어떻게 해도 된다” — 노동위 경로가 달라도 민사·진정 등 다른 길이 있습니다. “합의서에 서명해야 돈 준다” — 서명 전 상담이 필요합니다. 서명 후 번복은 어렵습니다. 현장 체크리스트 (통보 직후) □ 통보서 사본과 수령일·방법을 기록했는가 □ 해고일(3개월 기산일)을 표시했는가 □ 예고·예고수당 여부를 확인했는가 □ 징계 절차 준수 여부를 대조했는가 □ 복직·금전 요구를 정했는가 자주 묻는 질문 Q. 문자로 해고 통보받았습니다. — A. 서면 요건 충족 여부가 다툼 대상입니다. 원문을 보관하고 상담하세요. Q. 수습기간이라 절차가 없답니다. — A. 고용형태와 무관하게 절차 요건을 따집니다. Q. 3개월이 거의 다 됐습니다. — A. 즉시 신청하세요. 우편은 도착일 기준이라 직접·전자 접수가 안전합니다. Q. 회사에 남아 있는 자료가 필요합니다. — A. 퇴사 직후 확보가 핵심입니다. 목록을 만들어 요청하세요. 근거와 원문 근로기준법 해고 제한·예고 규정 — 국가법령정보센터 구제신청 절차 — 중앙노동위원회 누리집 관련 글: 부당해고 구제 · 징계 절차 · 노동위 구제 이 글은 2026-09-19 기준 일반 안내입니다. 해고의 정당성과 구제 절차는 사업장 규모·사유·절차에 따라 크게 달라지므로 노동위원회나 전문가 상담을 권합니다. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>직장 내 괴롭힘 예방 — 사업주와 노조의 역할</title>
+      <link>https://nodong.seoulblue.com/articles/employer-harassment-duty</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/employer-harassment-duty</guid>
+      <category>지식</category>
+      <description>← 지식 목록 직장 내 괴롭힘 예방 — 사업주와 노조의 역할 안내·해설 일반 교육용 정리 · 법률 자문 아님 사건이 생긴 뒤 대응만으로는 반복을 막지 못합니다. 절차를 미리 문서로 정해 두는 것 이 가장 효과적인 예방입니다. 규범으로 정할 것 괴롭힘의 정의와 대표 유형을 예시와 함께 적는다. 판단 기준이 없으면 사안마다 처리가 달라진다. 신고 접수 창구와 담당자, 조사 절차, 조사 기간, 결과 통지 방식을 정한다. 신고자 보호조치와 불이익 금지, 행위자 조치 기준을 함께 담는다. 노조가 할 수 있는 일 예방 교육을 정기 안건으로 올리고, 교육 자료에 신고 절차와 보호 조치를 포함시킨다. 단체협약이나 취업규칙에 조사 절차와 노조 참여 조항을 넣는다. 규정이 있으면 개별 대응보다 훨씬 강하다. 신고자에게 사내 절차를 안내하고, 필요하면 노조가 동석하거나 문서 작성을 돕는다. 교육에서 다룰 내용 어떤 행위가 문제가 되는지 구체적 사례로 설명한다. 모호한 기준은 '업무상 지시'라는 변명을 허용한다. 신고하면 어떤 절차가 진행되고 신고자는 어떻게 보호되는지 알려 준다. 절차를 모르면 신고가 이뤄지지 않는다. 관리자에게는 조사·보호조치 과정에서 해야 할 일과 하면 안 되는 일을 따로 교육한다. 점검 지표 신고 건수, 처리 기간, 재발 여부를 기록해 두면 사업장의 실태를 볼 수 있다. 신고가 0건인 것이 좋은 신호는 아니다. 사업장 단위로 연 1회 이상 절차가 실제로 작동했는지 돌아보는 자리를 만든다. 이 글은 일반 안내입니다. 규범 작성과 조사 운영 방식은 사업장 규모와 조직에 맞게 조정해야 하며, 전문가 검토를 권합니다. 사업장 예방 체계 점검표 □ 신고 창구·비밀 유지 절차가 문서화되어 있는가 □ 조사 위원 구성·기한·이의 절차가 있는가 □ 교육 이수 기록·피해자 보호(전배 금지 등) 조항이 있는가 □ 노사 동수 참여가 가능한가 (노조 있으면 노조와 협의) □ 반복·묵인 사례에 대한 제재 기준이 있는가 관련: 신고 이후 절차 · 괴롭힘 판단 기준</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>근로계약서 — 서명 전에 볼 것</title>
+      <link>https://nodong.seoulblue.com/articles/employment-contract-checklist</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/employment-contract-checklist</guid>
+      <category>지식</category>
+      <description>← 지식 목록 근로계약서 — 서명 전에 볼 것 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 근로계약은 서명 전에 읽는 것 이 유일한 방어입니다. 나중에 불리한 조항은 “몰랐다”로 되돌리기 어렵습니다. 이 글은 법정 기재사항부터 위험 문구·유형별 확인점·보관법까지 점검 순서대로 정리한 안내입니다. 개별 조항의 효력은 계약 내용과 실제 근무 실태에 따라 달라지므로 마지막 점검표까지 읽고 취업규칙 글 ·전문가 상담으로 확인하세요. 기재사항 → 위험문구 → 유형별 확인 → 사본 보관 (개념도) 한눈에 보는 표 — 서명 전 4점검 점검 볼 것 위험 신호 기재사항 임금·시간·휴일·연차·장소·업무·휴게 서면 명시 구두만 있고 서면 미교부 위험문구 포괄·위약금·일방해고 조항 “수당 포함”인데 시간 불명확 유형별 기간·갱신·도급실질 확인 갱신 조건 백지, 장소·업무 과도 포괄 보관 사본 보관 + 변경사항 문서화 사본 미교부, 명세서 미보관 1. 법이 요구하는 기재사항 임금, 소정근로시간, 휴일, 연차, 근로장소, 업무 내용, 휴게 등은 서면으로 명시해야 하는 사항입니다. 빠진 항목이 있으면 작성을 요구하세요. 서면 교부는 사업주 의무입니다. 구두로만 정하고 서면을 주지 않는 것은 그 자체로 문제가 될 수 있습니다. 받은 서면은 사진·스캔으로 백업하세요. 2. 자주 문제 되는 문구 “포괄임금” “수당 포함” 문구는 실제 근로시간과 비교해야 합니다. 초과 근로가 상시적이면 다툼 대상입니다. 관련 글 근로시간 글 의 비교표로 점검하세요. 근무 장소·업무 내용을 지나치게 넓게 적어 두면, 배치 전환·전직을 회사 재량으로 넓히는 근거가 됩니다. “회사 지정 장소” 같은 포괄 문구는 범위를 좁혀 적도록 요구하세요. 위약금·손해배상 예정 조항, 일방적 해고 조항은 효력이 제한됩니다. 그대로 두지 말고 확인을 요구하세요. 특히 “퇴사 시 ○○만원” 같은 문구는 문제 소지가 큽니다. 3. 계약 유형별 확인점 기간제라면 계약 기간, 갱신 조건, 갱신 거절 사유를 확인하세요. 반복 갱신은 갱신 기대권 문제로 이어집니다. 관련 글 기간제 보호 글 을 함께 보세요. 도급·용역·파견이라는 이름과 실제 업무 지휘 방식이 다르면 고용형태 판단이 달라질 수 있습니다. 관련 글 근로자성 판단 글 · 불법파견 글 을 참고하세요. 4. 보관과 기록 — 사본이 무기 서명한 계약서 사본을 본인이 보관하세요. 임금 인상·직책 변경 등 이후 변경 사항도 문서로 남기세요. 급여명세서를 매달 보관하세요. 수당 누락과 최저임금 미달 여부를 확인하는 근거가 됩니다. 관련 글 급여명세서 읽기 · 최저임금 점검 을 함께 보세요. 자주 틀리는 3가지 “서명했으니 끝” — 불리한 조항은 서명 전 수정 요구가 유일한 기회입니다. “사본은 회사가 보관” — 본인 사본이 없으면 분쟁에서 불리합니다. “위약금 조항은 당연” — 미리 정한 위약금·손해배상은 효력이 제한됩니다. 현장 체크리스트 (서명 전) □ 임금·시간·휴일·연차·장소·업무·휴게가 서면에 있는가 □ 포괄·수당포함 문구의 시간·금액이 명확한가 □ 위약금·일방해고 문구가 없는가 □ 기간·갱신 조건이 구체적인가 □ 사본을 받아 백업했는가 자주 묻는 질문 Q. 계약서를 안 줍니다. — A. 서면 교부를 요구하고, 요구 기록을 남기세요. 미교부 자체가 문제될 수 있습니다. Q. 백지 계약서에 서명하랍니다. — A. 절대 서명하지 마세요. 내용을 채운 뒤 받으세요. Q. “연봉에 퇴직금 포함”이 있답니다. — A. 분할 약정은 엄격한 요건이 필요합니다. 관련 글 퇴직금 글 을 보세요. Q. 입사 후 조건이 바뀌었습니다. — A. 변경 내용을 문서로 확정하고 사본을 보관하세요. 근거와 원문 근로기준법 근로조건 명시 규정 — 국가법령정보센터 표준근로계약서 양식 — 고용노동부 누리집 관련 글: 급여명세서 · 취업규칙 · 기간제 보호 이 글은 2026-09-19 기준 일반 안내입니다. 개별 조항의 효력은 계약 내용과 실제 근무 실태에 따라 달라지므로 전문가 확인이 필요합니다. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>고용보험 급여 — 육아휴직·출산전후 휴가</title>
+      <link>https://nodong.seoulblue.com/articles/employment-insurance-leave-benefits</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/employment-insurance-leave-benefits</guid>
+      <category>지식</category>
+      <description>← 지식 목록 고용보험 급여 — 육아휴직·출산전후 휴가 안내·해설 일반 교육용 정리 · 법률 자문 아님 휴가를 쓰는 것과 급여를 받는 것은 별개의 절차 입니다. 신청은 회사를 통해서 이뤄지는 경우가 많아 확인이 필요합니다. 육아휴직급여 고용보험에 가입된 근로자가 법정 요건을 갖춰 육아휴직을 쓰면 급여를 신청할 수 있다. 휴직 시작 전 일정 기간의 피보험 단위기간이 필요하다. 급여는 기간에 따라 정해진 방식으로 지급된다. 통상임금이 아니라 정해진 상한·하한 기준으로 계산되는 점을 확인해야 한다. 회사가 신청을 미루거나 자료를 주지 않으면 근로자가 직접 신청하는 방법이 있다. 이 경우에도 회사 확인 서류가 필요하다. 출산전후 휴가 급여 출산 전후에 주어지는 법정 휴가 기간에는 급여가 지급된다. 우선 회사가 지급하고 이후 국가가 지원하는 방식이 일반적이다. 배우자 출산휴가, 난임 치료휴가 등도 별도 제도로 운영된다. 각각의 요건과 신청 절차가 다르다. 회사가 하지 않으면 휴직을 이유로 해고나 불리한 처우를 하는 것은 금지된다. 복직 후 같은 업무로 돌아오지 못하게 하는 것도 다툼의 대상이다. 신청에 필요한 서류 발급을 거부하면 그 사실을 기록해 고용센터에 상담한다. 휴직 기간은 근속기간에 포함된다. 퇴직금·연차 계산에서 제외됐다면 그 부분을 따로 확인한다. 함께 챙길 것 육아휴직 후 복직, 육아기 근로시간 단축처럼 이어지는 제도를 미리 알아 두면 복귀 계획을 세울 수 있다. 사업장에 제도가 규정으로 자리 잡았는지 확인한다. 개인별로 예외 처리되면 다음 사람이 같은 어려움을 겪는다. 이 글은 일반 안내입니다. 급여 수준·요건과 회사 지원금 제도는 변경될 수 있으므로 고용센터와 사업주 안내를 함께 확인하세요. 신청 순서 1) 휴가·휴직 계획을 서면으로 회사에 통지 → 2) 급여 요건(근로시간·소득 기준 등) 확인 → 3) 고용보험 온라인/방문 신청 → 4) 결정 통지·지급 확인 회사가 안 내면 근로자가 직접 신청을 시작할 수 있는지 관할 지사에 확인하세요. 산재로 인한 요양은 고용보험 육아·출산 급여와 경로가 다릅니다 — 산재 급여 를 참고하세요.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>권고사직 — 거부할 수 있는가</title>
+      <link>https://nodong.seoulblue.com/articles/constructive-dismissal</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/constructive-dismissal</guid>
+      <category>지식</category>
+      <description>← 지식 목록 권고사직 — 거부할 수 있는가 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-24 · 정리: 한국노총 노동연대 권고사직은 말 그대로 권유 입니다. 동의하지 않으면 퇴사로 처리되지 않는 것이 원칙입니다. 서명 전 “거부하면 불이익이 있다”는 말의 의미를 구분해서 들으세요. 권고사직 vs 해고 vs 자발적 퇴사 권고사직 동의 : 퇴사 형식이지만 실질은 회사의 요청 — 실업급여 수급에서 “비자발적”으로 볼 여지가 큽니다. 거부 후 해고 : 해고로 처리되면 서면통지·정당 사유·구제신청 대상이 됩니다. 자발적 퇴사 : 사직서 제출과 실제 의사가 일치해야 합니다. 압박에 의한 사직서는 다툴 수 있습니다. 이렇게 대응하세요 구두 권유를 메신저·문자로 남기거나, 받은 서류에 “미동의” 의견을 기재해 사진으로 보관하세요. 사직서에 “회사 권유에 따른 것”이라고 쓰는 것도 방법입니다 — 단, 회사가 거부할 수 있으니 내용증명·녹취 등 추가 증거를 함께 확보하세요. 실업급여는 이직 사유 신고 항목이 중요합니다. 관련 실업급여 글을 보세요. 자주 틀리는 판단 “권고사직은 무조건 실업급여가 된다” — X. 사유·증거에 따라 달라집니다. “사직서만 쓰면 끝” — X. 실제 의사와 조건이 기록에 남아야 합니다. 일반 안내입니다. 압박·협박이 동반된 경우 노조·변호사 상담을 권합니다. 서류·대화 보관 권유 일시·장소·발언자를 메모하고, 가능하면 메신저·문자·사직서 양식을 캡처하세요. 사직서에 이미 서명했다면 “압박에 따른 것”임을 뒤늦게 고치기보다 내용증명·증인 기록으로 실질 의사를 남기세요. 실업급여 이직 사유는 “회사 요구/권고”와 “자발”이 다릅니다 — 신고 전 실업급여 요건을 확인하세요. 거부 후 올 수 있는 압력 전배·평가 하락·배제 → 차별·평등 , 진정 경로 검토 갑작스러운 징계 → 징계 절차 확인, 서면 통보 요구 권고만 반복 시 “미동의” 입장을 메신저로 남겨 두는 것이 유리합니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>내용증명과 서면 통지 — 요구를 남기는 방법</title>
+      <link>https://nodong.seoulblue.com/articles/content-certified-mail</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/content-certified-mail</guid>
+      <category>지식</category>
+      <description>← 지식 목록 내용증명과 서면 통지 — 요구를 남기는 방법 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 회사와의 다툼에서 가장 흔한 반론은 “그런 요구를 받은 적 없다”입니다. 서면 통지 는 그 반론을 막는 가장 값싼 수단입니다. 이 글은 문서로 남기는 이유부터 담을 내용·보내는 법·그 밖의 통지까지 순서대로 정리한 안내입니다. 문서 내용은 이후 절차에 그대로 인용되므로 마지막 점검표까지 읽고, 큰 금액·복잡한 사안은 진정 글 ·전문가 검토 후 발송하세요. 내용증명 vs 진정서 — 언제 무엇을 (개념도) 한눈에 보는 표 — 무엇을 언제 쓰나 수단 받는 곳 효과·시점 내용증명 사용자(회사·대표자) 요구 기록·시효 중단 근거, 사내 요구 첫 단계 사내 메일 담당자·인사 수신 기록 확보, 퇴사 전 개인메일 병행 진정서 관할 노동청 조사·지도로 이어짐, 사내 요구 후 단계 1. 문서로 남겨야 하는 이유 요구한 사실과 시점이 기록으로 확정됩니다. 시효 중단, 분쟁 시점 특정, 악의성 판단에 모두 쓰입니다. 관련 글 소멸시효 글 에서 왜 서면이 중요한지 확인하세요. 구두 요구는 나중에 증명이 어렵습니다. 상대가 부인하면 사실상 없던 일이 됩니다. 요청에 대한 회사의 답변도 기록으로 남습니다. 답변이 없거나 거부했다는 사실 자체가 근거가 됩니다. 2. 무엇을 담는가 — 5줄 공식 당사자, 사건의 경위, 요구 내용, 이행 기한, 이행하지 않을 경우의 조치를 명확히 적으세요. 금액 청구라면 계산 근거를 붙이세요. 근무 기간, 시간, 지급받은 금액과 차액을 표로 정리하세요. 감정적 표현은 넣지 마세요. 사실과 요구만 적는 문서가 이후 절차에서 그대로 쓰입니다. 3. 어떻게 보내는가 — 내용증명 실무 내용증명은 보낸 내용과 받은 사실이 우체국 기록으로 남습니다. 다만 효력이 특별한 것은 아니고 증명력이 강한 등기 방식입니다. 사업장 주소와 대표자 명의로 보내세요. 담당자 개인에게만 보내면 받지 않았다는 다툼이 생길 수 있습니다. 보낸 문서 사본과 발송 기록(영수증)을 함께 보관하세요. 이 두 개가 세트로 있어야 의미가 있습니다. 4. 그 밖의 통지 — 메일·문자·메신저 사내 메일도 수신 기록이 남으므로 요구 수단이 됩니다. 다만 퇴사 후에는 계정이 막히므로 개인 메일로도 함께 보내세요. 문자·메신저는 상대와 주고받은 전체 대화가 남도록 캡처해 보관하세요. 한쪽만 캡처하면 왜곡 의혹이 생깁니다. 자주 틀리는 3가지 “내용증명 보내면 이긴다” — 증명 수단이지 승소 보장이 아닙니다. 이후 절차가 따로 필요합니다. “말로 충분히 요구했다” — 부인하면 입증이 어렵습니다. 서면이 원칙입니다. “담당자에게만 보내면 된다” — 대표자·사업장 명의로 보내야 다툼이 없습니다. 현장 체크리스트 (발송 전) □ 당사자·경위·요구·기한·후속조치가 적혔는가 □ 금액 계산 근거표를 붙였는가 □ 감정 표현을 뺐는가 □ 대표자·사업장 명의로 보냈는가 □ 사본·영수증을 보관했는가 자주 묻는 질문 Q. 내용증명 양식이 따로 있나요? — A. 정해진 양식은 없습니다. 5줄 공식(누가·무슨 일·무엇을·언제까지·안 하면)을 지키세요. Q. 수신을 거부하면요? — A. 발송·도달 시도 기록 자체가 근거가 됩니다. 영수증을 보관하세요. Q. 메일로만 보내도 되나요? — A. 수신 기록이 남으면 됩니다. 다만 중요 사안은 내용증명을 병행하세요. Q. 시효가 얼마 안 남았습니다. — A. 즉시 발송하고 진정 · 구제신청 도 병행 검토하세요. 근거와 원문 내용증명 이용 안내 — 인터넷우체국 관련 글: 소멸시효 · 임금체불 · 증거 점검표 이 글은 2026-09-19 기준 일반 안내입니다. 문서 내용이 이후 법적 절차에 그대로 인용될 수 있으므로, 큰 금액·복잡한 사안은 전문가 검토 후 발송하세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>단체교섭 — 요구에서 협약 체결까지</title>
+      <link>https://nodong.seoulblue.com/articles/collective-bargaining</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/collective-bargaining</guid>
+      <category>지식</category>
+      <description>← 지식 목록 단체교섭 — 요구에서 협약 체결까지 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 단체교섭은 요구 → 교섭 → 합의 → 서명 의 순서입니다. 어느 단계에서 기록을 남겼는지가 이후 분쟁에서 사실관계를 가릅니다. 이 글은 교섭의 출발점부터 대표 체계·테이블 운영·협약 문서화까지 순서대로 정리한 안내입니다. 대표자 자격과 창구 단일화 요건은 사안마다 판단이 갈리므로 마지막 점검표까지 읽고 상급단체·전문가 확인을 받으세요. 요구 → 교섭 → 합의 → 서명·협약 (개념도) 한눈에 보는 표 — 교섭 4단계 단계 할 일 남길 기록 1. 요구 대표자 지위 갖추고 서면 요구 요구서·접수 확인 2. 대표·창구 교섭 대표 정하고 위원 권한 명확히 규약·교섭 위원 명단 3. 테이블 쟁점·회사 답변 회의록화 회의록·자료 요청 기록 4. 협약 문서화·서명·유효기간 확정 협약 원본·갱신 일정 1. 교섭의 출발점 교섭을 요구하려면 조합이 근로자의 대표자 지위를 갖춰야 합니다. 규약·설립신고증·조합원 명부로 그 지위를 확인하세요. 관련 글 노동조합 설립 글 을 참고하세요. 요구는 문서로 하고 회사가 받았는지 확인하세요. 구두 요구는 “그런 요구를 받은 적 없다”는 다툼으로 이어집니다. 요구서에는 교섭 시기·장소·위원 구성을 함께 적어 두면 지연 주장을 막기 쉽습니다. 2. 교섭 대표와 교섭 창구 사업장에 여러 노조가 있으면 교섭 창구 단일화 절차가 적용될 수 있습니다. 절차를 건너뛰면 상대방이 교섭 자체를 다툽니다. 관련 글 교섭 창구 단일화 글 을 보세요. 교섭 위원은 조합이 정하되, 위원장·교섭 대표 권한을 규약에 명확히 두세요. 권한 없는 합의는 나중에 무효 다툼이 됩니다. 3. 교섭 테이블에서 할 일 회의 일시·참석자·회사 측 답변·미해결 쟁점을 회의록으로 남기세요. 회의록은 조합이 작성해 회사에 확인을 요청하세요. 회사가 자료를 내지 않거나 교섭을 지연시키는 경우 부당노동행위로 다툴 여지가 있습니다. 요구한 자료와 요청 시점을 기록하세요. 관련 글 부당노동행위 글 을 참고하세요. 4. 합의와 단체협약 합의 내용은 단체협약으로 문서화하고 쌍방이 서명하세요. 구두 합의만 남으면 이행 단계에서 사라집니다. 협약 조항은 근로계약보다 유리한 기준으로 적용됩니다. 취업규칙·근로계약과 충돌하는 부분은 따로 정리해 두세요. 협약 유효기간과 자동갱신 여부를 정해 두지 않으면 갱신 시점에 교섭이 공백이 됩니다. 자주 틀리는 3가지 “구두로 요구했다” — 요구서·접수 기록이 없으면 교섭 거부를 다투기 어렵습니다. “위원이 많으면 유리” — 권한이 불명확하면 합의가 무효 다툼에 휘말립니다. “합의는 뒤에 문서로” — 서명 전 합의는 사라집니다. 그 자리에서 문서로 남기세요. 현장 체크리스트 □ 요구서를 서면으로 제출하고 접수를 확인했는가 □ 교섭 위원 권한을 규약에 명시했는가 □ 회의록에 회사 답변·쟁점을 적었는가 □ 협약 유효기간·갱신 조항을 넣었는가 □ 협약 원본을 보관했는가 자주 묻는 질문 Q. 회사가 교섭을 미룹니다. — A. 요구서·재촉 기록을 남기고 지연을 부당노동행위로 다툴 수 있는지 상담하세요. Q. 소수 노조도 참여할 수 있나요? — A. 창구 단일화 구조에서 참여 방식이 정해집니다. 사전에 절차를 확인하세요. Q. 구두 약속을 안 지킵니다. — A. 협약서에 없으면 이행을 요구하기 어렵습니다. 문서로 확정하세요. Q. 협약이 근로계약과 다릅니다. — A. 유리한 기준이 적용됩니다. 충돌 조항을 표로 정리해 두세요. 근거와 원문 노동조합 및 노동관계조정법 교섭 규정 — 국가법령정보센터 교섭·협약 해석 안내 — 고용노동부 누리집 관련 글: 교섭 창구 단일화 · 부당노동행위 · 쟁의행위 이 글은 2026-09-19 기준 일반 안내입니다. 교섭 창구 단일화·대표자 자격 요건은 사안마다 판단이 갈리므로 상급단체나 노무사·변호사 확인이 필요합니다. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>평균임금과 통상임금 — 계산의 두 기준</title>
+      <link>https://nodong.seoulblue.com/articles/average-wage-ordinary-wage</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/average-wage-ordinary-wage</guid>
+      <category>지식</category>
+      <description>← 지식 목록 평균임금과 통상임금 — 계산의 두 기준 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 현장에서 금액 다툼이 생기는 지점은 대부분 어떤 임금을 기준으로 계산했는가 입니다. 평균임금과 통상임금은 쓰이는 자리가 다릅니다. 이 글은 두 기준 구분부터 포함 항목·검산 순서·기록법까지 정리한 안내입니다. 포함 여부는 규정·사실관계에 따라 달라지므로 마지막 점검표까지 읽고 급여명세서 글 ·전문가 확인을 받으세요. 평균임금(생활보전) vs 통상임금(근로대가) (개념도) 한눈에 보는 표 — 어디에 무엇을 쓰나 기준 쓰임 구하는 법 평균임금 퇴직금·휴업수당·재해보상 기준 기간 실제 임금 총액 ÷ 그 기간 일수 통상임금 연장·야간·휴일수당·해고예고수당 정기·일률 지급분 → 시간급 환산 1. 두 기준을 나눠서 본다 평균임금은 퇴직금·휴업수당·재해보상처럼 “생활을 보전하는” 계산에 씁니다. 일정 기간에 실제로 받은 임금 총액을 그 기간의 일수로 나눠 구합니다. 통상임금은 연장·야간·휴일근로수당, 해고예고수당처럼 “근로의 대가”를 계산할 때 씁니다. 정해진 근로에 대하여 정기적·일률적으로 지급하기로 한 임금이 대상입니다. 같은 회사·같은 근로자라도 두 값이 다르게 나오는 것이 정상입니다. 어느 계산에 어느 기준을 썼는지 확인하는 것이 첫 단계입니다. 2. 무엇이 포함되는가 — 명세서 한 줄씩 급여명세서의 항목을 하나씩 보세요. 기본급·직무수당·근속수당처럼 조건 없이 매달 나오는 항목은 대체로 포함되고, 실비변상적이거나 조건부로 나오는 항목은 다툼이 됩니다. 상여금·성과급처럼 지급 조건이 붙은 항목은 포함 여부를 두고 다툼이 잦습니다. 지급 규정·근로계약·취업규칙의 문구가 판단 자료가 됩니다. 회사가 “계산 편의”를 이유로 임금 항목을 임의로 뭉쳐 지급해 온 경우, 실제 성격을 다시 따져 기준 임금을 확인해야 합니다. 3. 스스로 검산하는 순서 최근 급여명세서(가능하면 여러 달)와 근로계약서, 취업규칙, 급여 규정을 확보하세요. 기준 기간의 임금 총액과 일수를 확인해 평균임금을 계산하고, 정기·일률 지급 항목만 추려 시간급 통상임금을 계산하세요. 실제 받은 수당과 검산값을 비교해 차액이 있는지 보세요. 차액이 있으면 계산 근거를 적어 회사에 서면으로 확인을 요청하세요. 관련 글 연장수당 청구 글 · 퇴직금 글 순서대로 진행하세요. 4. 분쟁을 줄이는 기록 임금 항목의 성격은 문서로 정해집니다. 입사 시 받은 급여 규정·취업규칙 사본을 보관하세요. 수당 계산이 어떻게 이뤄졌는지 회사에 자료를 요구하고, 받은 자료는 날짜를 적어 보관하세요. 계산 방식이 바뀌면 그 통지 문서를 남기세요. 구두 안내만 있던 변경은 나중에 확인이 어렵습니다. 자주 틀리는 3가지 “평균=통상” — 쓰임과 구하는 법이 다릅니다. 계산서부터 구분하세요. “명세서 항목명이 최종” — 실제 성격(정기·일률·실비)을 따져야 합니다. “회사가 계산했으니 맞다” — 검산은 근로자의 권리입니다. 근거를 요구하세요. 현장 체크리스트 □ 어느 계산에 어느 기준을 썼는지 확인했는가 □ 명세서 항목을 한 줄씩 분류했는가 □ 규정·계약서 문구를 확보했는가 □ 검산값과 실수령을 비교했는가 □ 차액을 서면으로 요구했는가 자주 묻는 질문 Q. 상여금이 통상에 포함되나요? — A. 정기·일률 요건을 따져야 합니다. 지급 규정을 보세요. Q. 식대·교통비는요? — A. 실비 성격이면 제외 다툼이, 고정 지급이면 포함 다툼이 생깁니다. Q. 평균이 통상보다 낮게 나옵니다. — A. 평균임금이 통상에 미달하면 통상을 기준으로 하는 조정 규정이 있습니다. 상담으로 확인하세요. Q. 과거 수당을 다시 계산할 수 있나요? — A. 시효 범위에서 가능합니다. 관련 글 소멸시효 글 을 보세요. 근거와 원문 근로기준법 평균·통상임금 규정 — 국가법령정보센터 임금 해석 안내 — 고용노동부 누리집 관련 글: 퇴직금 산정 · 연장수당 · 급여명세서 이 글은 2026-09-19 기준 일반 안내입니다. 기준 임금에 무엇이 포함되는지는 사업장의 규정과 개별 사실관계에 따라 판단이 달라지므로, 실제 청구 전에는 노조·공인노무사·변호사 확인이 필요합니다. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>교섭 창구 단일화 — 절차와 실무</title>
+      <link>https://nodong.seoulblue.com/articles/bargaining-unit-singleization</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/bargaining-unit-singleization</guid>
+      <category>지식</category>
+      <description>← 지식 목록 교섭 창구 단일화 — 절차와 실무 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 사업장에 노동조합이 둘 이상이면 누가 근로자를 대표해 교섭할지 를 먼저 정해야 합니다. 교섭 창구 단일화는 여러 노조가 각각 따로 교섭하는 것을 막고, 정해진 절차에 따라 대표 교섭 주체를 정하는 제도입니다. 다만 교섭 단위·노조 구성·대표 결정 방식은 사안마다 달라지므로 아래 절차를 출발점으로 삼고, 공식 법령과 상급단체·전문가의 최신 확인을 받으세요. 현황 확인 → 대표 결정 → 공고·이의 → 대표 교섭·협약 (개념도) 한눈에 보는 표 — 창구 단일화 4단계 단계 확인·실행 남길 기록 1. 현황 확인 교섭 단위, 설립 신고, 조합원 범위, 대표 권한 확인 설립신고증·규약·조합원 명부 2. 대표 결정 노조 간 합의 또는 법정 절차에 따라 대표 교섭 주체 결정 합의서·회의록·결정 자료 3. 공고·이의 절차와 결과를 관계자에게 알리고 이의 제기 기회 확인 공고문·게시 사진·이의서·접수 기록 4. 교섭·협약 대표 노조가 교섭하고 협약의 적용 범위·효력 확인 교섭 요구서·회의록·협약 원본 1. 먼저 확인할 것 — 교섭 단위가 출발점 먼저 같은 교섭 단위에 속하는 노동자와 노조를 확인하세요. 사업장 단위, 지점·공장 단위, 산업·업종 단위 등 범위가 다르면 대표 결정 절차도 달라질 수 있습니다. 관련 글 노동조합 설립 글 에서 설립신고증과 규약을 다시 확인하세요. 각 노조의 설립 신고 여부, 조합원 자격, 임원과 교섭 위원의 권한을 확인하세요. 신고증만 보고 대표권을 추정하지 말고 규약과 위임 절차를 함께 봅니다. 사용자 측도 한 곳인지, 원청·하청·용역 등 관계가 겹쳐 있는지 정리하세요. 교섭 상대와 대표 노조를 동시에 다투는 사안에서는 기록이 더 중요합니다. 2. 대표 결정 — 합의가 우선, 절차가 다음 참여 노조가 대표 교섭 주체를 합의할 수 있으면 합의 과정과 결과를 문서로 남기세요. 합의가 없거나 절차 요건을 충족하지 못하면 법정 절차와 기준을 따라야 합니다. 대표 결정은 조합원 수·교섭 단위·노조 간 합의·이의 절차 등을 종합해 판단합니다. “공고만 하면 자동으로 대표가 된다”거나 “가장 큰 노조가 무조건 대표다”처럼 단순화해 행동하면 절차 자체가 다툼이 될 수 있습니다. 대표 노조가 정해지면 교섭 요구서, 교섭 위원 명단, 권한 범위를 명확히 하세요. 관련 글 단체교섭 글 의 요구서·회의록 점검표를 함께 쓰세요. 3. 공고와 이의 — 날짜·장소·내용을 남기기 공고·통지·이의신청 방식과 기간은 적용되는 절차에 따라 달라집니다. 최신 법령·노동위원회 안내와 사업장 규약을 확인하고, 정해진 방식대로 진행하세요. 공고문 원본, 게시 일시, 게시 장소, 사진, 전달 기록을 보관하세요. 전자문서라면 파일 원본과 발송·열람 기록도 남깁니다. 이의가 제기되면 내용·제출일·접수자를 확인하고 정정·보완 여부를 기록하세요. 대표 결정의 정당성은 최종 서명보다 중간 절차의 증거로 설명되는 경우가 많습니다. 4. 대표 노조가 된 뒤 — 교섭과 협약의 책임 대표 노조는 교섭 요구와 일정 조정, 쟁점 정리, 회의록 작성, 조합원 보고를 책임집니다. 관련 글 단체교섭 글 의 4단계 표를 참고하세요. 교섭 결과는 협약서에 서명자, 적용 대상, 유효기간, 갱신 조항을 넣어 문서화하세요. 구두 합의만으로 대표성과 이행 범위가 확정되지 않습니다. 대표 노조가 정해졌다고 해서 다른 노조의 기본적 권리가 사라지는 것은 아닙니다. 차별·불이익·대표성 다툼이 생기면 별도 쟁점이 될 수 있습니다. 5. 소수 노조와 조합원의 관점 소수 노조는 대표 교섭에서 배제되더라도 조합원 자격과 정당한 활동이 보장되는지 확인해야 합니다. 가입·활동을 이유로 한 불이익은 부당노동행위 검토 대상이 될 수 있습니다. 협약이 자신의 근로조건에 적용되는지, 적용 범위와 예외는 무엇인지 확인하세요. 협약의 효력은 법 규정·협약 조항·사업장 상황에 따라 달라질 수 있습니다. 절차나 대표성에 이의가 있으면 이의서, 교섭 요구, 노동위원회 상담 자료를 시간순으로 준비하세요. 관련 글 노동쟁의 조정·중재 글 도 참고하세요. 자주 틀리는 3가지 “노조가 둘이면 각각 교섭한다” — 대표 교섭 주체를 정하는 절차가 먼저 필요할 수 있습니다. “공고 게시가 끝이면 끝이다” — 공고 방식, 기간, 이의 기록까지 남기지 않으면 대표성 입증에 약점이 생깁니다. “대표 노조가 정해지면 소수 노조 권리는 없다” — 대표 교섭과 개별 노조의 기본권은 구분해 확인해야 합니다. 현장 체크리스트 □ 교섭 단위와 적용 근로자 범위를 확인했는가 □ 각 노조의 설립신고증·규약·대표 권한을 확인했는가 □ 대표 결정의 합의 또는 법정 절차를 기록했는가 □ 공고문·게시 일시·이의서·접수 기록을 보관했는가 □ 대표 노조의 교섭 요구서와 위원 권한을 명확히 했는가 □ 협약의 적용 범위·유효기간·갱신 조항을 확인했는가 자주 묻는 질문 Q. 노조가 둘인데 각각 교섭 요구서를 냈습니다. — A. 먼저 교섭 단위와 대표 결정 절차를 확인하세요. 각자의 요구서를 보관하면서도 절차를 임의로 생략하지 마세요. Q. 대표 결정 공고에 이의가 있습니다. — A. 이의 사유와 근거, 제출 일시를 문서로 남기고 상급단체·노동위원회에 절차를 확인하세요. Q. 소수 노조 조합원도 협약 적용을 받나요? — A. 협약 조항과 적용 범위, 관련 법 규정을 함께 확인해야 합니다. 자동 적용이라고 단정하지 마세요. Q. 회사가 대표 노조만 인정합니다. — A. 대표 결정 절차가 적법한지와 소수 노조 활동에 대한 차별 여부를 나눠 검토하세요. 근거와 원문 노동조합 및 노동관계조정법 — 교섭대표노동조합·단체교섭 관련 규정: 국가법령정보센터 복수노조·부당노동행위 사건 안내: 중앙노동위원회 누리집 교섭·노조 설립 관련 행정 안내: 고용노동부 누리집 관련 글: 단체교섭 · 부당노동행위 · 조정·중재 이 글은 2026-09-19 기준 일반 안내입니다. 교섭 창구 단일화 절차와 예외는 교섭 단위·노조 구성·사업장 규모와 최신 법령에 따라 달라지므로 상급단체·관할 노동위원회·노무사·변호사에게 사안별 확인을 받으세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>산재 은폐 — 사업장에서 벌어지는 일과 대응</title>
+      <link>https://nodong.seoulblue.com/articles/accident-concealment</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/accident-concealment</guid>
+      <category>지식</category>
+      <description>← 지식 목록 산재 은폐 — 사업장에서 벌어지는 일과 대응 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 산재 은폐는 사고 자체보다 이후 대응 을 어렵게 만듭니다. 다친 직후의 기록이 몇 년 뒤 판단을 바꿉니다. 이 글은 은폐 유형부터 직후 기록·신고·조직 대응까지 순서대로 정리한 안내입니다. 법적 책임은 사안·주체에 따라 달라지므로 마지막 점검표까지 읽고 산재신청 글 ·전문가와 상의하세요. 은폐 요구 식별 → 즉시 기록 → 직접 신청·신고 (개념도) 한눈에 보는 표 — 은폐 4유형과 대응 유형 수법 대응 미보고·축소 보고 금지, 개인질병 처리 요구, 조사표 지연 당일 경위서·목격자 확보 현장 훼손 현장 즉시 정리, 진술 번복 압박 사진·지시내용·장비상태 기록 공상 회유 치료비 대신 부담 조건 포기 요구 서명 거부, 직접 산재신청 반복 구조 같은 재해 반복, 개인부주의 전가 사례 수집, 노조·노동청 제기 1. 어떤 형태로 일어나는가 재해 발생을 보고하지 말라고 하거나, 산재가 아니라 개인 질병·사고로 처리하도록 요구하는 방식이 대표적입니다. 산업재해조사표 제출을 미루거나, 목격자에게 진술을 바꾸게 하거나, 사고 현장을 신속히 정리해 버리는 경우도 있습니다. 치료비를 회사가 개인적으로 부담하는 조건으로 산재 신청을 포기하게 하는 시도도 있습니다. 나중에 장해가 남으면 보상이 크게 줄어듭니다. 2. 다친 직후 남길 것 — 그날 안에 사고 일시·장소·목격자·상황을 그날 안에 적으세요. 가능하면 목격자에게도 같은 내용을 확인받으세요. 현장 사진, 작업 지시 내용, 사용한 장비·기계 상태를 남기세요. 시간이 지나면 현장은 바뀝니다. 병원 진료 기록은 사고 경위와 다친 부위를 정확히 말해 남기세요. “개인 사고”로 적히면 뒤늦게 바로잡기 어렵습니다. 3. 신고와 대응 — 직접 신청이 원칙 산재 신청은 근로자가 직접 할 수 있습니다. 회사 서명이 없어도 접수됩니다. 관련 글 산재신청 절차 글 순서대로 접수하세요. 사업장이 재해를 숨겼다는 점은 별도로 문제 삼을 수 있습니다. 언제 누가 어떤 방식으로 요구했는지 구체적으로 기록하세요. 같은 사업장에서 비슷한 재해가 반복됐다면 그 사례를 모으세요. 개인 부주의로 돌리려는 시도에 맞설 근거가 됩니다. 4. 함께 볼 점 — 조직으로 올려라 은폐를 요구받았다는 사실은 이후 징계·해고 다툼에서도 중요합니다. 관련 대화는 삭제하지 않고 보관하세요. 노조가 있으면 사업장 차원의 문제로 제기하세요. 개인 대응으로는 구조가 바뀌지 않습니다. 관련 글 안전보건위원회 글 의 안건화 방법을 쓰세요. 자주 틀리는 3가지 “회사가 치료비 준다니 산재 불필요” — 후유·장해에서 보상이 크게 줄어듭니다. “개인사고로 적어도 나중에 변경 가능” — 초기 기록 변경은 어렵습니다. 처음부터 정확히 말하세요. “목격자가 없으면 끝” — 진료·사진·지시기록 등 간접 자료를 모으세요. 현장 체크리스트 □ 당일 경위서를 적었는가 □ 목격자 연락처를 확보했는가 □ 현장 사진·장비상태를 남겼는가 □ 진료 시 업무상 경위를 말했는가 □ 은폐 요구 일시·발언자를 기록했는가 자주 묻는 질문 Q. 반장이 “보고하지 마”랍니다. — A. 요구 자체를 기록하고 본인이 직접 신청하세요. Q. 각서에 서명했습니다. — A. 서명 경위(압박 여부)를 메모하고 상담하세요. 서명 후 번복은 어렵습니다. Q. 현장이 이미 치워졌습니다. — A. 진료·목격·지시기록 등 남은 자료부터 모으세요. Q. 같은 사고가 또 났습니다. — A. 반복 사례를 모아 노조·노동청에 구조 문제로 제기하세요. 근거와 원문 산업안전보건법 보고 의무 규정 — 국가법령정보센터 산재 신고 안내 — 근로복지공단 · 고용노동부 누리집 관련 글: 산재신청 · 산재급여 · 증거 점검표 이 글은 2026-09-19 기준 일반 안내입니다. 은폐·축소에 대한 법적 책임은 사안과 주체에 따라 달라지므로 노동청 신고 등 구체적 대응은 전문가와 상의하세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>연차휴가 — 발생과 사용</title>
+      <link>https://nodong.seoulblue.com/articles/annual-leave</link>
+      <guid isPermaLink="true">https://nodong.seoulblue.com/articles/annual-leave</guid>
+      <category>지식</category>
+      <description>← 지식 목록 연차휴가 — 발생과 사용 안내·해설 일반 교육용 정리 · 법률 자문 아님 · 작성 2026-09-19 · 수정 2026-09-19 · 정리: 한국노총 노동연대 연차휴가는 근로자의 권리 입니다. 사용 시기를 정하는 권한도 원칙적으로 근로자에게 있고, 회사가 일방적으로 소멸시킬 수 없습니다. 이 글은 처음 연차를 쓰는 분이 발생 → 사용 → 촉진 → 수당 순서로 한 번에 이해하도록 정리한 안내입니다. 개별 출근율 계산과 소멸 여부는 사실관계에 따라 달라지므로, 마지막 점검표까지 읽은 뒤 문의 나 전문가 상담으로 확인하세요. 연차 발생 → 사용 → 촉진 → 수당 흐름 (개념도) 한눈에 보는 표 구분 기준 발생 1년 미만 1개월 만근 1일 (최대 11일) 1년 이상 1년간 소정근로일 80% 이상 출근 15일 (3년 이상은 2년마다 1일 가산, 최대 25일) 미사용 사용 촉진 절차 준수 여부 절차 위반 시 소멸 안 됨 · 수당 청구 가능 1. 언제 얼마나 생기나 1년간 출근율이 기준(소정근로일 대비 80% 이상)을 채우면 다음 해에 연차가 발생합니다. 1년 미만인 경우에는 개월 수에 따라 1개월 만근 시 1일씩 발생합니다. 출근율 계산에서 제외되는 기간이 있습니다. 업무상 부상·질병 요양, 육아휴직 등 법이 정한 기간은 출근한 것으로 봅니다. 본인의 재직 이력과 휴직 기록을 기준으로 확인해 두세요. 단시간 근로자도 근로시간 비율에 따라 연차가 발생합니다. “아르바이트는 연차가 없다”는 말은 사실이 아닙니다. 2. 사용 시기 — 누가 정하나 사용 시기는 근로자가 정하는 것이 원칙입니다. 회사는 사업 운영에 막대한 지장이 있을 때만 시기를 변경할 수 있고, 연차 자체를 거부할 수는 없습니다. 연차를 이유로 불이익(인사·평가·계약갱신 거절 등)을 주거나, 입사 때 “연차를 미리 포기한다”는 서류에 서명을 요구하는 것은 문제가 됩니다. 그런 서류를 받았다면 사본을 보관하세요. 사용 계획은 말보다 문서가 강합니다. 메신저·메일로 신청하고 승인 내역을 저장해 두면 나중에 분쟁이 생겨도 입증이 쉽습니다. 3. 사용 촉진 제도 — 소멸 조건이 까다롭다 회사가 연차 사용을 촉진하면 미사용분이 소멸할 수 있습니다. 다만 법이 정한 절차와 시기를 지켜야 효력이 생깁니다. 서면 통지 시점, 촉구 횟수, 사용 시기 지정 절차 중 하나라도 어긋나면 소멸 효력이 없습니다. 촉진 서면을 받았다면 내용과 날짜를 확인하고, 사용 계획을 문서로 남기세요. “언제까지 쓰라”는 통보를 받고도 쓰지 않은 경우와, 통보 자체가 없었던 경우는 결과가 다릅니다. 촉진 절차가 적법했는지 확신이 없으면 서면을 버리지 말고 보관한 채 전문가 상담을 받으세요. 4. 못 쓴 연차 — 수당으로 청구 사용하지 못한 연차는 원칙적으로 수당으로 청구할 수 있습니다. 계산 기준은 통상임금 또는 평균임금이며, 취업규칙·단체협약에 별도 기준이 있으면 그 기준을 먼저 봅니다. 연차수당도 임금채권이라 소멸시효가 있습니다. 퇴직 시 남은 연차 정산이 누락되는 경우가 많으니, 퇴직 전 잔여일수를 스스로 기록하고 급여명세서와 대조하세요. 퇴직 전이라면 잔여일수 확인 → 사용 신청 → 미사용분 수당 정산 요청 순서로 진행하는 것이 안전합니다. 자주 틀리는 3가지 “1년 안 되면 연차 0개” — 1년 미만도 1개월 만근 시 1일씩 발생합니다. “회사가 지정한 날만 써야 한다” — 사용 시기 결정권은 원칙적으로 근로자에게 있습니다. “안 쓰면 자동 소멸” — 적법한 촉진 절차가 있어야 소멸합니다. 절차 위반 시 수당 청구가 가능합니다. 현장 체크리스트 □ 입사일·재직 기간·휴직 기간을 메모했는가 □ 급여명세서에서 연차수당 항목을 확인했는가 □ 촉진 서면을 받았다면 날짜·내용을 보관했는가 □ 사용 신청을 문서(메일·메신저)로 남겼는가 □ 퇴직 전 잔여일수를 직접 셌는가 자주 묻는 질문 Q. 퇴직하면 남은 연차는 어떻게 되나요? — A. 미사용분은 수당으로 정산하는 것이 원칙입니다. 퇴직 전 잔여일수를 기록하고 정산 내역을 요구하세요. Q. 촉진 서면을 받았는데 안 썼습니다. — A. 절차가 적법했다면 소멸할 수 있습니다. 서면의 날짜·횟수가 법정 요건을 갖췄는지 확인이 필요합니다. Q. 단시간 근로자도 연차가 있나요? — A. 있습니다. 소정근로시간 비율로 계산합니다. Q. 연차 썼다고 불이익을 받았습니다. — A. 연차 사용을 이유로 한 불이익은 문제가 될 수 있습니다. 인사·평가 기록을 시점별로 보관하고 상담을 받으세요. 근거와 원문 근로기준법 연차유급휴가 규정 — 국가법령정보센터 에서 “근로기준법” 검색 연차 해석과 행정해석 — 고용노동부 민원·행정해석 코너 관련 글: 근로시간과 연장근로 · 임금 소멸시효 · 퇴직금 이 글은 2026-09-19 기준 일반 안내입니다. 출근율 산정과 소멸 요건은 개별 사실관계에 따라 달라지므로 노무 상담으로 확인하세요. 법률 자문이 아닙니다.</description>
+      <pubDate>Wed, 21 Oct 2026 12:43:15 +0900</pubDate>
     </item>
   </channel>
 </rss>
