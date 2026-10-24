@@ -279,7 +279,7 @@ node tools/check-links.mjs     # 내부 링크 전수 검사 (깨진 링크 0 �
   - `adpolicy.html` 신규 — 광고 정책 페이지(허용·제한 광고 유형, 노동/법률 주제 특별 기준, 스폰서 원칙, 심의·신고 절차). 애드센스 가입 시 "광고 정책 URL"로 이 주소를 넣으면 됩니다.
   - `ads.txt` — 승인 후 애드센스가 주는 `google.com, pub-…, DIRECT, …` 한 줄을 붙여 넣습니다(지금은 주석만).
   - 푸터 전 페이지에 광고 고지 + 광고 설정·쿠키 설정 링크 + RSS 구독 + 광고 정책 링크(`tools/patch-footer.mjs`, 멱등).
-  - 지식 글 분량 보강 12편(`tools/enrich-thin.mjs` ~ `enrich-thin3.mjs`, 2026-10-21) — 평균 1,266자 → 1,545자, 합계 98,895자. 나머지 얇은 글은 `정확한 분량은 각 글의 본문 길이로 확인`.
+- 지식 글 분량 보강 18편 (tools/enrich-thin.mjs ~ enrich-thin4.mjs, 2026-10-21~22) - 평균 1,266자 -> 1,734자, 합계 111,006자. 모든 글 1,250자 이상.
   - ⚠️ 애드센스 심사에서 통과를 현실적으로 기대하려면 **트래픽**이 결정적입니다. 도메인 2일 차 지금은 거부 확률이 높으니 검색 노출이 쌓인 뒤(2~4개월) 신청하는 편이 낫습니다.
 - **Vercel 백업 배포 주의** — `tools/deploy.mjs` 는 `VERCEL_TOKEN` 이 필요합니다. 현재 PC 의 Vercel CLI 토큰(`%APPDATA%\com.vercel.cli\Data\auth.json`)은 **만료/무효**(`invalidToken`)라 백업 재배포가 불가능합니다. 토큰을 주시면 `VERCEL_TOKEN=... node tools/deploy.mjs` 로 재배포해 백업본의 canonical 도 `nodong.seoulblue.com` 으로 맞춰야 합니다(지금은 백업본이 옛 canonical 을 그대로 serve).
 - **URL 형식 주의 (2026-10-20)** — Cloudflare Pages 는 `.html` 요청을 확장자 없는 URL 로 308 리다이렉트합니다. 그래서 canonical·OG·sitemap·feed 는 **모두 확장자 없는 URL**(`https://nodong.seoulblue.com/articles/severance-pay`)을 씁니다. `tools/gen-sitemap.mjs`·`tools/gen-feed.mjs`·`tools/seo-tags.mjs` 도 같은 규칙으로 URL 을 만들기 때문에 재생성해도 뒤집히지 않습니다. 네이버 소유확인 HTML 파일처럼 **정확히 `.html` 경로로 200 응답이 필요한 파일**은 Pages pretty URL 때문에 308 이 걸립니다 → 그럴 땐 meta 태그 방식 소유확인을 씁니다.
@@ -290,14 +290,18 @@ node tools/check-links.mjs     # 내부 링크 전수 검사 (깨진 링크 0 �
 
 ## 9. GitHub 백업 저장소
 
-`worldculture08-bit/fktu-nodong` — 현재 배포본과 동일한 소스를 `main` 에 둡니다.
+**주 계정: `nodongstyle01boom`** (표시명 booombooong · `nodongstyle01@gmail.com` · 2026-10-22 통합). 이 PC 의 gh CLI 활성 계정과 git 커밋 identity 가 모두 이 계정으로 통일돼 있습니다.
+
+- `nodongstyle01boom/fktu-nodong` — **푸시 대상**(포크). 현재 배포본과 동일한 소스를 `main` 에 둡니다.
+- `worldculture08-bit/fktu-nodong` — 원본 저장소(`upstream`). 소유자 계정이라 이 PC 에서 push 권한이 없어 **PR 로만** 반영됩니다.
 
 ```bash
-git -C fktu-nodong push origin main          # 로컬 커밋 반영
-gh api repos/worldculture08-bit/fktu-nodong/git/trees/main?recursive=1   # 원격 파일 수 확인
+git -C fktu-nodong push origin main          # 로컬 커밋 반영 (origin = nodongstyle01boom 포크)
+gh api repos/nodongstyle01boom/fktu-nodong/git/trees/main?recursive=1   # 원격 파일 수 확인
+gh pr create --repo worldculture08-bit/fktu-nodong --head nodongstyle01boom:main --base main
 ```
 
-- **인증**: 이 PC 는 `aannss800124` 계정으로 로그인돼 있고(2026-10-02 Collaborator 추가), `repo` 스코프가 있어 바로 푸시됩니다. 토큰을 따로 만들지 않습니다.
+- **인증**: `gh auth login` 으로 `nodongstyle01boom` 로그인(2026-10-22). 전역 identity = `nodongstyle01boom <nodongstyle01@gmail.com>`.
 - **푸시가 멈추면 (2026-10-02 실측)**: 이 PC 의 기본 자격증명 헬퍼 `manager`(Git Credential Manager) 가 대화상자에서 멈춰 `git push` 가 10분 넘게 hang 됩니다(`git ls-remote`·`git fetch` 는 정상). 아래처럼 gh 토큰을 직접 쓰면 즉시 됩니다:
 
 ```bash
