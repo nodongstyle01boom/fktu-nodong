@@ -1,6 +1,6 @@
 # 한국노총 노동연대 홈페이지 — 운영 안내
 
-**주소: https://fktu-nodong.vercel.app** (이 주소 하나로 운영)
+**주소: https://nodong.seoulblue.com** (이 주소 하나로 운영 · Cloudflare Pages / SSL)
 
 ---
 
@@ -53,7 +53,7 @@ tools/promo-logs.mjs     실행 로그·발행 기록 점검 (--summary/--tail/-
 
 ## 2. 운영자 페이지
 
-**https://fktu-nodong.vercel.app/admin.html**
+**https://nodong.seoulblue.com/admin.html**
 
 사이트 모든 페이지 **푸터 오른쪽 “회원가입 · 문의 · 운영자 로그인”** 링크로 들어갑니다. 메뉴·푸터 일괄 적용은 `node tools/site-links.mjs` (멱등).
 
@@ -175,6 +175,30 @@ node tools/make-ico.mjs      # favicon.ico (위 PNG 를 그대로 감쌈)
 
 ## 6. 배포
 
+### Cloudflare Pages (라이브)
+
+```bash
+CLOUDFLARE_API_TOKEN=<토큰> node tools/deploy-pages.mjs
+```
+- 프로젝트: **`fktu-nodong`** → `https://fktu-nodong.pages.dev`
+- 도메인: `nodong.seoulblue.com` (Cloudflare Pages Custom domain · SSL 활성)
+- 토큰: Cloudflare My Profile → API Tokens → **Account → Cloudflare Pages → Edit**.
+- `tools/deploy-pages.mjs` 가 `.git`·`.vercel`·`tools`·문서·비밀키를 제외한 사본을 임시 폴더에 만든 뒤 Wrangler로 업로드합니다.
+
+### Netlify (백업 — 2026-10-21 추가, Vercel 대체)
+
+```bash
+node tools/deploy-netlify.mjs
+```
+- 사이트: **`fktu-nodong-backup`** (site id `6697e72b-ff7e-4f26-a03e-3e8940cced06`) → `https://fktu-nodong-backup.netlify.app`
+- 도메인: **`backup.seoulblue.com`** (Cloudflare DNS CNAME `backup` → `fktu-nodong-backup.netlify.app`, Proxied · SSL 자동)
+- 로그인: `netlify login` (브라우저 OAuth) · 상태 확인 `netlify status` · 계정 chi0211toto@gmail.com / 팀 `chi0211toto's team`
+- 백업 미러라 `X-Robots-Tag: noindex, nofollow` 헤더를 붙입니다(스테이징에 `netlify.toml` 생성). canonical 은 `nodong.seoulblue.com` 이므로 검색 노출은 라이브만 됩니다.
+- ⚠️ Netlify 는 신규 사이트에 Visitor Access(로그인 요구)가 켜져 있으면 전부 401 이 됩니다. API 로 `{"sso_login":false}` 를 PUT 해 끄면 공개됩니다.
+- Netlify 백업의 한계: 계정당 사이트 1개가 아니라 여러 개 가능, 대역폭 월 100GB(충분), 자동 HTTPS, 커스텀 도메인 1개.
+
+### Vercel (참고 — 더 이상 백업 경로 아님)
+
 ```bash
 # 팀 스코프 토큰
 VERCEL_TOKEN=<토큰> node tools/deploy.mjs
@@ -184,6 +208,7 @@ VERCEL_TOKEN=<토큰> VERCEL_TEAM=team_3HoUweM4zrGrTm1lCaxrYjpI node tools/deplo
 ```
 - 프로젝트: **`fktu-nodong-v2`** (`prj_WUsBK4YXEtyS8tyjYnlBkI3lwfGE`, 팀 `worldculture0825-2848`) — 2026-10-02 부터
 - 도메인: `fktu-nodong.vercel.app` (이 프로젝트 소유)
+- ⚠️ 2026-10-21: 이 PC 의 Vercel CLI 토큰(`%APPDATA%\com.vercel.cli\Data\auth.json`)이 **만료/무효**(`invalidToken`)라 백업 재배포가 막혔습니다. Vercel 을 다시 쓰려면 대시보드에서 토큰을 새로 발급해야 합니다. 신규 백업은 Netlify 로取代했습니다.
 - ⚠️ 2026-10-02 프로젝트 이전: 구 프로젝트 `fktu-nodong` (`prj_P4tHJiJGn8AFlgW9tdhimQlxUqY0`) 는 백엔드에 레거시 설정이 고착되어 **모든 배포가 `BUILD_FAILED / Resource provisioning failed`**(빌드 컨테이너가 시작되지 않음)로 실패했습니다. 공개 API로 바꿀 수 있는 설정(`fluid: false`, 함수 타임아웃 10s, 배포 보호 해제)을 모두 되돌려도 동일했고, 같은 설정의 임시 신규 프로젝트는 정상 배포되어 **프로젝트 단위 고착**으로 확인했습니다. 도메인은 그대로 `fktu-nodong-v2` 로 옮겼으니 주소·기능은 불변입니다. 구 프로젝트는 **2026-10-02 폐기 완료**했습니다(원인 확인용 진단 정보는 `tools/vercel-support-ticket.md` 에 보관 — 지원팀에는 복구 요청이 아닌 원인·재발 방지 문의용). 같은 증상이 새 프로젝트에서 재발하면 Vercel 지원팀에 위 문구로 문의하세요.
 - 토큰은 vercel.com → Settings → Tokens 에서 발급. 만료되면 새로 만들어 쓰세요.
 - 토큰 Scope 는 **`worldculture0825-nodong` (팀)** 이 편합니다. Full Account 로 만들었으면 `VERCEL_TEAM=team_3HoUweM4zrGrTm1lCaxrYjpI` 를 같이 넘기세요 (2026-09-17 부터 스크립트가 `teamId` 를 붙입니다).
@@ -241,8 +266,23 @@ node tools/check-links.mjs     # 내부 링크 전수 검사 (깨진 링크 0 �
 - **게시판 댓글·첨부파일** — 없습니다.
 - **게시판 전문검색** — 없습니다 (목록이 길어지면 필요해집니다).
 - **첨부 이미지** — 없습니다 (Supabase Storage 연결 시 가능).
-- **도메인 연결** — 지금은 `*.vercel.app` 무료 주소입니다. 자체 도메인을 사면 연결할 수 있습니다.
-- **검색엔진 등록** — `sitemap.xml`·`robots.txt` 는 준비됨. Google Search Console · 네이버 서치어드바이저 · 다음 · Bing 등록은 아직 안 했습니다. 소유권 확인 코드를 받으면 사이트 head 에 넣어 드립니다. 절차는 `tools/promo-kit.md` 참고.
+- **도메인 연결** — 완료. 라이브는 Cloudflare Pages `https://nodong.seoulblue.com` (자체 도메인, SSL 활성). 백업은 Netlify `https://backup.seoulblue.com` (2026-10-21 추가, noindex 처리). Vercel(`fktu-nodong.vercel.app`)은 토큰 만료로 백업 경로에서 제외.
+- **검색엔진 등록** — 2026-10-21 기준 최종 상태.
+  - **Google Search Console** (도메인 속성 `sc-domain:seoulblue.com`): `https://nodong.seoulblue.com/sitemap.xml` 제출 → 성공 81페이지, 홈 URL 색인 요청 완료. `https://job.seoulblue.com/sitemap.xml` 재제출 → 성공 337페이지(Tistory HTTPS 인증서 발급 후). `https://job.seoulblue.com/` URL 검사 = 색인 생성됨 + HTTPS 정상.
+  - **네이버 서치어드바이저**: `https://nodong.seoulblue.com` 등록·소유확인(HTML 태그) → 사이트맵 제출 + RSS 제출(`feed.xml`) + 수집 요청 5건. `https://job.seoulblue.com` 등록·소유확인(meta 태그가 티스토리 스킨에 이미 있음) → 사이트맵(`sitemap.xml`) + RSS(`/rss`) 제출 + 수집 요청 1건. 중복이던 `http://job.seoulblue.com`(HTTP→HTTPS 302)과 백업 주소 `https://fktu-nodong.vercel.app` 속성은 삭제했습니다. 남은 소유확인 항목: `https://bworker.or.kr`(다른 계정의 Cloudflare 존이라 DNS 조작 불가 — 대체 도메인 `nodong.seoulblue.com`으로 전환 완료).
+  - **다음(Daum) 검색등록**: `https://nodong.seoulblue.com` 신청 완료 → 상태 "검토중인 사이트". (URL 칸에는 스킴을 포함한 전체 URL 을 넣어야 합니다. `http://` 로 넣으면 조용히 실패합니다.)
+  - **IndexNow** (2026-10-21 추가): `tools/indexnow.mjs` 가 sitemap URL 82개를 한 번에 Bing·Naver·Yandex 색인 큐에 밀어넣습니다(키 파일 = 루트의 32자리 hex `.txt`). 배포 직후 실행하면 색인까지 며칠이 아니라 몇 시간으로 줄어듭니다.
+  - **미완료**: Bing webmaster 등록(검색엔진 등록과 별개), 네이버 간단체크(캡차 반복 실패).
+- **애드센스(Google AdSense) 심사 대비 (2026-10-21)** — 승인은 트래픽·콘텐츠 분량이 좌우, 호스팅은 무관. 지금 해 둔 것:
+  - `privacy.html` 7~9항 — 쿠키·웹비콘·Google 제3자 쿠키 고지 + 광고 설정/쿠키 거부 링크(광고 설정, aboutads.info) 추가.
+  - `terms.html` 5항 — 광고 게재 기준(광고/AD 라벨링, 스폰서 표기, 제3자 책임, 허위·차별 광고 차단)과 Google 광고 정책 적용 명시.
+  - `adpolicy.html` 신규 — 광고 정책 페이지(허용·제한 광고 유형, 노동/법률 주제 특별 기준, 스폰서 원칙, 심의·신고 절차). 애드센스 가입 시 "광고 정책 URL"로 이 주소를 넣으면 됩니다.
+  - `ads.txt` — 승인 후 애드센스가 주는 `google.com, pub-…, DIRECT, …` 한 줄을 붙여 넣습니다(지금은 주석만).
+  - 푸터 전 페이지에 광고 고지 + 광고 설정·쿠키 설정 링크 + RSS 구독 + 광고 정책 링크(`tools/patch-footer.mjs`, 멱등).
+  - 지식 글 분량 보강 12편(`tools/enrich-thin.mjs` ~ `enrich-thin3.mjs`, 2026-10-21) — 평균 1,266자 → 1,545자, 합계 98,895자. 나머지 얇은 글은 `정확한 분량은 각 글의 본문 길이로 확인`.
+  - ⚠️ 애드센스 심사에서 통과를 현실적으로 기대하려면 **트래픽**이 결정적입니다. 도메인 2일 차 지금은 거부 확률이 높으니 검색 노출이 쌓인 뒤(2~4개월) 신청하는 편이 낫습니다.
+- **Vercel 백업 배포 주의** — `tools/deploy.mjs` 는 `VERCEL_TOKEN` 이 필요합니다. 현재 PC 의 Vercel CLI 토큰(`%APPDATA%\com.vercel.cli\Data\auth.json`)은 **만료/무효**(`invalidToken`)라 백업 재배포가 불가능합니다. 토큰을 주시면 `VERCEL_TOKEN=... node tools/deploy.mjs` 로 재배포해 백업본의 canonical 도 `nodong.seoulblue.com` 으로 맞춰야 합니다(지금은 백업본이 옛 canonical 을 그대로 serve).
+- **URL 형식 주의 (2026-10-20)** — Cloudflare Pages 는 `.html` 요청을 확장자 없는 URL 로 308 리다이렉트합니다. 그래서 canonical·OG·sitemap·feed 는 **모두 확장자 없는 URL**(`https://nodong.seoulblue.com/articles/severance-pay`)을 씁니다. `tools/gen-sitemap.mjs`·`tools/gen-feed.mjs`·`tools/seo-tags.mjs` 도 같은 규칙으로 URL 을 만들기 때문에 재생성해도 뒤집히지 않습니다. 네이버 소유확인 HTML 파일처럼 **정확히 `.html` 경로로 200 응답이 필요한 파일**은 Pages pretty URL 때문에 308 이 걸립니다 → 그럴 땐 meta 태그 방식 소유확인을 씁니다.
 - **토큰 채널(텔레그램·디스코드·블루스카이·페이스북 페이지) 미등록** — `tools/social.env` 에 토큰이 하나도 없어 자동 게시가 돌지 않습니다. 브라우저 자동 게시로 실제 게시가 검증된 경로(페이스북 페이지·블로거)는 2026-09-19 계정 정지 방지를 위해 **브라우저 조작을 중단**했습니다. 공식 API 경로(`social-post.mjs`)에 토큰을 넣으면 그쪽만 다시 자동으로 돕니다. 2026-09-18 실측: 블루스카이 가입 API 가 `Verification is now required on this server` 로 **전화번호 인증 필수**가 되어 자동 생성이 막혔습니다. 텔레그램(BotFather)·디스코드(서버·워크플로)도 같은 이유로 전화·이메일 인증이 필요합니다. 계정만 만들면 `채널설정.cmd` 로 3분에 붙습니다. 검사 도구는 "코드가 올바른 요청을 만드는가"를 확인하는 것이고, "계정에 실제로 올라가는가"(권한·한도)는 토큰을 넣어야 알 수 있습니다.
 - **스레드·인스타그램·X 자동 게시** — 하지 않습니다. 2026-09-19 계정 정지 계기로 `tools/social-draft.mjs` 로 초안만 뽑아 사람이 올리는 방식으로 고정했습니다. 공식 API 경로(인스타그램 Graph API 등)를 쓰려면 별도 승인 절차가 필요합니다.
 - **네이버 카페·블로그** — 글쓰기 API 가 없어 자동 게시 불가. 지금 브라우저에 네이버 로그인도 없습니다. 네이버 카페 자동 게시를 브라우저 자동 조작으로 붙이는 것은 위 원칙에 **어긋납니다** — 자동화가 필요하면 사람 직접 게시가 유일한 경로입니다.
@@ -373,7 +413,7 @@ powershell -ExecutionPolicy Bypass -File tools/install-task.ps1 -Remove         
 
 ### RSS 로 퍼뜨리기 (채널 없이도 됨)
 
-`https://fktu-nodong.vercel.app/feed.xml` — 지식 54편 + 소식 6건 = **60항목**. 2026-09-18 라이브 재검증(200 · `application/xml` · 69개 페이지 head 에 자동발견 링크). 글을 추가하면 `node tools/gen-feed.mjs` 로 갱신.
+`https://nodong.seoulblue.com/feed.xml` — 지식 54편 + 소식 6건 = **60항목**. 2026-09-18 라이브 재검증(200 · `application/xml` · 69개 페이지 head 에 자동발견 링크). 글을 추가하면 `node tools/gen-feed.mjs` 로 갱신.
 
 이 주소를 **Make(월 1,000회 무료) · IFTTT(앱릿 2개 무료) · Zapier(월 100회 무료)** 에 넣으면 RSS → 텔레그램·페이스북 자동 배포가 됩니다(설정 5분, 코딩 없음). X 로 보내려면 그 서비스도 X API 접근을 따로 사야 합니다. RSS 는 노동 뉴스 수집기·카페 자동 글봇도 그냥 가져가기 때문에 채널을 안 붙여도 퍼지는 통로입니다.
 

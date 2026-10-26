@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!-- 공유 카드(og:image) 원본 — 1200x630. 수정 후 아래 명령으로 다시 뜬다.
+     사용: chrome --headless=new --screenshot=og.png --window-size=1200,630 --hide-scrollbars file:///.../tools/brand-card.html -->
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{width:1200px;height:630px;font-family:"Malgun Gothic","맑은 고딕",sans-serif;background:#fff;color:#1a1a1a;overflow:hidden}
+    .top{height:18px;background:linear-gradient(90deg,#bb262d,#9c1d25)}
+    .wrap{display:flex;align-items:center;gap:64px;padding:78px 88px 0}
+    .mark{width:210px;height:210px;flex:none}
+    h1{font-size:74px;line-height:1.15;letter-spacing:-1px}
+    h1 span{color:#b91c1c}
+    .lead{margin-top:26px;font-size:31px;line-height:1.5;color:#555}
+    .foot{position:absolute;left:88px;bottom:56px;right:88px;display:flex;justify-content:space-between;align-items:baseline;font-size:25px;color:#888;border-top:1px solid #e5e5e5;padding-top:22px}
+    .foot b{color:#b91c1c;font-size:27px}
+  </style>
+</head>
+<body>
+  <div class="top"></div>
+  <div class="wrap">
+    <img class="mark" src="../logo.svg" alt="">
+    <div>
+      <h1>한국노총 <span>노동연대</span></h1>
+      <p class="lead">일하는 사람의 권리와 연대를 위해<br>소식 · 노동 지식 · 문의</p>
+    </div>
+  </div>
+  <div class="foot"><span>서울 영등포구 국제금융로6길 26 · 한국노총빌딩 9층</span><b>nodong.seoulblue.com</b></div>
+</body>
+</html>
